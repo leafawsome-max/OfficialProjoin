@@ -1,5 +1,8 @@
 {
   "shrinkTargetUrl": "https://shrinkearn.com/ref/LeafMan",
-  "pinterestRssUrl": "https://www.pinterest.com/cecilianain1393/feed.rss",
+  "pinterestRssUrls": [
+    "https://www.pinterest.com/cecilianain1393/feed.rss",
+    "https://www.pinterest.com/dusri_profile/feed.rss"
+  ],
   "rssApiKey": "lnkebvalopn4dqbp44trw4ytopy98uymhn1celaj"
 }
