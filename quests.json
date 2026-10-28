@@ -1,26 +1,26 @@
 [
   {
     "id": "quest_1",
-    "title": "Speed Tap Quest",
-    "description": "Complete 30 taps in the Tap Arena within 20 seconds!",
-    "duration": 20,
-    "reward": 15,
-    "icon": "fa-bolt"
+    "title": "Invite 5 Members Offer",
+    "description": "Apne referral link se 5 naye active members ko ProJoin app mein join karwayein.",
+    "requirement": "Apne Downline/Team section ka screenshot link ya details submit karein.",
+    "reward": 500,
+    "icon": "fa-users"
   },
   {
     "id": "quest_2",
-    "title": "Reels Marathon Quest",
-    "description": "Watch a promotional reel for 15 seconds without interruption.",
-    "duration": 15,
-    "reward": 20,
-    "icon": "fa-clapperboard"
+    "title": "Watch 50 Ads Offer",
+    "description": "Ek hi din mein 50 Image Ads dekhein aur offer reward hasil karein.",
+    "requirement": "Apne completed ads count ka screenshot link paste karein.",
+    "reward": 250,
+    "icon": "fa-images"
   },
   {
     "id": "quest_3",
-    "title": "Focus Endurance Quest",
-    "description": "Stay active on the dashboard and verify network sync within 30 seconds.",
-    "duration": 30,
-    "reward": 35,
-    "icon": "fa-shield-halved"
+    "title": "Social Media Share Offer",
+    "description": "ProJoin app ki promotional post apne WhatsApp Status ya Facebook par share karein.",
+    "requirement": "Shared post/status ka clear screenshot link upload karke yahan dein.",
+    "reward": 150,
+    "icon": "fa-share-nodes"
   }
 ]
