@@ -1,0 +1,26 @@
+[
+  {
+    "id": "quest_1",
+    "title": "Speed Tap Quest",
+    "description": "Complete 30 taps in the Tap Arena within 20 seconds!",
+    "duration": 20,
+    "reward": 15,
+    "icon": "fa-bolt"
+  },
+  {
+    "id": "quest_2",
+    "title": "Reels Marathon Quest",
+    "description": "Watch a promotional reel for 15 seconds without interruption.",
+    "duration": 15,
+    "reward": 20,
+    "icon": "fa-clapperboard"
+  },
+  {
+    "id": "quest_3",
+    "title": "Focus Endurance Quest",
+    "description": "Stay active on the dashboard and verify network sync within 30 seconds.",
+    "duration": 30,
+    "reward": 35,
+    "icon": "fa-shield-halved"
+  }
+]
