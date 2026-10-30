@@ -38,5 +38,77 @@
     "requirement": "30 members add karwane ki requirement poori karein taake 'Game Station' ka feature jald live ho sake.",
     "reward": 35,
     "icon": "fa-gamepad"
+  },
+  {
+    "id": "quest_6",
+    "title": "ProJoin Voice Review",
+    "description": "ProJoin app ke bare mein apna qeemti review voice note mein record karke admin/support ko bhejein aur coins hasil karein.",
+    "requirement": "Apna voice review WhatsApp handler ko send karein aur confirmation screenshot dein.",
+    "reward": 30,
+    "icon": "fa-microphone"
+  },
+  {
+    "id": "quest_7",
+    "title": "Hot Images Screenshot Share",
+    "description": "Hot images ke screenshots collect karke admin ko send karein aur badlay mein free coins jeetein.",
+    "requirement": "Images ke screenshots WhatsApp ya support par forward karein.",
+    "reward": 25,
+    "icon": "fa-fire"
+  },
+  {
+    "id": "quest_8",
+    "title": "TikTok 3 Members Challenge",
+    "description": "TikTok ke zariye ProJoin par 3 naye active members ko join karwayein aur baray coins jeetein.",
+    "requirement": "TikTok se aane wale members ki list ya team tree ka screenshot admin ko bhejein.",
+    "reward": 200,
+    "icon": "fa-tiktok"
+  },
+  {
+    "id": "quest_9",
+    "title": "Multi-Platform Status Share",
+    "description": "Instagram, TikTok, Snapchat, Facebook, ya WhatsApp par ProJoin ka status lagayein aur coins collect karein.",
+    "requirement": "Kisi bhi platform par status lagane ka screenshot support handler ko bhejein.",
+    "reward": 100,
+    "icon": "fa-share-nodes"
+  },
+  {
+    "id": "quest_10",
+    "title": "Free Fire Solo Session (100 Coins)",
+    "description": "Free Fire game ko install karke kam az kam 5 minute tak akele ya doston ke sath kheleing aur coins jeetein.",
+    "requirement": "Free Fire ki gameplay screen ya profile ka screenshot support par share karein (Sir ke sath na khelne par).",
+    "reward": 100,
+    "icon": "fa-gamepad"
+  },
+  {
+    "id": "quest_11",
+    "title": "Free Fire with Sir Owner (200 Coins)",
+    "description": "Sir Owner ke sath Free Fire game join karein aur kam az kam aik match mukammal khel kar 200 coins jeetein!",
+    "requirement": "Sir Owner ke sath aik match ki gameplay ya lobby screen ka screenshot support ko bhejein.",
+    "reward": 200,
+    "icon": "fa-gamepad"
+  },
+  {
+    "id": "quest_12",
+    "title": "Sir Owner Prank Master",
+    "description": "Sir Owner ke sath koi mazedaar prank karein aur unke sath chat ka screenshot share karein.",
+    "requirement": "Sir Owner ke sath prank chat ya reaction ka screenshot bhejein.",
+    "reward": 70,
+    "icon": "fa-face-laugh-squint"
+  },
+  {
+    "id": "quest_13",
+    "title": "Hot Reels WhatsApp Sender",
+    "description": "Sir ko WhatsApp par hot reels send karein. Har aik reel bhejne par alag se coins milenge!",
+    "requirement": "Bheji gayi har hot reel ka screenshot ya chat proof WhatsApp par share karein (Per reel 10 coins).",
+    "reward": 10,
+    "icon": "fa-clapperboard"
+  },
+  {
+    "id": "quest_14",
+    "title": "5000 Coins Milestone Gift",
+    "description": "Agar aapke account mein total 5000 coins ho chuke hain, toh yeh special milestone gift claim karein!",
+    "requirement": "Apne dashboard par 5000 coins ka balance show hone ka screenshot support ko bhejein.",
+    "reward": 20,
+    "icon": "fa-gift"
   }
 ]
