@@ -1,14 +1,6 @@
 [
   {
     "id": "quest_1",
-    "title": "Sir Owner",
-    "description": "Dear Member Mera WhatsApp Banned Hogaya Hai Jaab Unbanned Hoga Ajaonga WhatsApp Pr Online.",
-    "requirement": "Bas Dua Or Wait Kijye Jesy He WhatsApp Thek Hoga Msg Kardoga.",
-    "reward": 0,
-    "icon": "fa-calendar-check"
-  },
-  {
-    "id": "quest_2",
     "title": "Invite 3 Active Members",
     "description": "Apne referral link se 3 naye members ko join karwayein jo apna account verify karein.",
     "requirement": "Team tree section ka screenshot support handler ko bhejein.",
@@ -16,7 +8,7 @@
     "icon": "fa-users"
   },
   {
-    "id": "quest_3",
+    "id": "quest_2",
     "title": "Watch 30 Image Ads",
     "description": "Image Ads tab mein jakar aik din ke andar 30 ads mukammal dekhein.",
     "requirement": "Watched ads counter ka screenshot share karein.",
@@ -24,7 +16,7 @@
     "icon": "fa-images"
   },
   {
-    "id": "quest_4",
+    "id": "quest_3",
     "title": "Tap Tap Miner Milestone",
     "description": "Tap Tap Coin game mein aik din ke andar apne saare daily taps mukammal karein.",
     "requirement": "Tap tap counter ka screenshot proof ke taur par bhejein.",
@@ -32,23 +24,7 @@
     "icon": "fa-hand-pointer"
   },
   {
-    "id": "quest_5",
-    "title": "Card Battle Winner",
-    "description": "Card Luck Battle arena mein kam az kam 5 baar jeet hasil karein.",
-    "requirement": "Battle history ya winning screen ka screenshot submit karein.",
-    "reward": 40,
-    "icon": "fa-diamond"
-  },
-  {
-    "id": "quest_6",
-    "title": "Cloud Mining Starter",
-    "description": "Apna 2-day cloud mining rig shuru karein aur pehla session run karein.",
-    "requirement": "Active mining status ka screenshot WhatsApp support ko dein.",
-    "reward": 20,
-    "icon": "fa-microchip"
-  },
-  {
-    "id": "quest_7",
+    "id": "quest_4",
     "title": "Social Media Status Share",
     "description": "ProJoin app ki promotional image ya link apne WhatsApp status par lagayein.",
     "requirement": "Status ka screenshot 24 ghantay ke andar send karein.",
@@ -56,7 +32,7 @@
     "icon": "fa-whatsapp"
   },
   {
-    "id": "quest_8",
+    "id": "quest_5",
     "title": "Facebook Group Promotion",
     "description": "Kisi bhi bade online earning ya crypto Facebook group mein ProJoin share karein.",
     "requirement": "Post ka link ya screenshot proof ke tor par bhejein.",
@@ -64,7 +40,7 @@
     "icon": "fa-facebook"
   },
   {
-    "id": "quest_9",
+    "id": "quest_6",
     "title": "Complete All Daily Surveys",
     "description": "Task Center mein maujuda teeno daily surveys ko aik sath mukammal karein.",
     "requirement": "Completed surveys status ka screenshot share karein.",
@@ -72,31 +48,7 @@
     "icon": "fa-square-poll-vertical"
   },
   {
-    "id": "quest_10",
-    "title": "Shop Booster Buyer",
-    "description": "Pro Shop se 'Tap Tap Limit Booster' ya koi bhi item purchase karein.",
-    "requirement": "Shop purchase confirmation ya balance deduction ka screenshot bhejein.",
-    "reward": 50,
-    "icon": "fa-store"
-  },
-  {
-    "id": "quest_11",
-    "title": "First Withdrawal Milestone",
-    "description": "Apna pehla successful JazzCash ya EasyPaisa withdrawal request lagayein.",
-    "requirement": "Withdrawal history table ka screenshot support ko bhejein.",
-    "reward": 60,
-    "icon": "fa-gift"
-  },
-  {
-    "id": "quest_12",
-    "title": "Telegram Channel Joiner",
-    "description": "Hamara official Telegram channel ya updates group join karein.",
-    "requirement": "Channel mein join hone ka screenshot share karein.",
-    "reward": 10,
-    "icon": "fa-telegram"
-  },
-  {
-    "id": "quest_13",
+    "id": "quest_7",
     "title": "Reels Task Enthusiast",
     "description": "Reels Task tab mein jakar aik din ki limit (15 reels) mukammal dekhein.",
     "requirement": "Reels counter 15/15 ka screenshot submit karein.",
@@ -104,15 +56,7 @@
     "icon": "fa-clapperboard"
   },
   {
-    "id": "quest_14",
-    "title": "Level 2 Network Builder",
-    "description": "Apni downline mein Level 2 tak ke members ko active banayein.",
-    "requirement": "MLM Team tree ka overview screenshot bhejein.",
-    "reward": 75,
-    "icon": "fa-sitemap"
-  },
-  {
-    "id": "quest_15",
+    "id": "quest_8",
     "title": "Video Guide Feedback",
     "description": "Guide & Video Tutorials tab se dono tutorial videos mukammal watch karein.",
     "requirement": "Video player completion ka screenshot WhatsApp par bhejein.",
@@ -120,15 +64,7 @@
     "icon": "fa-circle-play"
   },
   {
-    "id": "quest_16",
-    "title": "7-Day Mystery Streak Master",
-    "description": "7-Day Claim tab se apne lagataar mystery boxes open karne ka streak maintain karein.",
-    "requirement": "Mystery claim section ka screenshot support ko send karein.",
-    "reward": 25,
-    "icon": "fa-box-open"
-  },
-  {
-    "id": "quest_17",
+    "id": "quest_9",
     "title": "Video Tutorials Watcher",
     "description": "App ke Guide section mein maujuda dono official tutorial videos mukammal dekhein.",
     "requirement": "Guide video player screen ka screenshot bhejein.",
@@ -136,7 +72,7 @@
     "icon": "fa-video"
   },
   {
-    "id": "quest_18",
+    "id": "quest_10",
     "title": "Active Chat Participant",
     "description": "Community chat ya support group mein active rahen aur sawal puchein.",
     "requirement": "Chat interaction ka screenshot submit karein.",
@@ -144,19 +80,11 @@
     "icon": "fa-comments"
   },
   {
-    "id": "quest_19",
+    "id": "quest_11",
     "title": "Feedback & Suggestion",
     "description": "App ko behtar banane ke liye admin ko apni qeemti raaye dein.",
     "requirement": "Admin ya WhatsApp handler ko bhege gaye message ka screenshot dein.",
     "reward": 20,
     "icon": "fa-lightbulb"
-  },
-  {
-    "id": "quest_20",
-    "title": "Weekend Bonus Target",
-    "description": "Haftay ke dinon mein apne tasks aur ads ka target poora karein.",
-    "requirement": "Dashboard stats ka screenshot share karein.",
-    "reward": 40,
-    "icon": "fa-star"
   }
 ]
