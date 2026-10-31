@@ -1,0 +1,22 @@
+[
+  {
+    "name": "City FM 89",
+    "country": "Pakistan",
+    "url": "https://stream.rcs.revma.com/g9484v54yquuv"
+  },
+  {
+    "name": "BBC World Service",
+    "country": "United Kingdom",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+  },
+  {
+    "name": "NRJ Hits Radio",
+    "country": "France",
+    "url": "https://radios.europelive.net/nrj_1003.mp3"
+  },
+  {
+    "name": "FM 100 Dubai",
+    "country": "UAE",
+    "url": "https://icecast.adtile.me/stream"
+  }
+]
