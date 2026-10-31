@@ -1,12 +1,142 @@
 [
   {
-    "name": "BBC World Service (News & Podcasts)",
-    "country": "United Kingdom",
-    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
-  },
-  {
     "name": "Capital FM Top 40 Hits",
     "country": "United Kingdom",
     "url": "https://media-ice.musicradio.com/CapitalMP3"
+  },
+  {
+    "name": "FM Jemz",
+    "country": "USA",
+    "url": "http://strm112.1.fm/jamz_mobile_mp3"
+  },
+  {
+    "name": "Flow 103",
+    "country": "Global",
+    "url": "https://streaming.live365.com/a40405"
+  },
+  {
+    "name": "Lust Loungh",
+    "country": "Global",
+    "url": "https://streaming.live365.com/a28541"
+  },
+  {
+    "name": "Sensual Seduction",
+    "country": "Global",
+    "url": "https://streaming.live365.com/a30031"
+  },
+  {
+    "name": "FM 101 Islamabad",
+    "country": "Pakistan",
+    "url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12"
+  },
+  {
+    "name": "Hum FM 106",
+    "country": "Pakistan",
+    "url": "https://server.mediacast4u.stream/8002/stream"
+  },
+  {
+    "name": "Ary News",
+    "country": "Pakistan",
+    "url": "https://arynewsm.aryzap.com/v1/0183ef4f7c260b8ed5941a38bc84/0183ef4fadde0b8ed5941a38bc87/newsaudio_audio_newsAudio.m3u8?isSubM3u8=1"
+  },
+  {
+    "name": "FM Multan",
+    "country": "Pakistan",
+    "url": "https://whmsonic.radio.gov.pk:8032/stream?type=http&nocache=12"
+  },
+  {
+    "name": "Suno Multan",
+    "country": "Pakistan",
+    "url": "https://stream.sunofmradio.com:8443/MultanStudio"
+  },
+  {
+    "name": "Islamabad Station",
+    "country": "Pakistan",
+    "url": "https://whmsonic.radio.gov.pk:7003/stream"
+  },
+  {
+    "name": "Mera FM",
+    "country": "Pakistan",
+    "url": "https://samaakhi107-itelservices.radioca.st/stream"
+  },
+  {
+    "name": "Dunya News",
+    "country": "Pakistan",
+    "url": "https://imob.dunyanews.tv/live/rddaudrgn.sdp/chunklist_w1442959331.m3u8"
+  },
+  {
+    "name": "Karachi",
+    "country": "Pakistan",
+    "url": "https://whmsonic.radio.gov.pk:8048/stream"
+  },
+  {
+    "name": "Pak Filmi",
+    "country": "Pakistan",
+    "url": "https://stream.streamgenial.stream/qfx17k977f8uv"
+  },
+  {
+    "name": "100 Pakistan",
+    "country": "Pakistan",
+    "url": "https://cast4.servcast.net/proxy/fm100islamabad/stream"
+  },
+  {
+    "name": "People Points",
+    "country": "Global",
+    "url": "https://stream.zeno.fm/roir2zmyiewvv"
+  },
+  {
+    "name": "All For Masti",
+    "country": "Pakistan",
+    "url": "https://stream.zeno.fm/bahhkuge5zhvv"
+  },
+  {
+    "name": "ProJoin Room",
+    "country": "Pakistan",
+    "url": "https://radio.pakistaniroom.com/listen/pakistaniroom/radio.mp3"
+  },
+  {
+    "name": "TikTok Hits",
+    "country": "Global",
+    "url": "https://tiktokhits.funstream.net/listen/tiktokhits/radio.aac"
+  },
+  {
+    "name": "101 HipHop",
+    "country": "USA",
+    "url": "http://192.99.41.102:5429/;"
+  },
+  {
+    "name": "Hot 97",
+    "country": "USA",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC_SC"
+  },
+  {
+    "name": "Boom Station",
+    "country": "Global",
+    "url": "http://192.99.8.192:3630/stream"
+  },
+  {
+    "name": "Capital Ultray",
+    "country": "United Kingdom",
+    "url": "https://media-ssl.musicradio.com/CapitalXTRALondon"
+  },
+  {
+    "name": "Urban Music",
+    "country": "Global",
+    "url": "http://hydra.cdnstream.com/1536_128?aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1712831889&aw_0_req.gdpr=true&listenerId=0185cb5acd93be74d08c43198c0bede5"
+  },
+  {
+    "name": "Power ProJoin",
+    "country": "USA",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRAAC_SC?dist=triton-web&pname=StandardPlayerV4"
+  },
+  {
+    "name": "US Songs",
+    "country": "USA",
+    "url": "https://stream.bigfm.de/ushiphop/mp3-128/mytuner"
+  },
+  {
+    "name": "Hits Of Bollywood",
+    "country": "India",
+    "url": "https://stream.zeno.fm/a2gyqzwpwfeuv"
   }
 ]
