@@ -40,16 +40,6 @@
     "url": "https://arynewsm.aryzap.com/v1/0183ef4f7c260b8ed5941a38bc84/0183ef4fadde0b8ed5941a38bc87/newsaudio_audio_newsAudio.m3u8?isSubM3u8=1"
   },
   {
-    "name": "FM Multan",
-    "country": "Pakistan",
-    "url": "https://whmsonic.radio.gov.pk:8032/stream?type=http&nocache=12"
-  },
-  {
-    "name": "Suno Multan",
-    "country": "Pakistan",
-    "url": "https://stream.sunofmradio.com:8443/MultanStudio"
-  },
-  {
     "name": "Islamabad Station",
     "country": "Pakistan",
     "url": "https://whmsonic.radio.gov.pk:7003/stream"
@@ -60,24 +50,9 @@
     "url": "https://samaakhi107-itelservices.radioca.st/stream"
   },
   {
-    "name": "Dunya News",
-    "country": "Pakistan",
-    "url": "https://imob.dunyanews.tv/live/rddaudrgn.sdp/chunklist_w1442959331.m3u8"
-  },
-  {
     "name": "Karachi",
     "country": "Pakistan",
     "url": "https://whmsonic.radio.gov.pk:8048/stream"
-  },
-  {
-    "name": "Pak Filmi",
-    "country": "Pakistan",
-    "url": "https://stream.streamgenial.stream/qfx17k977f8uv"
-  },
-  {
-    "name": "100 Pakistan",
-    "country": "Pakistan",
-    "url": "https://cast4.servcast.net/proxy/fm100islamabad/stream"
   },
   {
     "name": "People Points",
