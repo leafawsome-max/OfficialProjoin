@@ -1,7 +1,7 @@
 {
-  "version": "v2.35",
+  "version": "v2.36",
   "status": "Latest Version (New)",
   "isOld": false,
-  "releaseDate": "29 October 2026",
+  "releaseDate": "31 October 2026",
   "updateNotes": "Added new Reels task center, OTP handler support, and optimized database storage."
 }
