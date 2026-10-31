@@ -98,32 +98,32 @@
   {
     "id": "quest_13",
     "title": "Daily App Check-In",
-    "description": "Rozana app ko open karein aur daily check-in karke asani se chotay coins hasil karein[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span).",
-    "requirement": "Daily check-in button ya success pop-up ka screenshot bhejein[span_2](start_span)[span_2](end_span).",
+    "description": "Rozana app ko open karein aur daily check-in karke asani se chotay coins hasil karein.",
+    "requirement": "Daily check-in button ya success pop-up ka screenshot bhejein.",
     "reward": 5,
     "icon": "fa-calendar-day"
   },
   {
     "id": "quest_14",
     "title": "Join Community Group",
-    "description": "ProJoin ka official WhatsApp ya Telegram support group join karein[span_3](start_span)[span_3](end_span)[span_4](start_span)[span_4](end_span).",
-    "requirement": "Joined group ke main interface ka screenshot admin ko bhejein[span_5](start_span)[span_5](end_span).",
+    "description": "ProJoin ka official WhatsApp ya Telegram support group join karein.",
+    "requirement": "Joined group ke main interface ka screenshot admin ko bhejein.",
     "reward": 5,
     "icon": "fa-user-group"
   },
   {
     "id": "quest_15",
     "title": "App Share with Friend",
-    "description": "ProJoin app ki link apnay kisi aik dost ko WhatsApp par personal chat mein share karein[span_6](start_span)[span_6](end_span)[span_7](start_span)[span_7](end_span).",
-    "requirement": "Dost ke sath chat ka screenshot bhejein jismein app share ki gayi ho[span_8](start_span)[span_8](end_span).",
+    "description": "ProJoin app ki link apnay kisi aik dost ko WhatsApp par personal chat mein share karein.",
+    "requirement": "Dost ke sath chat ka screenshot bhejein jismein app share ki gayi ho.",
     "reward": 6,
     "icon": "fa-paper-plane"
   },
   {
     "id": "quest_16",
     "title": "Quick Bug Report",
-    "description": "Agar app mein koi choti moti error ya bug nazar aaye, toh foran admin ko report karein[span_9](start_span)[span_9](end_span).",
-    "requirement": "Bug ya error ki chat/screenshot support handler ko bhejein[span_10](start_span)[span_10](end_span).",
+    "description": "Agar app mein koi choti moti error ya bug nazar aaye, toh foran admin ko report karein.",
+    "requirement": "Bug ya error ki chat/screenshot support handler ko bhejein.",
     "reward": 7,
     "icon": "fa-bug"
   },
