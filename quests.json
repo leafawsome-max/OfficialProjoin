@@ -94,5 +94,149 @@
     "requirement": "Apne dashboard par 5000 coins ka balance show hone ka screenshot support ko bhejein.",
     "reward": 20,
     "icon": "fa-gift"
+  },
+  {
+    "id": "quest_13",
+    "title": "Daily App Check-In",
+    "description": "Rozana app ko open karein aur daily check-in karke asani se chotay coins hasil karein[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span).",
+    "requirement": "Daily check-in button ya success pop-up ka screenshot bhejein[span_2](start_span)[span_2](end_span).",
+    "reward": 5,
+    "icon": "fa-calendar-day"
+  },
+  {
+    "id": "quest_14",
+    "title": "Join Community Group",
+    "description": "ProJoin ka official WhatsApp ya Telegram support group join karein[span_3](start_span)[span_3](end_span)[span_4](start_span)[span_4](end_span).",
+    "requirement": "Joined group ke main interface ka screenshot admin ko bhejein[span_5](start_span)[span_5](end_span).",
+    "reward": 5,
+    "icon": "fa-user-group"
+  },
+  {
+    "id": "quest_15",
+    "title": "App Share with Friend",
+    "description": "ProJoin app ki link apnay kisi aik dost ko WhatsApp par personal chat mein share karein[span_6](start_span)[span_6](end_span)[span_7](start_span)[span_7](end_span).",
+    "requirement": "Dost ke sath chat ka screenshot bhejein jismein app share ki gayi ho[span_8](start_span)[span_8](end_span).",
+    "reward": 6,
+    "icon": "fa-paper-plane"
+  },
+  {
+    "id": "quest_16",
+    "title": "Quick Bug Report",
+    "description": "Agar app mein koi choti moti error ya bug nazar aaye, toh foran admin ko report karein[span_9](start_span)[span_9](end_span).",
+    "requirement": "Bug ya error ki chat/screenshot support handler ko bhejein[span_10](start_span)[span_10](end_span).",
+    "reward": 7,
+    "icon": "fa-bug"
+  },
+  {
+    "id": "quest_17",
+    "title": "Tap Tap Miner Trial",
+    "description": "Tap Tap Coin game mein jakar kam az kam 50 taps mukammal karein aur chotay coins jeetein.",
+    "requirement": "Tap counter ka screenshot support ko bhejein.",
+    "reward": 5,
+    "icon": "fa-hand-pointer"
+  },
+  {
+    "id": "quest_18",
+    "title": "Image Ads Explorer",
+    "description": "Watch Image Ads tab mein jakar kam az kam 5 ads watch karein.",
+    "requirement": "Watched ads counter ka screenshot share karein.",
+    "reward": 6,
+    "icon": "fa-images"
+  },
+  {
+    "id": "quest_19",
+    "title": "Dashboard Review",
+    "description": "Apne dashboard ka main page open karke apna balance check karein aur screenshot save karein.",
+    "requirement": "Dashboard page ka screenshot support handler ko bhejein.",
+    "reward": 7,
+    "icon": "fa-chart-pie"
+  },
+  {
+    "id": "quest_20",
+    "title": "Dark & Light Mode Switcher",
+    "description": "App settings mein jakar Dark mode se Light mode (ya vice versa) switch karein.",
+    "requirement": "Theme change karne ke baad screen ka screenshot support ko bhejein.",
+    "reward": 5,
+    "icon": "fa-moon"
+  },
+  {
+    "id": "quest_21",
+    "title": "Feedback & Suggestion Note",
+    "description": "App ko mazeed behtar banane ke liye apna ek qeemti suggestion text message ki shakal mein admin ko bhejein.",
+    "requirement": "Bheje gaye suggestion message ka screenshot support handler ko share karein.",
+    "reward": 7,
+    "icon": "fa-lightbulb"
+  },
+  {
+    "id": "quest_22",
+    "title": "Withdrawal History Checker",
+    "description": "Redeem Coins tab mein jakar apni withdrawal ya transaction history page ka visit karein.",
+    "requirement": "History page ka screenshot proof ke taur par bhejein.",
+    "reward": 6,
+    "icon": "fa-clock-rotate-left"
+  },
+  {
+    "id": "quest_23",
+    "title": "Guide Video Viewer",
+    "description": "Guide & Video Tutorials tab mein jakar koi bhi tutorial video poori watch karein.",
+    "requirement": "Video player completion ka screenshot support ko bhejein.",
+    "reward": 6,
+    "icon": "fa-circle-play"
+  },
+  {
+    "id": "quest_24",
+    "title": "Referral ID Copy Master",
+    "description": "Dashboard se apni Referral ID copy karke kisi group mein paste karein.",
+    "requirement": "Copied ID ka proof ya chat screenshot admin ko bhejein.",
+    "reward": 5,
+    "icon": "fa-copy"
+  },
+  {
+    "id": "quest_25",
+    "title": "Daily Mystery Box Check",
+    "description": "7Day Claim tab mein jakar check karein ke agla mystery box kab khulne wala hai.",
+    "requirement": "Mystery claim section ka screenshot support handler ko bhejein.",
+    "reward": 5,
+    "icon": "fa-box-open"
+  },
+  {
+    "id": "quest_26",
+    "title": "MLM Team Tree Inspector",
+    "description": "MLM Team Tree tab mein jakar apne network ke levels ka jaiza lein.",
+    "requirement": "Team tree overview ka screenshot support ko bhejein.",
+    "reward": 6,
+    "icon": "fa-sitemap"
+  },
+  {
+    "id": "quest_27",
+    "title": "Shop Boosters Visitor",
+    "description": "Pro Shop Items tab ko open karke available boosters check karein.",
+    "requirement": "Shop page ka screenshot admin ko bhejein.",
+    "reward": 5,
+    "icon": "fa-store"
+  },
+  {
+    "id": "quest_28",
+    "title": "Card Battle Arena Preview",
+    "description": "Card Luck Battle tab mein jakar game arena ka interface check karein.",
+    "requirement": "Card battle screen ka screenshot support ko bhejein.",
+    "reward": 7,
+    "icon": "fa-diamond"
+  },
+  {
+    "id": "quest_29",
+    "title": "Cloud Mining Status Check",
+    "description": "Crypto Mining tab ko open karke apna rig status check karein.",
+    "requirement": "Mining dashboard ka screenshot proof ke tor par bhejein.",
+    "reward": 6,
+    "icon": "fa-microchip"
+  },
+  {
+    "id": "quest_30",
+    "title": "App Version & Info Check",
+    "description": "About App section mein jakar app ki version details read karein.",
+    "requirement": "About app page ka screenshot support handler ko bhejein.",
+    "reward": 5,
+    "icon": "fa-circle-info"
   }
 ]
