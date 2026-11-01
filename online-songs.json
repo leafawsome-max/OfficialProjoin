@@ -25,49 +25,9 @@
     "url": "https://streaming.live365.com/a30031"
   },
   {
-    "name": "FM 101 Islamabad",
-    "country": "Pakistan",
-    "url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12"
-  },
-  {
-    "name": "Hum FM 106",
-    "country": "Pakistan",
-    "url": "https://server.mediacast4u.stream/8002/stream"
-  },
-  {
-    "name": "Ary News",
-    "country": "Pakistan",
-    "url": "https://arynewsm.aryzap.com/v1/0183ef4f7c260b8ed5941a38bc84/0183ef4fadde0b8ed5941a38bc87/newsaudio_audio_newsAudio.m3u8?isSubM3u8=1"
-  },
-  {
-    "name": "Islamabad Station",
-    "country": "Pakistan",
-    "url": "https://whmsonic.radio.gov.pk:7003/stream"
-  },
-  {
-    "name": "Mera FM",
-    "country": "Pakistan",
-    "url": "https://samaakhi107-itelservices.radioca.st/stream"
-  },
-  {
-    "name": "Karachi",
-    "country": "Pakistan",
-    "url": "https://whmsonic.radio.gov.pk:8048/stream"
-  },
-  {
     "name": "People Points",
     "country": "Global",
     "url": "https://stream.zeno.fm/roir2zmyiewvv"
-  },
-  {
-    "name": "All For Masti",
-    "country": "Pakistan",
-    "url": "https://stream.zeno.fm/bahhkuge5zhvv"
-  },
-  {
-    "name": "ProJoin Room",
-    "country": "Pakistan",
-    "url": "https://radio.pakistaniroom.com/listen/pakistaniroom/radio.mp3"
   },
   {
     "name": "TikTok Hits",
@@ -108,10 +68,5 @@
     "name": "US Songs",
     "country": "USA",
     "url": "https://stream.bigfm.de/ushiphop/mp3-128/mytuner"
-  },
-  {
-    "name": "Hits Of Bollywood",
-    "country": "India",
-    "url": "https://stream.zeno.fm/a2gyqzwpwfeuv"
   }
 ]
