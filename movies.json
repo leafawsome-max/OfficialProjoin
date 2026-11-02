@@ -1,16 +1,51 @@
 [
   {
-    "name": "Sample Action Movie",
+    "name": "All That We Never Were",
     "year": "2026",
-    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=500&q=80",
-    "downloadUrl": "https://example.com/download-movie-1",
-    "coins": 20
+    "coins": 50,
+    "downloadUrl": "https://gplinks.co/3OiqJT6U",
+    "image": "https://image.tmdb.org/t/p/w400/zqxIT48mWFsC4NSjGEHAcp1pjEo.jpg"
   },
   {
-    "name": "Sci-Fi Epic Adventure",
-    "year": "2025",
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=500&q=80",
-    "downloadUrl": "https://example.com/download-movie-2",
-    "coins": 30
+    "name": "Ghost in the Cell",
+    "year": "2026",
+    "coins": 50,
+    "downloadUrl": "https://gplinks.co/nR3jhNJ",
+    "image": "https://image.tmdb.org/t/p/w500/zVXrnpocZdHTavll0e4Z1F8zVZm.jpg"
+  },
+  {
+    "name": "Moana",
+    "year": "2026",
+    "coins": 50,
+    "downloadUrl": "https://gplinks.co/Ge5Dj8",
+    "image": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
+  },
+  {
+    "name": "Colony",
+    "year": "2026",
+    "coins": 50,
+    "downloadUrl": "https://gplinks.co/3n7IzP1",
+    "image": "https://image.tmdb.org/t/p/w500/wC69brhk65GvrgNQdqLRUqtneUH.jpg"
+  },
+  {
+    "name": "Blue",
+    "year": "2026",
+    "coins": 50,
+    "downloadUrl": "https://gplinks.co/WgBLy",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTExMDdkNDktOWJmZC00YjIwLWI5N2UtNTZiN2FlYTcyM2IyXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Love of Your Life",
+    "year": "2026",
+    "coins": 50,
+    "downloadUrl": "https://gplinks.co/m9TBL",
+    "image": "https://image.tmdb.org/t/p/w400/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg"
+  },
+  {
+    "name": "ZipWare",
+    "year": "2026",
+    "coins": 50,
+    "downloadUrl": "https://gplinks.co/wls9JH",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzhlMDIyYTQtZjFlMi00MDgwLWI5MTQtYzY2NjE2YmRkZDBlXkEyXkFqcGc@._V1_.jpg"
   }
 ]
