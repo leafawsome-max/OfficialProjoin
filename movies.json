@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sample Action Movie",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=500&q=80",
+    "downloadUrl": "https://example.com/download-movie-1",
+    "coins": 20
+  },
+  {
+    "name": "Sci-Fi Epic Adventure",
+    "year": "2025",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=500&q=80",
+    "downloadUrl": "https://example.com/download-movie-2",
+    "coins": 30
+  }
+]
