@@ -1,0 +1,1082 @@
+[
+  {
+    "question": "Pakistan ka darul-hukumat (Capital) konsa shehar hai?",
+    "options": ["Lahore", "Islamabad", "Karachi", "Faisalabad"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Computer ka dimag (Brain) kisay kaha jata hai?",
+    "options": ["Monitor", "Keyboard", "CPU", "Hard Disk"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Internet par web pages ko design aur style karne ke liye konsi language istemal hoti hai?",
+    "options": ["Python", "CSS", "C++", "Java"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka qومي (National) khel konsa hai?",
+    "options": ["Cricket", "Hockey", "Football", "Squash"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Zameen ka sab se bara samandar (Ocean) konsa hai?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Firebase database kis company ki platform service hai?",
+    "options": ["Microsoft", "Google", "Apple", "Amazon"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quran-e-Pak mein kul kitni Surah hain?",
+    "options": ["114", "110", "120", "99"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pehli wahi kis pahad par nazil hui thi?",
+    "options": ["Koh-e-Sina", "Ghar-e-Hira (Jabal an-Nour)", "Koh-e-Uhad", "Jabal al-Soor"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan kis saal aazad hua tha?",
+    "options": ["1945", "1946", "1947", "1948"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Kahin aag lagne par foran kis number par call ki jati hai?",
+    "options": ["15", "16", "1122", "115"],
+    "correctIndex": 2
+  },
+  {
+    "question": "World Wide Web (WWW) ka bani (inventor) kon hai?",
+    "options": ["Bill Gates", "Tim Berners-Lee", "Steve Jobs", "Mark Zuckerberg"],
+    "correctIndex": 1
+  },
+  {
+    "question": "JavaScript kis tarah ki programming language hai?",
+    "options": ["Client-side scripting", "Hardware language", "Database query", "Operating system"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Insani jism mein khoon saaf karne wala azeem organ konsa hai?",
+    "options": ["Dil (Heart)", "Gurday (Kidneys)", "Pehre (Lungs)", "Medah (Stomach)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dunya ka sab se bara qarah (Continent) konsa hai?",
+    "options": ["Africa", "Asia", "Europe", "Australia"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka sab se bara shehar aabadi ke lihaz se konsa hai?",
+    "options": ["Lahore", "Faisalabad", "Karachi", "Rawalpindi"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Taj Mahal kis shehar aur mulk mein waqia hai?",
+    "options": ["Agra, India", "Lahore, Pakistan", "Istanbul, Turkey", "Cairo, Egypt"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Mobile ki screen par touch detect karne wali technology ko kya kehte hain?",
+    "options": ["Graphics", "Sensor", "Touchscreen", "Processor"],
+    "correctIndex": 2
+  },
+  {
+    "question": "GitHub ka istemal kis maqsad ke liye hota hai?",
+    "options": ["Video Editing", "Version Control & Code Hosting", "Chatting", "Online Gaming"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Suraj kis simt se nikalta hai?",
+    "options": ["Maghrib (West)", "Mashriq (East)", "Shumal (North)", "Janoob (South)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hawa mein sab se ziyada konsi gas pai jati hai?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Pakistan ka qومي phool konsa hai?",
+    "options": ["Gulab (Rose)", "Chambeli (Jasmine)", "Surajmukhi", "Motia"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Paani ka chemical formula kya hota hai?",
+    "options": ["CO2", "H2O", "NaCl", "O2"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dunya ka sab se lamba darya (River) konsa hai?",
+    "options": ["River Amazon", "River Nile", "River Indus", "River Mississippi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka sab se uncha pahar konsa hai?",
+    "options": ["Nanga Parbat", "K2", "Tirich Mir", "Rakaposhi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cricket ka pehla World Cup kis mulk ne jeeta tha?",
+    "options": ["Australia", "England", "West Indies", "India"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Computer ki memory jo volatile hoti hai, use kya kehte hain?",
+    "options": ["ROM", "RAM", "Hard Drive", "Flash Memory"],
+    "correctIndex": 1
+  },
+  {
+    "question": "HTML ka full form kya hai?",
+    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Hyper Transfer Machine Language", "Home Tool Markup Language"],
+    "correctIndex": 0
+  },
+  {
+    "question": "CSS ka istemal kis liye hota hai?",
+    "options": ["Database manage karne ke liye", "Web styling aur layout ke liye", "Server run karne ke liye", "Video render karne ke liye"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka qومي janwar konsa hai?",
+    "options": ["Sher (Lion)", "Markhor", "Cheeta", "Bhalu"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Islam ke pehle Khalifa kon thay?",
+    "options": ["Hazrat Umar (R.A)", "Hazrat Usman (R.A)", "Hazrat Abu Bakr Siddique (R.A)", "Hazrat Ali (R.A)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Makkah mein kis masjid mein Khana-e-Kaba maujood hai?",
+    "options": ["Masjid-e-Nabwi", "Masjid-ul-Haram", "Masjid-e-Aqsa", "Masjid-e-Quba"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hafiz-e-Quran unhe kaha jata hai jo:",
+    "options": ["Quran padhna jante hain", "Poora Quran zubani yad rakhte hain", "Quran likhte hain", "Quran ka tarjuma karte hain"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ki sab se pehli khawateen Prime Minister kon thin?",
+    "options": ["Fatima Jinnah", "Benazir Bhutto", "Hina Rabbani Khar", "Maryam Nawaz"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ek kilometer mein kitne meters hote hain?",
+    "options": ["100 meters", "500 meters", "1000 meters", "10000 meters"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dunya ka sab se chota mulk (Country) aabadi ke lihaz se konsa hai?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Facebook ke bani (founder) kon hain?",
+    "options": ["Bill Gates", "Elon Musk", "Mark Zuckerberg", "Jeff Bezos"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tesla aur SpaceX company ke malik kon hain?",
+    "options": ["Steve Jobs", "Elon Musk", "Sundar Pichai", "Tim Cook"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Microsoft company ki bunyad kisne rakhi thi?",
+    "options": ["Bill Gates aur Paul Allen", "Mark Zuckerberg", "Steve Jobs", "Larry Page"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Google search engine kis saal shuru kiya gaya tha?",
+    "options": ["1995", "1998", "2001", "2004"],
+    "correctIndex": 1
+  },
+  {
+    "question": "WhatsApp kis badi company ki malkiat hai?",
+    "options": ["Google", "Microsoft", "Meta", "Apple"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Insani dil (Heart) aik din mein kitni baar dhadkta hai?",
+    "options": ["10,000 baar", "50,000 baar", "100,000 baar", "500,000 baar"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dunya ka sab se bara khushki ka janwar (Land Animal) konsa hai?",
+    "options": ["Giraffe", "African Elephant", "Blue Whale", "Hippo"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Shahed (Honey) kahan se hasil hota hai?",
+    "options": ["Phoolon se makkhiyan banati hain", "Darakhton ke tano se", "Paharon se", "Zameen ke andar se"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka national parinda (Bird) konsa hai?",
+    "options": ["Shaheen", "Chakor", "Tota", "Kabootar"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka national libas konsa hai?",
+    "options": ["Pant Shirt", "Shalwar Kameez", "Sherwani", "Kurta Pajama"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lal rang kis cheez ki alamat (symbol) samjha jata hai?",
+    "options": ["Aman (Peace)", "Khatra ya Mohabbat (Danger/Love)", "Udaasi", "Khushi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Aik ghante mein kitne seconds hote hain?",
+    "options": ["60 seconds", "3600 seconds", "600 seconds", "86400 seconds"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Leap year mein February ka mahina kitne din ka hota hai?",
+    "options": ["28 din", "29 din", "30 din", "31 din"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Solar system ka sab se bara planet konsa hai?",
+    "options": ["Zohal (Saturn)", "Mushtari (Jupiter)", "Zohra (Venus)", "Mars"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Suraj ke sab se qareeb planet konsa hai?",
+    "options": ["Mercury (Utarid)", "Venus (Zohra)", "Earth", "Mars (Mirikh)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Red Planet ke naam se kis planet ko jana jata hai?",
+    "options": ["Jupiter", "Mars", "Saturn", "Neptune"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka qومي tarana (National Anthem) kisne likha tha?",
+    "options": ["Allama Iqbal", "Hafeez Jalandhari", "Faiz Ahmed Faiz", "Ahmed Nadeem Qasmi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ke pehle Governor General kon thay?",
+    "options": ["Liaquat Ali Khan", "Allama Iqbal", "Quaid-e-Azam Muhammad Ali Jinnah", "Ayub Khan"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Pakistan ka qومي parcham (Flag) kisne design kiya tha?",
+    "options": ["Amir-ud-Din Kedwaii", "Chaudhry Rahmat Ali", "Liaquat Ali Khan", "Sir Syed Ahmed Khan"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se bara industrial shehar konsa hai?",
+    "options": ["Lahore", "Faisalabad", "Karachi", "Sialkot"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sialkot shehar dunya bhar mein kis cheez ki tayari ke liye mashhoor hai?",
+    "options": ["Kapre", "Sports goods & Footballs", "Mobile phones", "Cars"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Khyber Pass Pakistan ke kis soobay mein hai?",
+    "options": ["Punjab", "Sindh", "Balochistan", "Khyber Pakhtunkhwa (KPK)"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Badshahi Masjid kis shehar mein hai?",
+    "options": ["Islamabad", "Lahore", "Multan", "Peshawar"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Faisal Mosque kis shehar mein waqia hai?",
+    "options": ["Rawalpindi", "Islamabad", "Karachi", "Quetta"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Minar-e-Pakistan kis park mein banaya gaya hai?",
+    "options": ["Iqbal Park (Greater Iqbal Park)", "Shalimar Bagh", "Race Course Park", "Model Town Park"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka qومي shair (National Poet) kise kaha jata hai?",
+    "options": ["Mirza Ghalib", "Allama Muhammad Iqbal", "Faiz Ahmed Faiz", "Allama Iqbal ke ilawa koi nahi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tehreek-e-Pakistan ke silsilay mein 'Chaudhry Rahmat Ali' ne Pakistan ka naam kab tajweez kiya tha?",
+    "options": ["1930", "1933", "1940", "1947"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Qarardad-e-Pakistan kab pass ki gayi thi?",
+    "options": ["23 March 1940", "14 August 1947", "25 December 1876", "11 September 1948"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan mein har saal 'Defense Day' (Youm-e-Difa) kis tarikh ko manaya jata hai?",
+    "options": ["6 September", "23 March", "14 August", "25 December"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se lamba darya konsa hai?",
+    "options": ["Darya-e-Ravi", "Darya-e-Sutlej", "Darya-e-Indus (Sindh)", "Darya-e-Chenab"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Mangla Dam kis darya par banaya gaya hai?",
+    "options": ["Darya-e-Jhelum", "Darya-e-Indus", "Darya-e-Chenab", "Darya-e-Kabul"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tarbela Dam kis darya par banaya gaya hai?",
+    "options": ["Darya-e-Jhelum", "Darya-e-Indus", "Darya-e-Ravi", "Darya-e-Sutlej"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gwadar Port Pakistan ke kis soobay mein hai?",
+    "options": ["Sindh", "Balochistan", "Punjab", "KPK"],
+    "correctIndex": 1
+  },
+  {
+    "question": "K2 pahad ki bulandi (height) kitni hai?",
+    "options": ["8848 meters", "8611 meters", "8125 meters", "7890 meters"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dunya ki sab se unchi choti (Mount Everest) kis mountain range mein hai?",
+    "options": ["Karakoram", "Himalayas", "Hindukush", "Pamir"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Islam ke 5 buniyadi rukan (Pillars) mein sab se pehla rukan konsa hai?",
+    "options": ["Namaz", "Roza", "Shahadah (Kalma)", "Hajj"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ramzan ul Mubarak Islamic calendar ka konsa mahina hai?",
+    "options": ["7th", "8th", "9th", "10th"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Shab-e-Qadr kis mahine ki raton mein talash ki jati hai?",
+    "options": ["Rajab", "Shaban", "Ramzan (akhri ashray ki taq raton mein)", "Muharram"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Hazrat Muhammad (PBUH) kis shehar mein paida hue thay?",
+    "options": ["Madina", "Makkah", "Taif", "Jerusalem"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hijrat-e-Madina ke waqt Aap (PBUH) ke sath ghar mein kon thay?",
+    "options": ["Hazrat Uthman (R.A)", "Hazrat Abu Bakr Siddique (R.A)", "Hazrat Ali (R.A)", "Hazrat Umar (R.A)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jang-e-Uhad kis saal lari gayi thi?",
+    "options": ["2 Hijri", "3 Hijri", "5 Hijri", "8 Hijri"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jang-e-Badr mein musalmanon ki tadad kitni thi?",
+    "options": ["313", "1000", "500", "700"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quran-e-Pak ki sab se lambi Surah konsi hai?",
+    "options": ["Surah Al-Fatiha", "Surah Al-Baqarah", "Surah Yaseen", "Surah Al-Rahman"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quran-e-Pak ki kis Surah ko 'Qalb-e-Quran' (Heart of Quran) kaha jata hai?",
+    "options": ["Surah Mulk", "Surah Yaseen", "Surah Al-Waqiah", "Surah Al-Kahf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kis Surah mein Bismillah do baar aati hai?",
+    "options": ["Surah Taubah", "Surah An-Naml", "Surah Yaseen", "Surah Al-Rahman"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hazrat Adam (A.S) ke baad dunya ke pehle Nabi kon thay?",
+    "options": ["Hazrat Nuh (A.S)", "Hazrat Ibrahim (A.S)", "Hazrat Idris (A.S)", "Hazrat Musa (A.S)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Aag kis Nabi par thandi aur salamti ban gayi thi?",
+    "options": ["Hazrat Musa (A.S)", "Hazrat Ibrahim (A.S)", "Hazrat Isa (A.S)", "Hazrat Yusuf (A.S)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kushti mein kis Nabi ka zikr aata hai jo machli ke pait mein rahe thay?",
+    "options": ["Hazrat Yunus (A.S)", "Hazrat Ayub (A.S)", "Hazrat Sulaiman (A.S)", "Hazrat Yahya (A.S)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Computer ka wo hissa jise aap chu sakte hain, kya kehlata hai?",
+    "options": ["Software", "Hardware", "Network", "Program"],
+    "correctIndex": 1
+  },
+  {
+    "question": "USB ka mukammal naam (full form) kya hai?",
+    "options": ["Universal Serial Bus", "United System Board", "Universal Server Bridge", "Ultra Speed Binary"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Wi-Fi ka full form kya hota hai?",
+    "options": ["Wireless Fidelity", "Wired Finder", "Wide Field", "Web Filter"],
+    "correctIndex": 0
+  },
+  {
+    "question": "CPU ka full form kya hai?",
+    "options": ["Central Processing Unit", "Control Program Utility", "Computer Personal Unit", "Central Peripheral Use"],
+    "correctIndex": 0
+  },
+  {
+    "question": "RAM computer mein kahan istemal hoti hai?",
+    "options": ["Permanent data save karne ke liye", "Temporary fast working memory ke liye", "Power supply ke liye", "Cooling ke liye"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hard Disk Drive (HDD) kis liye hoti hai?",
+    "options": ["Long-term data storage ke liye", "Internet speed barhane ke liye", "Screen display ke liye", "Sound processing ke liye"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Operating System (OS) ki misal konsi hai?",
+    "options": ["MS Word", "Windows 11", "Google Chrome", "Adobe Photoshop"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Python programming language kisne banai thi?",
+    "options": ["Guido van Rossum", "James Gosling", "Bjarne Stroustrup", "Dennis Ritchie"],
+    "correctIndex": 0
+  },
+  {
+    "question": "C++ programming language kisne create ki thi?",
+    "options": ["Bjarne Stroustrup", "Brendan Eich", "Guido van Rossum", "Linus Torvalds"],
+    "correctIndex": 0
+  },
+  {
+    "question": "JavaScript kis saal ijad ki gayi thi?",
+    "options": ["1990", "1995", "2000", "2005"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dunya ka pehla electronic computer konsa tha?",
+    "options": ["ENIAC", "IBM PC", "Apple I", "Macintosh"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Internet ka baap (Father of Internet) kise kaha jata hai?",
+    "options": ["Vint Cerf", "Bill Gates", "Steve Jobs", "Tim Berners-Lee"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Google ka pehla naam kya tha?",
+    "options": ["BackRub", "SearchMaster", "WebFind", "Googol"],
+    "correctIndex": 0
+  },
+  {
+    "question": "YouTube kis saal launch hua tha?",
+    "options": ["2003", "2005", "2008", "2010"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Instagram kis saal shuru kiya gaya tha?",
+    "options": ["2008", "2010", "2012", "2015"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Artificial Intelligence (AI) ka walid (Father) kise kehte hain?",
+    "options": ["Alan Turing", "Albert Einstein", "Isaac Newton", "Nikola Tesla"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Insani jism mein kul kitni haddiyan (Bones) hoti hain?",
+    "options": ["206", "300", "150", "250"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Insani jism ka sab se bara organ konsa hai?",
+    "options": ["Dil", "Jild (Skin)", "Jigar (Liver)", "Maghaz (Brain)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Vitamin C sab se ziyada kis phal mein paya jata hai?",
+    "options": ["Kela (Banana)", "Malta / Kino (Citrus fruits)", "Seb (Apple)", "Aam (Mango)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Suraj ki roshni se insan ko konsa Vitamin milta hai?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Doodh mein konsa calcium aur mineral paya jata hai jo haddiyon ko mazboot karta hai?",
+    "options": ["Iron", "Calcium", "Zinc", "Potassium"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Paani ka boiling point kitna hota hai?",
+    "options": ["50°C", "100°C", "150°C", "212°C"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Paani kis temperature par jam (freeze) jata hai?",
+    "options": ["0°C", "10°C", "-10°C", "32°C"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Light ki speed kitni hoti hai?",
+    "options": ["300,000 km/s", "150,000 km/s", "3,000 km/s", "30,000 km/s"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Zameen suraj ke gird chakkar kitne din mein mukammal karti hai?",
+    "options": ["24 ghante", "30 din", "365.25 din", "12 saal"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Chand zameen ka aik chakkar kitne din mein lagata hai?",
+    "options": ["7 din", "15 din", "27.3 din", "30 din"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gravity ka qanoon kis scientist ne daryaft kiya tha?",
+    "options": ["Albert Einstein", "Sir Isaac Newton", "Galileo", "Thomas Edison"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Bulb kisne ijad kiya tha?",
+    "options": ["Alexander Graham Bell", "Thomas Alva Edison", "Nikola Tesla", "Wright Brothers"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Telephone kisne ijad kiya tha?",
+    "options": ["Alexander Graham Bell", "Guglielmo Marconi", "John Logie Baird", "James Watt"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Aeroplane (Hawai Jahaz) sab se pehle kisne banaya tha?",
+    "options": ["Wright Brothers", "Henry Ford", "Karl Benz", "Robert Fulton"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya ka sab se bara registan (Desert) konsa hai?",
+    "options": ["Sahara Desert", "Thar Desert", "Antarctic Desert", "Gobi Desert"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Pakistan ka sab se bara registan konsa hai?",
+    "options": ["Cholistan", "Thar Desert", "Thal", "Kharan"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ki sab se bari salt mine (Khewra Salt Mine) kis district mein hai?",
+    "options": ["Jhelum", "Lahore", "Rawalpindi", "Chakwal"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka national animal 'Markhor' kis qisam ka janwar hai?",
+    "options": ["Sher", "Pahari Bakra / Wild Goat", "Bhed", "Hirn"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka national tree (Darakht) konsa hai?",
+    "options": ["Neem", "Deodar", "Sheesham", "Mango Tree"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cricket match mein aik over mein kitni balls hoti hain?",
+    "options": ["4", "5", "6", "8"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Football match ki aik team mein kitne khiladi (players) hote hain?",
+    "options": ["9", "11", "7", "6"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hockey ki team mein kitne players hote hain?",
+    "options": ["9", "10", "11", "12"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Olympics games har kitne saal baad hote hain?",
+    "options": ["2 saal", "3 saal", "4 saal", "5 saal"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Pakistan ne pehla Cricket World Cup kab jeeta tha?",
+    "options": ["1987", "1992", "1996", "1999"],
+    "correctIndex": 1
+  },
+  {
+    "question": "1992 ka Cricket World Cup kis mulk mein khela gaya tha?",
+    "options": ["England & Wales", "Australia & New Zealand", "Pakistan", "India"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ki sab se pehli currency note kis saal jari hui thi?",
+    "options": ["1947", "1948", "1950", "1952"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka pehla television station kahan aur kab shuru hua tha?",
+    "options": ["Karachi, 1964", "Lahore, 1964", "Islamabad, 1970", "Peshawar, 1975"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka national fruit (Phal) konsa hai?",
+    "options": ["Kela", "Aam (Mango)", "Amrood", "Angoor"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka national sabzi (Vegetable) konsi hai?",
+    "options": ["Aloo", "Bhindi (Ladyfinger)", "Piyaz", "Tamatar"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Urdu zubani kis ilaqay mein sab se pehle boli jati thi?",
+    "options": ["Dheli aur uske gird-o-nawah", "Punjab", "Hyderabad Deccan", "Lucknow"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Urdu ka pehla shair kise mana jata hai?",
+    "options": ["Amir Khusro", "Mir Taqi Mir", "Allama Iqbal", "Wali Deccani"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Dunya ki sab se purani language mein se aik konsi hai?",
+    "options": ["Arabic", "Sanskrit", "Tamil", "Ye sabhi"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Coding mein 'Bug' ka kya matlab hota hai?",
+    "options": ["Insect", "Code mein ghalti (Error)", "Fast internet", "New feature"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Bug ko theek karne ke amal ko kya kehte hain?",
+    "options": ["Debugging", "Coding", "Compiling", "Executing"],
+    "correctIndex": 0
+  },
+  {
+    "question": "HTML mein line break ke liye konsa tag istemal hota hai?",
+    "options": ["<br>", "<lb>", "<break>", "<hr>"],
+    "correctIndex": 0
+  },
+  {
+    "question": "CSS mein background color tabdeel karne ki property konsi hai?",
+    "options": ["color", "bg-color", "background-color", "image-color"],
+    "correctIndex": 2
+  },
+  {
+    "question": "JavaScript mein variable declare karne ke liye naya keyword konsa hai?",
+    "options": ["let", "var", "const", "Ye sabhi"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Firebase Realtime Database mein data kis format mein store hota hai?",
+    "options": ["XML", "JSON", "CSV", "SQL"],
+    "correctIndex": 1
+  },
+  {
+    "question": "GitHub par project save karne ke amal ko kya kehte hain?",
+    "options": ["Push", "Pull", "Fetch", "Clone"],
+    "correctIndex": 0
+  },
+  {
+    "question": "GitHub se code apne computer par download karne ko kya kehte hain?",
+    "options": ["Commit", "Clone", "Push", "Branch"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Render hosting platform ka istemal kis liye hota hai?",
+    "options": ["Web apps aur servers deploy karne ke liye", "Video editing ke liye", "Antivirus scan ke liye", "Graphic designing ke liye"],
+    "correctIndex": 0
+  },
+  {
+    "question": "UptimeRobot ka kya kaam hota hai?",
+    "options": ["Website ya server ki uptime monitor karna", "Spam messages rokna", "Database clear karna", "OTP generate karna"],
+    "correctIndex": 0
+  },
+  {
+    "question": "EmailJS service kis kaam aati hai?",
+    "options": ["Client-side se direct email send karne ke liye", "Video call ke liye", "Database hosting ke liye", "Music streaming ke liye"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Agora platform kis technology ke liye mashhoor hai?",
+    "options": ["Real-time audio/video streaming aur calls", "Database management", "Text compression", "Graphic rendering"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Jumpshare kis maqsad ke liye istemal hota hai?",
+    "options": ["Screenshots aur screen recordings share karne ke liye", "Coding likhne ke liye", "Game khelne ke liye", "Music download karne ke liye"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Free Fire game kis genre mein shamil hoti hai?",
+    "options": ["Battle Royale", "Puzzle", "Racing", "Strategy"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Level Devil game kis kisam ki hai?",
+    "options": ["Puzzle & Action Platformer", "Cooking game", "Cricket simulation", "Card game"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ProJoin app mein users kis maqsad ke liye join karte hain?",
+    "options": ["Earning aur networking ke liye", "Sirf movie dekhne ke liye", "News padhne ke liye", "Chatting ke liye"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ProJoin app mein anti-whale rule kitne balance ke baad lagta hai?",
+    "options": ["1,000 Coins", "5,000 Coins", "9,000 Coins", "10,000 Coins"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gift Code claim karne se user ko kya milta hai?",
+    "options": ["Free Coins reward", "Ban", "Ads", "Error"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Reels task mein aik reel dekhne par kitne coins milte hain?",
+    "options": ["1 Coin", "2 Coins", "5 Coins", "10 Coins"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Reels ki daily limit kitni hoti hai?",
+    "options": ["5", "10", "15", "Unlimited"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Card Luck Battle game mein aik dafa bet kitne coins ki hoti hai?",
+    "options": ["10 Coins", "20 Coins", "50 Coins", "100 Coins"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Card battle ki daily limit kitni hai?",
+    "options": ["1", "3", "5", "10"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Find Hidden Numbers game jeetne par kitne coins milte hain?",
+    "options": ["5 Coins", "10 Coins", "15 Coins", "20 Coins"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Online Song Radio station par live music sunne par reward kis hisab se milta hai?",
+    "options": ["Har second automatic", "Har ghante baad", "Aik din baad", "Bilkul nahi"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Special Quests (3-Day Offers) mukammal karne ke baad proof kahan bheja jata hai?",
+    "options": ["Coins Distributor ko WhatsApp par", "Google par", "YouTube par", "Email par"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie Box se movie download karke review kis tarah bheja jata hai?",
+    "options": ["WhatsApp Voice / Review ke zariye", "Letter likh kar", "Courier ke zariye", "Kahin nahi"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Truth & Dark game mein har successful activity par reward kitna milta hai?",
+    "options": ["1 Coin", "5 Coins", "10 Coins", "50 Coins"],
+    "correctIndex": 0
+  },
+  {
+    "question": "OTP Handler se contact karne ka zariya konsa platform hai?",
+    "options": ["WhatsApp", "Telegram", "Facebook", "Twitter"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya ka sab se bara ocean (Mahasagar) konsa hai?",
+    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka sab se bara national park konsa hai?",
+    "options": ["Hingol National Park", "Kirthar National Park", "Margalla Hills", "Lal Suhanra"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan mein sab se pehla railway track kahan aur kab bichaya gaya tha?",
+    "options": ["Karachi to Kotri (1861)", "Lahore to Multan", "Rawalpindi to Peshawar", "Islamabad to Lahore"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Islam ke akhri Nabi Hazrat Muhammad (PBUH) ki wafat kis saal hui thi?",
+    "options": ["10 Hijri", "11 Hijri", "12 Hijri", "15 Hijri"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jannat-ul-Baqi kabristan kis shehar mein hai?",
+    "options": ["Makkah", "Madina", "Jerusalem", "Damascus"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jannat-ul-Mualla kabristan kis shehar mein hai?",
+    "options": ["Makkah", "Madina", "Taif", "Jeddah"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Khatam-an-Nabiyyeen ka matlab kya hai?",
+    "options": ["Pehle Nabi", "Akhri Nabi", "Sab se bare Nabi", "Khas Nabi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hazrat Ibrahim (A.S) ke do beton ke naam kya thay?",
+    "options": ["Hazrat Ismail (A.S) aur Hazrat Ishaq (A.S)", "Hazrat Musa (A.S) aur Haroon (A.S)", "Hazrat Yusuf (A.S) aur Benjamin", "Hazrat Dawood (A.S) aur Sulaiman"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Kabe ki tameer sab se pehle kisne ki thi?",
+    "options": ["Hazrat Ibrahim (A.S) aur Hazrat Ismail (A.S)", "Farishtoun ne aur Hazrat Adam (A.S)", "Hazrat Nuh (A.S)", "Quresh ne"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hajr-e-Aswad (Black Stone) kis deewar mein nasab hai?",
+    "options": ["Khana-e-Kaba ki ek konay mein", "Maqam-e-Ibrahim par", "Safa Marwa par", "Jabl-e-Noor par"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Abe-Zamzam ka kuaan kahan waqia hai?",
+    "options": ["Madina mein", "Makkah mein Masjid-ul-Haram ke qareeb", "Taif mein", "Jeddah mein"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Safa aur Marwa ke darmiyan chalne ko kya kehte hain?",
+    "options": ["Tawaf", "Sayee", "Rami", "Ihtram"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Mina mein shaitan ko kankariyan marne ke amal ko kya kehte hain?",
+    "options": ["Rami", "Qurbani", "Halq", "Tawaf-e-Ziyarat"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Eid-ul-Adha kis islamic mahine mein manai jati hai?",
+    "options": ["Ramzan", "Shawwal", "Zilhaj (10th Zilhaj)", "Rabi-ul-Awwal"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Eid-ul-Fitr kis islamic mahine ki 1 tareekh ko hoti hai?",
+    "options": ["Ramzan", "Shawwal", "Muharram", "Rabi-ul-Awwal"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Islamic calendar ka pehla mahina konsa hai?",
+    "options": ["Muharram", "Safar", "Rajab", "Rabi-ul-Awwal"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Islamic calendar ka akhri mahina konsa hai?",
+    "options": ["Shaban", "Zilhaj", "Shawwal", "Ramzan"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hazrat Ali (R.A) ka laqab kya tha?",
+    "options": ["Asadullah / Haider-e-Karrar", "Siddique", "Farooq", "Zun-Noorain"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Usman (R.A) ka laqab kya tha?",
+    "options": ["Zun-Noorain (Do noor wale)", "Farooq", "Siddique", "Ameen-ul-Ummat"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Umar (R.A) ka laqab kya tha?",
+    "options": ["Farooq", "Siddique", "Haider", "Saifullah"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Khalid bin Walid (R.A) ka laqab kya tha?",
+    "options": ["Saifullah (Allah ki talwar)", "Asadullah", "Ameen", "Farooq"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya ka sab se bara island (Jazeera) konsa hai?",
+    "options": ["Greenland", "Madagascar", "Borneo", "Sumatra"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Asia ka sab se bara mulk aabadi ke lihaz se konsa hai?",
+    "options": ["China", "India", "Pakistan", "Indonesia"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dunya mein kul kitne continents (Qarah) hain?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dunya ka sab se sarda (coldest) ilaqaa ya continent konsa hai?",
+    "options": ["Antarctica", "Europe", "Asia", "North America"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Eiffel Tower kis mulk aur shehar mein hai?",
+    "options": ["Paris, France", "London, UK", "Rome, Italy", "Berlin, Germany"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Statue of Liberty kis mulk mein waqia hai?",
+    "options": ["USA (New York)", "UK (London)", "France", "Canada"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Great Wall of China ki lambai kitni hai?",
+    "options": ["Thousands of kilometers", "100 km", "500 km", "10 km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pyramids of Giza kis mulk mein hain?",
+    "options": ["Egypt (Misr)", "Sudan", "Saudi Arabia", "Iraq"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Computer ka wo component jo data permanently save rakhta hai, kya kehlata hai?",
+    "options": ["RAM", "Storage / Hard Drive", "CPU", "Cache"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Internet par kisi website ka pata (address) kya kehlata hai?",
+    "options": ["URL", "HTTP", "IP", "HTML"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Wi-Fi ka signal kis wave par kaam karta hai?",
+    "options": ["Radio Waves", "Sound Waves", "Light Waves", "X-Rays"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Bluetooth technology ka naam kis historical figure ke naam par rakha gaya tha?",
+    "options": ["King Harald Bluetooth", "Alexander", "Julius Caesar", "Napoleon"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Android operating system kis company ka product hai?",
+    "options": ["Apple", "Google", "Microsoft", "IBM"],
+    "correctIndex": 1
+  },
+  {
+    "question": "iOS operating system kis company ke devices mein chalta hai?",
+    "options": ["Samsung", "Apple (iPhone)", "Xiaomi", "Huawei"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Microsoft Windows ka pehla version kis saal release hua tha?",
+    "options": ["1985", "1990", "1995", "2000"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qudrati tor par insan ki aankh kitne rang pehchan sakti hai?",
+    "options": ["Millions of colors", "100 colors", "1000 colors", "10,000 colors"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Insani jism ka sab se mazboot hissa (part) konsa hota hai?",
+    "options": ["Tooth Enamel (Daant ki oopri tah)", "Thigh bone (Jang ki haddi)", "Jaw bone", "Skull"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Vitamin D ki kami se bachon mein konsi bimari ho jati hai?",
+    "options": ["Rickets (Haddiyon ka kamzor hona)", "Scurvy", "Beriberi", "Night blindness"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Vitamin A ki kami se konsa masla ho sakta hai?",
+    "options": ["Ratnawand / Night Blindness", "Hair fall", "Tooth decay", "Skin allergy"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Oxygen ki khoj (discovery) kisne ki thi?",
+    "options": ["Joseph Priestley", "Isaac Newton", "Albert Einstein", "Galileo"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Atomic theory ka bani (founder) kise mana jata hai?",
+    "options": ["John Dalton", "Albert Einstein", "Niels Bohr", "Marie Curie"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Radioactivity kisne daryaft ki thi?",
+    "options": ["Henri Becquerel", "Marie Curie", "Albert Einstein", "Thomas Edison"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya ki sab se tez raftaar train (Bullet Train) kis mulk mein hai?",
+    "options": ["Japan", "USA", "UK", "Germany"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ki pehli airline konsi thi?",
+    "options": ["Orient Airways (jo baad mein PIA bani)", "Shaheen Air", "Airblue", "SereneAir"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se bara airport konsa hai?",
+    "options": ["Jinnah International Airport, Karachi", "Allama Iqbal Airport, Lahore", "Islamabad International Airport", "Peshawar Airport"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se bara railway station kahan hai?",
+    "options": ["Lahore Junction", "Karachi City", "Rawalpindi", "Rohri"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cricket ke format mein 'T20' ka kya matlab hai?",
+    "options": ["20 Overs per side", "20 Players", "20 Days", "20 Hours"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Test cricket match kitne din ka hota hai?",
+    "options": ["3 days", "5 days", "1 day", "7 days"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Snooker khel mein kitni red balls hoti hain?",
+    "options": ["10", "15", "21", "22"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Badminton ke aik match mein net ki unchai kitni hoti hai?",
+    "options": ["Approx 5 feet", "3 feet", "7 feet", "10 feet"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ProJoin app kis technology stack par bani hui hai?",
+    "options": ["JavaScript, HTML, Tailwind CSS & Firebase", "C# .NET", "Ruby on Rails", "Swift"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Agr kisi ki smile bohot qaatil ho, toh usay kya kehte hain?",
+    "options": ["Killer Smile", "Simple Face", "Angry look", "Boring expression"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Romantic movies dekhte waqt sab se zyada kya mehsoos hota hai?",
+    "options": ["Acha vibe aur daydreaming", "Neend", "Bhook", "Gussa"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Jab koi apko chupke se dekhe aur aap notice kar lo, toh us moment ko kya kehte hain?",
+    "options": ["Cute Eye Contact", "Ajeeb ittefaq", "Network error", "Glitch"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Duniya ki sab se haseen cheez kya mani jati hai?",
+    "options": ["Sachi aur pyari muskurahat", "Pese", "Mobile phone", "Traffic"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Jab koi aapki tareef kare, toh dil mein kya feeling aati hai?",
+    "options": ["Happy & Glowing Vibes", "Rona", "Bhagna", "Darr"],
+    "correctIndex": 0
+  }
+]
