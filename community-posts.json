@@ -1,0 +1,18 @@
+[
+  {
+    "id": "post_1",
+    "authorName": "ProJoin Official",
+    "authorAvatar": "https://via.placeholder.com/100x100?text=PJ",
+    "image": "https://via.placeholder.com/500x300?text=ProJoin+Update+2026",
+    "caption": "Welcome to ProJoin Community! Naye features explore karein aur posts like karke extra coins earn karein.",
+    "likes": 24
+  },
+  {
+    "id": "post_2",
+    "authorName": "Ali Developer",
+    "authorAvatar": "https://via.placeholder.com/100x100?text=Ali",
+    "image": "https://via.placeholder.com/500x300?text=Coding+Session",
+    "caption": "Aaj ProJoin ka naya update live ho gaya hai. Sabhi users apne milestone rewards zaroor claim karein!",
+    "likes": 42
+  }
+]
