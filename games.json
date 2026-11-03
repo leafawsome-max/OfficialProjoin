@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Free Fire Max",
+    "genre": "Battle Royale",
+    "image": "https://via.placeholder.com/300x450?text=Free+Fire",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
+    "coins": 25
+  },
+  {
+    "name": "Level Devil",
+    "genre": "Puzzle Platformer",
+    "image": "https://via.placeholder.com/300x450?text=Level+Devil",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.LevelDevil.game",
+    "coins": 15
+  }
+]
