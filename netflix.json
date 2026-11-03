@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Stranger Things",
+    "year": "2022",
+    "image": "https://via.placeholder.com/300x450?text=Stranger+Things",
+    "downloadUrl": "https://example.com/netflix1",
+    "coins": 20
+  },
+  {
+    "title": "Money Heist",
+    "year": "2021",
+    "image": "https://via.placeholder.com/300x450?text=Money+Heist",
+    "downloadUrl": "https://example.com/netflix2",
+    "coins": 25
+  }
+]
