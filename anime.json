@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Naruto Shippuden",
+    "year": "2007",
+    "image": "https://via.placeholder.com/300x450?text=Naruto",
+    "downloadUrl": "https://example.com/anime1",
+    "coins": 20
+  },
+  {
+    "title": "Attack on Titan",
+    "year": "2013",
+    "image": "https://via.placeholder.com/300x450?text=Attack+on+Titan",
+    "downloadUrl": "https://example.com/anime2",
+    "coins": 25
+  }
+]
