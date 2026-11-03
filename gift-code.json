@@ -1,6 +1,21 @@
-{
-  "codeId": "PROJOIN2026",
-  "code": "PROJOIN2026",
-  "coins": 100,
-  "active": true
-}
+[
+  {
+    "codeId": "CODE1",
+    "code": "PROJOIN50",
+    "coins": 50,
+    "active": true
+  },
+  {
+    "codeId": "CODE2",
+    "code": "WELCOME100",
+    "coins": 100,
+    "active": true
+  },
+  {
+    "codeId": "CODE3",
+    "code": "BONUS2026",
+    "coins": 500,
+    "active": true
+  }
+  // Yahan aur bhi jitne marzi add karte jayen...
+]
