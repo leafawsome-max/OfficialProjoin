@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Crash Landing on You",
+    "year": "2020",
+    "image": "https://via.placeholder.com/300x450?text=Crash+Landing",
+    "downloadUrl": "https://example.com/kdrama1",
+    "coins": 20
+  },
+  {
+    "title": "Squid Game",
+    "year": "2021",
+    "image": "https://via.placeholder.com/300x450?text=Squid+Game",
+    "downloadUrl": "https://example.com/kdrama2",
+    "coins": 25
+  }
+]
