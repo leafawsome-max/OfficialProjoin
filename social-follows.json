@@ -3,18 +3,21 @@
     "platform": "ProJoin Official YouTube",
     "url": "https://www.youtube.com/@YouTube",
     "coins": 10,
-    "icon": "fa-youtube"
+    "icon": "fa-star",
+    "phone": "923001234567"
   },
   {
     "platform": "ProJoin Telegram Channel",
     "url": "https://telegram.org",
     "coins": 8,
-    "icon": "fa-telegram"
+    "icon": "fa-shield-halved",
+    "phone": "923009876543"
   },
   {
     "platform": "ProJoin Instagram Page",
     "url": "https://instagram.com",
     "coins": 5,
-    "icon": "fa-instagram"
+    "icon": "fa-bolt",
+    "phone": "923005554433"
   }
 ]
