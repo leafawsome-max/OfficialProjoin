@@ -1,7 +1,7 @@
 {
   "version": "V2.42",
   "status": "Latest Version (New)",
-  "isOld": false,
+  "isOld": true,
   "releaseDate": "2 November 2026",
   "updateNotes": "Added Movie Box, And Fix Bugs."
 }
