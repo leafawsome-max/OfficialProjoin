@@ -2,36 +2,29 @@
   {
     "name": "Ma'am Maryam ProJoin Senior",
     "phone": "923450347841",
-    "displayPhone": "03450347841",
+    "displayPhone": "0345******",
     "timing": "24hour Available",
     "note": "Busy In Exams"
   },
   {
-    "name": "Ma'am Ghohar Fatima",
-    "phone": "923026219776",
-    "displayPhone": "03026219776",
+    "name": "Ma'am Noor Fatima",
+    "phone": "923143525509",
+    "displayPhone": "0314******",
     "timing": "24hour Available",
     "note": ""
   },
   {
-    "name": "Ma'am Arzu Sher",
-    "phone": "923406629605",
-    "displayPhone": "03406629605",
-    "timing": "6AM-6PM",
-    "note": ""
-  },
-  {
-    "name": "Ma'am Zaini",
+    "name": "Ma'am Zainab",
     "phone": "923222673496",
-    "displayPhone": "03222673496",
+    "displayPhone": "0322******",
     "timing": "8AM-10PM",
     "note": ""
   },
   {
-    "name": "OTP Handler Seat Available",
-    "phone": "OTP",
-    "displayPhone": "Seat Available",
-    "timing": "Not Available",
-    "note": "OTP Handler Seat Available"
+    "name": "Ma'am Amna",
+    "phone": "92341592932",
+    "displayPhone": "0349******",
+    "timing": "10AM- 10PM",
+    "note": ""
   }
 ]
