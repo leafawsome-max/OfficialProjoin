@@ -1,16 +1,30 @@
 [
   {
-    "name": "Free Fire Max",
-    "genre": "Battle Royale",
-    "image": "https://via.placeholder.com/300x450?text=Free+Fire",
-    "downloadUrl": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
+    "name": "Factorio",
+    "genre": "Machine",
+    "image": "https://dl.apkawards.com/moda/dl41/games/Factorio/img/Factorio.png",
+    "downloadUrl": "https://gplinks.co/93H1pm",
     "coins": 25
   },
   {
-    "name": "Level Devil",
+    "name": "Hexasort",
     "genre": "Puzzle Platformer",
-    "image": "https://via.placeholder.com/300x450?text=Level+Devil",
-    "downloadUrl": "https://play.google.com/store/apps/details?id=com.LevelDevil.game",
+    "image": "https://dl.apkawards.com/moda/dl34/games/com.gamebrain.hexasort/img/com.gamebrain.hexasort.png",
+    "downloadUrl": "https://gplinks.co/7NgNrTQt",
+    "coins": 15
+  },
+  {
+    "name": "Screw Jam Nuts & Bolts",
+    "genre": "Puzzle",
+    "image": "https://dl.apkawards.com/moda/dl41/games/com.ig.screw.jam.nuts.bolts/img/com.ig.screw.jam.nuts.bolts.png",
+    "downloadUrl": "https://gplinks.co/XGzOcH1",
+    "coins": 15
+  },
+  {
+    "name": "Blackout Pop",
+    "genre": "Casual",
+    "image": "https://image.winudf.com/v2/image1/Y29tLnRlbmNlbnQuaWdfaWNvbl8xNzg4ODY0Nzg1XzA3Mw/icon.webp?w=280&fakeurl=1&type=.webp",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.blackout.pop",
     "coins": 15
   }
 ]
