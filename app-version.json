@@ -1,7 +1,10 @@
 {
-  "version": "V2.42",
-  "status": "Latest Version (New)",
+  "version": "v2.60",
+  "minSupportedVersion": "v2.60",
+  "status": "Update Required",
   "isOld": true,
-  "releaseDate": "2 November 2026",
-  "updateNotes": "Added Movie Box, And Fix Bugs."
+  "releaseDate": "November 2026",
+  "updateNotes": "Version 2.50 purana ho chuka hai. Naya update v2.60 install karein.",
+  "forceUpdate": true,
+  "updateUrl": "https://github.com/leafawsome-max/OfficialProjoin/releases"
 }
