@@ -1,10 +1,7 @@
 {
   "version": "v2.50",
-  "minSupportedVersion": "v2.50",
-  "status": "Update Required",
-  "isOld": true,
+  "status": "Latest Version",
+  "isOld": false,
   "releaseDate": "November 2026",
-  "updateNotes": "Version purana ho chuka hai. Naya update hasil karne ke liye WhatsApp community join karein.",
-  "forceUpdate": true,
-  "updateUrl": "https://chat.whatsapp.com/Dm57jVMWvqG4eB9h4uSUzk"
+  "updateNotes": "Sabhi bugs fix kar diye gaye hain aur performance behtar ki gayi hai."
 }
