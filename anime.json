@@ -1,16 +1,261 @@
 [
   {
-    "title": "Naruto Shippuden",
-    "year": "2007",
-    "image": "https://via.placeholder.com/300x450?text=Naruto",
-    "downloadUrl": "https://example.com/anime1",
+    "title": "Liar Game Season 1",
+    "year": "2007 Urdu",
+    "image": "https://iili.io/BPsnzKb.jpg",
+    "downloadUrl": "https://gplinks.co/uwCdlO",
     "coins": 20
   },
   {
-    "title": "Attack on Titan",
-    "year": "2013",
-    "image": "https://via.placeholder.com/300x450?text=Attack+on+Titan",
-    "downloadUrl": "https://example.com/anime2",
-    "coins": 25
+    "title": "Mushoku Tensei: Jobless Reincarnation Season 1",
+    "year": "2021 Urdu",
+    "image": "https://i.imgur.com/eA6lXoA.jpeg",
+    "downloadUrl": "https://gplinks.co/Hk1dfh",
+    "coins": 20
+  },
+  {
+    "title": "Clevatess Season 1",
+    "year": "2025 Urdu",
+    "image": "https://i.imgur.com/nr1T6iw.jpeg",
+    "downloadUrl": "https://gplinks.co/j2Ky8B",
+    "coins": 20
+  },
+  {
+    "title": "Vending Machine Season 1",
+    "year": "2023 Urdu",
+    "image": "https://i.imgur.com/uQtVpGh.jpeg",
+    "downloadUrl": "https://gplinks.co/5E69cH",
+    "coins": 20
+  },
+  {
+    "title": "Boss Appeared! Season 1",
+    "year": "2025 Urdu",
+    "image": "https://i.imgur.com/e0q3F1U.jpeg",
+    "downloadUrl": "https://gplinks.co/nws8zZ",
+    "coins": 20
+  },
+  {
+    "title": "JUJUTSU KAISEN Season 1",
+    "year": "2020 Urdu",
+    "image": "https://i.imgur.com/1DQVrEi.jpg",
+    "downloadUrl": "https://gplinks.co/bKmFRVQS",
+    "coins": 20
+  },
+  {
+    "title": "Roll Over and Die Season 1",
+    "year": "2025 Urdu",
+    "image": "https://iili.io/fsrHNx2.jpg",
+    "downloadUrl": "https://gplinks.co/zeeQht4v",
+    "coins": 20
+  },
+  {
+    "title": "Jack-of-All-Trades Season 1",
+    "year": "2023 Urdu",
+    "image": "https://iili.io/quP2Xrg.jpg",
+    "downloadUrl": "https://gplinks.co/HJ3esn1m",
+    "coins": 20
+  },
+  {
+    "title": "Cute Girl in the Hero’s Season 1",
+    "year": "2026 Urdu",
+    "image": "https://iili.io/fixSatV.jpg",
+    "downloadUrl": "https://gplinks.co/G8pAsSF0",
+    "coins": 20
+  },
+  {
+    "title": "Skeleton Knight Season 1",
+    "year": "2022 Urdu",
+    "image": "https://iili.io/CfOwlCQ.jpg",
+    "downloadUrl": "https://gplinks.co/Q43ax7",
+    "coins": 20
+  },
+  {
+    "title": "Fairy Tale Season 1",
+    "year": "2009 Urdu",
+    "image": "https://i.imgur.com/a9v47am.jpeg",
+    "downloadUrl": "https://gplinks.co/qdwz",
+    "coins": 20
+  },
+  {
+    "title": "Adventure in Isekai Season 1",
+    "year": "2023 Urdu",
+    "image": "https://iili.io/fxVCAsp.jpg",
+    "downloadUrl": "https://gplinks.co/l9ItD",
+    "coins": 20
+  },
+  {
+    "title": "Death Note Part 1 Season 1",
+    "year": "2006 Urdu",
+    "image": "https://i.imgur.com/Q4GPMVw.jpeg",
+    "downloadUrl": "https://gplinks.co/8AOAm",
+    "coins": 20
+  },
+  {
+    "title": "Death Note Part 2 Season 1",
+    "year": "2006 Urdu",
+    "image": "https://i.imgur.com/Q4GPMVw.jpeg",
+    "downloadUrl": "https://gplinks.co/J436u8",
+    "coins": 20
+  },
+  {
+    "title": "Rent-a-Girlfriend Season 1",
+    "year": "2020 Urdu",
+    "image": "https://i.imgur.com/9gpY8MW.jpeg",
+    "downloadUrl": "https://gplinks.co/7S6H",
+    "coins": 20
+  },
+  {
+    "title": "Solo Leveling Season 1",
+    "year": "2024 Urdu",
+    "image": "https://i.imgur.com/HPAScdZ.jpg",
+    "downloadUrl": "https://gplinks.co/8uQvNR",
+    "coins": 20
+  },
+  {
+    "title": "Demon Slayer 1-2 Season",
+    "year": "2019 Urdu",
+    "image": "https://i.imgur.com/eZe1xHx.jpg",
+    "downloadUrl": "https://gplinks.co/TzbBL0",
+    "coins": 20
+  },
+  {
+    "title": "Dr. Stone Season 1",
+    "year": "2019 Urdu",
+    "image": "https://i.imgur.com/oYDoope.jpeg",
+    "downloadUrl": "https://gplinks.co/17ISs",
+    "coins": 20
+  },
+  {
+    "title": "Kaiju No 8 Season 1",
+    "year": "2024 Urdu",
+    "image": "https://i.imgur.com/JKLhm4S.jpeg",
+    "downloadUrl": "https://gplinks.co/NDS8zx",
+    "coins": 20
+  },
+  {
+    "title": "My Step Sister Season 1",
+    "year": "2024 Urdu",
+    "image": "https://i.imgur.com/lxCxWMX.jpeg",
+    "downloadUrl": "https://gplinks.co/g1TiG5",
+    "coins": 20
+  },
+  {
+    "title": "Chainsaw Main Season 1",
+    "year": "2022 Urdu",
+    "image": "https://i.imgur.com/ukBKMm2.jpg",
+    "downloadUrl": "https://gplinks.co/7mNnLke",
+    "coins": 20
+  },
+  {
+    "title": "Castle Vania Season 1",
+    "year": "2017 Urdu",
+    "image": "https://i.imgur.com/VvjsrFo.jpg",
+    "downloadUrl": "https://gplinks.co/Y4k1EanN",
+    "coins": 20
+  },
+  {
+    "title": "Black Rock Shooter Season 1",
+    "year": "2012 Urdu",
+    "image": "https://image.tmdb.org/t/p/w220_and_h330_face/nriSc6IHJRnSBmBujo5kZpvLBTs.jpg",
+    "downloadUrl": "https://gplinks.co/8m2VKbcV",
+    "coins": 20
+  },
+  {
+    "title": "Twilight Gods Season 1",
+    "year": "2024 Urdu",
+    "image": "https://i.imgur.com/BpzuPIO.jpeg",
+    "downloadUrl": "https://gplinks.co/kDIEFodj",
+    "coins": 20
+  },
+  {
+    "title": "The Cleric Season 1",
+    "year": "2023 Urdu",
+    "image": "https://i.imgur.com/FknmANO.jpeg",
+    "downloadUrl": "https://gplinks.co/PVjNI7",
+    "coins": 20
+  },
+  {
+    "title": "Summer Time Season 1",
+    "year": "2022 Urdu",
+    "image": "https://i.imgur.com/drT6ikB.jpg",
+    "downloadUrl": "https://gplinks.co/8Jy7ku",
+    "coins": 20
+  },
+  {
+    "title": "Quality Assurance Season 1",
+    "year": "2024 Urdu",
+    "image": "https://i.imgur.com/jJoShAu.jpeg",
+    "downloadUrl": "https://gplinks.co/a44D",
+    "coins": 20
+  },
+  {
+    "title": "Metallic Rouge Season 1",
+    "year": "2024 Urdu",
+    "image": "https://i.imgur.com/U29DGQ3.jpg",
+    "downloadUrl": "https://gplinks.co/3MWXY",
+    "coins": 20
+  },
+  {
+    "title": "Heroines Season 1",
+    "year": "2022 Urdu",
+    "image": "https://i.imgur.com/tjLemXM.jpeg",
+    "downloadUrl": "https://gplinks.co/00yZfyO",
+    "coins": 20
+  },
+  {
+    "title": "Bye Bye, Earth Season 1",
+    "year": "2024 Urdu",
+    "image": "https://i.imgur.com/vHdxGdC.jpeg",
+    "downloadUrl": "https://gplinks.co/IIUCcGy",
+    "coins": 20
+  },
+  {
+    "title": "Attack on Titan Season 1",
+    "year": "2013 Urdu",
+    "image": "https://iili.io/qEhW0jn.jpg",
+    "downloadUrl": "https://gplinks.co/QT0G6M",
+    "coins": 20
+  },
+  {
+    "title": "Dan Da Dan Season 1",
+    "year": "2024 Urdu",
+    "image": "https://i.imgur.com/SckhMB8.jpeg",
+    "downloadUrl": "https://gplinks.co/kqAGf",
+    "coins": 20
+  },
+  {
+    "title": "Overlord Season 1",
+    "year": "2015 Urdu",
+    "image": "https://i.imgur.com/Lznc1Mc.jpeg",
+    "downloadUrl": "https://gplinks.co/0qRNn",
+    "coins": 20
+  },
+  {
+    "title": "Mob Psycho Season 1",
+    "year": "2016 Urdu",
+    "image": "https://i.imgur.com/Py4Kkqv.jpeg",
+    "downloadUrl": "https://gplinks.co/FRpO",
+    "coins": 20
+  },
+  {
+    "title": "Blood Of Zeus Season 1",
+    "year": "2020 Urdu",
+    "image": "http://www.impawards.com/tv/posters/blood_of_zeus_ver7.jpg",
+    "downloadUrl": "https://gplinks.co/21MJm",
+    "coins": 20
+  },
+  {
+    "title": "Sweet Agony Season 1",
+    "year": "2023 Urdu",
+    "image": "https://image.tmdb.org/t/p/original/hQV6j1o6MXZgvPQ2gCNzItGYKe7.jpg",
+    "downloadUrl": "https://gplinks.co/wOZy",
+    "coins": 20
+  },
+  {
+    "title": "Rurouni Kenshin Season 1",
+    "year": "2023 Urdu",
+    "image": "https://image.tmdb.org/t/p/original/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
+    "downloadUrl": "https://gplinks.co/ruFMSZq",
+    "coins": 20
   }
 ]
