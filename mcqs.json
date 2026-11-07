@@ -1,1082 +1,5482 @@
 [
   {
     "question": "Pakistan ka darul-hukumat (Capital) konsa shehar hai?",
-    "options": ["Lahore", "Islamabad", "Karachi", "Faisalabad"],
+    "options": [
+      "Lahore",
+      "Islamabad",
+      "Karachi",
+      "Faisalabad"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Computer ka dimag (Brain) kisay kaha jata hai?",
-    "options": ["Monitor", "Keyboard", "CPU", "Hard Disk"],
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "CPU",
+      "Hard Disk"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Internet par web pages ko design aur style karne ke liye konsi language istemal hoti hai?",
-    "options": ["Python", "CSS", "C++", "Java"],
+    "options": [
+      "Python",
+      "CSS",
+      "C++",
+      "Java"
+    ],
     "correctIndex": 1
   },
   {
-    "question": "Pakistan ka qومي (National) khel konsa hai?",
-    "options": ["Cricket", "Hockey", "Football", "Squash"],
+    "question": "Pakistan ka qaumi (National) khel konsa hai?",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Football",
+      "Squash"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Zameen ka sab se bara samandar (Ocean) konsa hai?",
-    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Firebase database kis company ki platform service hai?",
-    "options": ["Microsoft", "Google", "Apple", "Amazon"],
+    "options": [
+      "Microsoft",
+      "Google",
+      "Apple",
+      "Amazon"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Quran-e-Pak mein kul kitni Surah hain?",
-    "options": ["114", "110", "120", "99"],
+    "options": [
+      "114",
+      "110",
+      "120",
+      "99"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Pehli wahi kis pahad par nazil hui thi?",
-    "options": ["Koh-e-Sina", "Ghar-e-Hira (Jabal an-Nour)", "Koh-e-Uhad", "Jabal al-Soor"],
+    "options": [
+      "Koh-e-Sina",
+      "Ghar-e-Hira (Jabal an-Nour)",
+      "Koh-e-Uhad",
+      "Jabal al-Soor"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Pakistan kis saal aazad hua tha?",
-    "options": ["1945", "1946", "1947", "1948"],
+    "options": [
+      "1945",
+      "1946",
+      "1947",
+      "1948"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Kahin aag lagne par foran kis number par call ki jati hai?",
-    "options": ["15", "16", "1122", "115"],
+    "options": [
+      "15",
+      "16",
+      "1122",
+      "115"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Pakistan ka darul-hukumat (Capital) konsa shehar hai?",
+    "options": [
+      "Lahore",
+      "Islamabad",
+      "Karachi",
+      "Faisalabad"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Computer ka dimag (Brain) kisay kaha jata hai?",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "CPU",
+      "Hard Disk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Internet par web pages ko design aur style karne ke liye konsi language istemal hoti hai?",
+    "options": [
+      "Python",
+      "CSS",
+      "C++",
+      "Java"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ka qaumi (National) khel konsa hai?",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Football",
+      "Squash"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Zameen ka sab se bara samandar (Ocean) konsa hai?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Firebase database kis company ki platform service hai?",
+    "options": [
+      "Microsoft",
+      "Google",
+      "Apple",
+      "Amazon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quran-e-Pak mein kul kitni Surah hain?",
+    "options": [
+      "114",
+      "110",
+      "120",
+      "99"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pehli wahi kis pahad par nazil hui thi?",
+    "options": [
+      "Koh-e-Sina",
+      "Ghar-e-Hira (Jabal an-Nour)",
+      "Koh-e-Uhad",
+      "Jabal al-Soor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan kis saal aazad hua tha?",
+    "options": [
+      "1945",
+      "1946",
+      "1947",
+      "1948"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Kahin aag lagne par foran kis number par call ki jati hai?",
+    "options": [
+      "15",
+      "16",
+      "1122",
+      "115"
+    ],
     "correctIndex": 2
   },
   {
     "question": "World Wide Web (WWW) ka bani (inventor) kon hai?",
-    "options": ["Bill Gates", "Tim Berners-Lee", "Steve Jobs", "Mark Zuckerberg"],
+    "options": [
+      "Bill Gates",
+      "Tim Berners-Lee",
+      "Steve Jobs",
+      "Mark Zuckerberg"
+    ],
     "correctIndex": 1
   },
   {
     "question": "JavaScript kis tarah ki programming language hai?",
-    "options": ["Client-side scripting", "Hardware language", "Database query", "Operating system"],
+    "options": [
+      "Client-side scripting",
+      "Hardware language",
+      "Database query",
+      "Operating system"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Insani jism mein khoon saaf karne wala azeem organ konsa hai?",
-    "options": ["Dil (Heart)", "Gurday (Kidneys)", "Pehre (Lungs)", "Medah (Stomach)"],
+    "options": [
+      "Dil (Heart)",
+      "Gurday (Kidneys)",
+      "Pehre (Lungs)",
+      "Medah (Stomach)"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Dunya ka sab se bara qarah (Continent) konsa hai?",
-    "options": ["Africa", "Asia", "Europe", "Australia"],
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Australia"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Pakistan ka sab se bara shehar aabadi ke lihaz se konsa hai?",
-    "options": ["Lahore", "Faisalabad", "Karachi", "Rawalpindi"],
+    "options": [
+      "Lahore",
+      "Faisalabad",
+      "Karachi",
+      "Rawalpindi"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Taj Mahal kis shehar aur mulk mein waqia hai?",
-    "options": ["Agra, India", "Lahore, Pakistan", "Istanbul, Turkey", "Cairo, Egypt"],
+    "options": [
+      "Agra, India",
+      "Lahore, Pakistan",
+      "Istanbul, Turkey",
+      "Cairo, Egypt"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Mobile ki screen par touch detect karne wali technology ko kya kehte hain?",
-    "options": ["Graphics", "Sensor", "Touchscreen", "Processor"],
+    "options": [
+      "Graphics",
+      "Sensor",
+      "Touchscreen",
+      "Processor"
+    ],
     "correctIndex": 2
   },
   {
     "question": "GitHub ka istemal kis maqsad ke liye hota hai?",
-    "options": ["Video Editing", "Version Control & Code Hosting", "Chatting", "Online Gaming"],
+    "options": [
+      "Video Editing",
+      "Version Control & Code Hosting",
+      "Chatting",
+      "Online Gaming"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Suraj kis simt se nikalta hai?",
-    "options": ["Maghrib (West)", "Mashriq (East)", "Shumal (North)", "Janoob (South)"],
+    "options": [
+      "Maghrib (West)",
+      "Mashriq (East)",
+      "Shumal (North)",
+      "Janoob (South)"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Hawa mein sab se ziyada konsi gas pai jati hai?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
     "correctIndex": 2
   },
   {
-    "question": "Pakistan ka qومي phool konsa hai?",
-    "options": ["Gulab (Rose)", "Chambeli (Jasmine)", "Surajmukhi", "Motia"],
+    "question": "Pakistan ka qaumi phool konsa hai?",
+    "options": [
+      "Gulab (Rose)",
+      "Chambeli (Jasmine)",
+      "Surajmukhi",
+      "Motia"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Paani ka chemical formula kya hota hai?",
-    "options": ["CO2", "H2O", "NaCl", "O2"],
+    "options": [
+      "CO2",
+      "H2O",
+      "NaCl",
+      "O2"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Dunya ka sab se lamba darya (River) konsa hai?",
-    "options": ["River Amazon", "River Nile", "River Indus", "River Mississippi"],
+    "options": [
+      "River Amazon",
+      "River Nile",
+      "River Indus",
+      "River Mississippi"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Pakistan ka sab se uncha pahar konsa hai?",
-    "options": ["Nanga Parbat", "K2", "Tirich Mir", "Rakaposhi"],
+    "options": [
+      "Nanga Parbat",
+      "K2",
+      "Tirich Mir",
+      "Rakaposhi"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Cricket ka pehla World Cup kis mulk ne jeeta tha?",
-    "options": ["Australia", "England", "West Indies", "India"],
+    "options": [
+      "Australia",
+      "England",
+      "West Indies",
+      "India"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Computer ki memory jo volatile hoti hai, use kya kehte hain?",
-    "options": ["ROM", "RAM", "Hard Drive", "Flash Memory"],
+    "options": [
+      "ROM",
+      "RAM",
+      "Hard Drive",
+      "Flash Memory"
+    ],
     "correctIndex": 1
   },
   {
     "question": "HTML ka full form kya hai?",
-    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Hyper Transfer Machine Language", "Home Tool Markup Language"],
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Hyper Transfer Machine Language",
+      "Home Tool Markup Language"
+    ],
     "correctIndex": 0
   },
   {
     "question": "CSS ka istemal kis liye hota hai?",
-    "options": ["Database manage karne ke liye", "Web styling aur layout ke liye", "Server run karne ke liye", "Video render karne ke liye"],
+    "options": [
+      "Database manage karne ke liye",
+      "Web styling aur layout ke liye",
+      "Server run karne ke liye",
+      "Video render karne ke liye"
+    ],
     "correctIndex": 1
   },
   {
-    "question": "Pakistan ka qومي janwar konsa hai?",
-    "options": ["Sher (Lion)", "Markhor", "Cheeta", "Bhalu"],
+    "question": "Pakistan ka qaumi janwar konsa hai?",
+    "options": [
+      "Sher (Lion)",
+      "Markhor",
+      "Cheeta",
+      "Bhalu"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Islam ke pehle Khalifa kon thay?",
-    "options": ["Hazrat Umar (R.A)", "Hazrat Usman (R.A)", "Hazrat Abu Bakr Siddique (R.A)", "Hazrat Ali (R.A)"],
+    "options": [
+      "Hazrat Umar (R.A)",
+      "Hazrat Usman (R.A)",
+      "Hazrat Abu Bakr Siddique (R.A)",
+      "Hazrat Ali (R.A)"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Makkah mein kis masjid mein Khana-e-Kaba maujood hai?",
-    "options": ["Masjid-e-Nabwi", "Masjid-ul-Haram", "Masjid-e-Aqsa", "Masjid-e-Quba"],
+    "options": [
+      "Masjid-e-Nabwi",
+      "Masjid-ul-Haram",
+      "Masjid-e-Aqsa",
+      "Masjid-e-Quba"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Hafiz-e-Quran unhe kaha jata hai jo:",
-    "options": ["Quran padhna jante hain", "Poora Quran zubani yad rakhte hain", "Quran likhte hain", "Quran ka tarjuma karte hain"],
+    "options": [
+      "Quran padhna jante hain",
+      "Poora Quran zubani yad rakhte hain",
+      "Quran likhte hain",
+      "Quran ka tarjuma karte hain"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Pakistan ki sab se pehli khawateen Prime Minister kon thin?",
-    "options": ["Fatima Jinnah", "Benazir Bhutto", "Hina Rabbani Khar", "Maryam Nawaz"],
+    "options": [
+      "Fatima Jinnah",
+      "Benazir Bhutto",
+      "Hina Rabbani Khar",
+      "Maryam Nawaz"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Ek kilometer mein kitne meters hote hain?",
-    "options": ["100 meters", "500 meters", "1000 meters", "10000 meters"],
+    "options": [
+      "100 meters",
+      "500 meters",
+      "1000 meters",
+      "10000 meters"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Dunya ka sab se chota mulk (Country) aabadi ke lihaz se konsa hai?",
-    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "options": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Facebook ke bani (founder) kon hain?",
-    "options": ["Bill Gates", "Elon Musk", "Mark Zuckerberg", "Jeff Bezos"],
+    "options": [
+      "Bill Gates",
+      "Elon Musk",
+      "Mark Zuckerberg",
+      "Jeff Bezos"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Tesla aur SpaceX company ke malik kon hain?",
-    "options": ["Steve Jobs", "Elon Musk", "Sundar Pichai", "Tim Cook"],
+    "options": [
+      "Steve Jobs",
+      "Elon Musk",
+      "Sundar Pichai",
+      "Tim Cook"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Microsoft company ki bunyad kisne rakhi thi?",
-    "options": ["Bill Gates aur Paul Allen", "Mark Zuckerberg", "Steve Jobs", "Larry Page"],
+    "options": [
+      "Bill Gates aur Paul Allen",
+      "Mark Zuckerberg",
+      "Steve Jobs",
+      "Larry Page"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Google search engine kis saal shuru kiya gaya tha?",
-    "options": ["1995", "1998", "2001", "2004"],
+    "options": [
+      "1995",
+      "1998",
+      "2001",
+      "2004"
+    ],
     "correctIndex": 1
   },
   {
     "question": "WhatsApp kis badi company ki malkiat hai?",
-    "options": ["Google", "Microsoft", "Meta", "Apple"],
+    "options": [
+      "Google",
+      "Microsoft",
+      "Meta",
+      "Apple"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Insani dil (Heart) aik din mein kitni baar dhadkta hai?",
-    "options": ["10,000 baar", "50,000 baar", "100,000 baar", "500,000 baar"],
+    "options": [
+      "10,000 baar",
+      "50,000 baar",
+      "100,000 baar",
+      "500,000 baar"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Dunya ka sab se bara khushki ka janwar (Land Animal) konsa hai?",
-    "options": ["Giraffe", "African Elephant", "Blue Whale", "Hippo"],
+    "options": [
+      "Giraffe",
+      "African Elephant",
+      "Blue Whale",
+      "Hippo"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Shahed (Honey) kahan se hasil hota hai?",
-    "options": ["Phoolon se makkhiyan banati hain", "Darakhton ke tano se", "Paharon se", "Zameen ke andar se"],
+    "options": [
+      "Phoolon se makkhiyan banati hain",
+      "Darakhton ke tano se",
+      "Paharon se",
+      "Zameen ke andar se"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Pakistan ka national parinda (Bird) konsa hai?",
-    "options": ["Shaheen", "Chakor", "Tota", "Kabootar"],
+    "options": [
+      "Shaheen",
+      "Chakor",
+      "Tota",
+      "Kabootar"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Pakistan ka national libas konsa hai?",
-    "options": ["Pant Shirt", "Shalwar Kameez", "Sherwani", "Kurta Pajama"],
+    "options": [
+      "Pant Shirt",
+      "Shalwar Kameez",
+      "Sherwani",
+      "Kurta Pajama"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Lal rang kis cheez ki alamat (symbol) samjha jata hai?",
-    "options": ["Aman (Peace)", "Khatra ya Mohabbat (Danger/Love)", "Udaasi", "Khushi"],
+    "options": [
+      "Aman (Peace)",
+      "Khatra ya Mohabbat (Danger/Love)",
+      "Udaasi",
+      "Khushi"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Aik ghante mein kitne seconds hote hain?",
-    "options": ["60 seconds", "3600 seconds", "600 seconds", "86400 seconds"],
+    "options": [
+      "60 seconds",
+      "3600 seconds",
+      "600 seconds",
+      "86400 seconds"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Leap year mein February ka mahina kitne din ka hota hai?",
-    "options": ["28 din", "29 din", "30 din", "31 din"],
+    "options": [
+      "28 din",
+      "29 din",
+      "30 din",
+      "31 din"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Solar system ka sab se bara planet konsa hai?",
-    "options": ["Zohal (Saturn)", "Mushtari (Jupiter)", "Zohra (Venus)", "Mars"],
+    "options": [
+      "Zohal (Saturn)",
+      "Mushtari (Jupiter)",
+      "Zohra (Venus)",
+      "Mars"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Suraj ke sab se qareeb planet konsa hai?",
-    "options": ["Mercury (Utarid)", "Venus (Zohra)", "Earth", "Mars (Mirikh)"],
+    "options": [
+      "Mercury (Utarid)",
+      "Venus (Zohra)",
+      "Earth",
+      "Mars (Mirikh)"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Red Planet ke naam se kis planet ko jana jata hai?",
-    "options": ["Jupiter", "Mars", "Saturn", "Neptune"],
+    "options": [
+      "Jupiter",
+      "Mars",
+      "Saturn",
+      "Neptune"
+    ],
     "correctIndex": 1
   },
   {
-    "question": "Pakistan ka qومي tarana (National Anthem) kisne likha tha?",
-    "options": ["Allama Iqbal", "Hafeez Jalandhari", "Faiz Ahmed Faiz", "Ahmed Nadeem Qasmi"],
+    "question": "Pakistan ka qaومي tarana (National Anthem) kisne likha tha?",
+    "options": [
+      "Allama Iqbal",
+      "Hafeez Jalandhari",
+      "Faiz Ahmed Faiz",
+      "Ahmed Nadeem Qasmi"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Pakistan ke pehle Governor General kon thay?",
-    "options": ["Liaquat Ali Khan", "Allama Iqbal", "Quaid-e-Azam Muhammad Ali Jinnah", "Ayub Khan"],
+    "options": [
+      "Liaquat Ali Khan",
+      "Allama Iqbal",
+      "Quaid-e-Azam Muhammad Ali Jinnah",
+      "Ayub Khan"
+    ],
     "correctIndex": 2
   },
   {
-    "question": "Pakistan ka qومي parcham (Flag) kisne design kiya tha?",
-    "options": ["Amir-ud-Din Kedwaii", "Chaudhry Rahmat Ali", "Liaquat Ali Khan", "Sir Syed Ahmed Khan"],
+    "question": "Pakistan ka qaومي parcham (Flag) kisne design kiya tha?",
+    "options": [
+      "Amir-ud-Din Kedwaii",
+      "Chaudhry Rahmat Ali",
+      "Liaquat Ali Khan",
+      "Sir Syed Ahmed Khan"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Pakistan ka sab se bara industrial shehar konsa hai?",
-    "options": ["Lahore", "Faisalabad", "Karachi", "Sialkot"],
+    "options": [
+      "Lahore",
+      "Faisalabad",
+      "Karachi",
+      "Sialkot"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Sialkot shehar dunya bhar mein kis cheez ki tayari ke liye mashhoor hai?",
-    "options": ["Kapre", "Sports goods & Footballs", "Mobile phones", "Cars"],
+    "options": [
+      "Kapre",
+      "Sports goods & Footballs",
+      "Mobile phones",
+      "Cars"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Khyber Pass Pakistan ke kis soobay mein hai?",
-    "options": ["Punjab", "Sindh", "Balochistan", "Khyber Pakhtunkhwa (KPK)"],
+    "options": [
+      "Punjab",
+      "Sindh",
+      "Balochistan",
+      "Khyber Pakhtunkhwa (KPK)"
+    ],
     "correctIndex": 3
   },
   {
     "question": "Badshahi Masjid kis shehar mein hai?",
-    "options": ["Islamabad", "Lahore", "Multan", "Peshawar"],
+    "options": [
+      "Islamabad",
+      "Lahore",
+      "Multan",
+      "Peshawar"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Faisal Mosque kis shehar mein waqia hai?",
-    "options": ["Rawalpindi", "Islamabad", "Karachi", "Quetta"],
+    "options": [
+      "Rawalpindi",
+      "Islamabad",
+      "Karachi",
+      "Quetta"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Minar-e-Pakistan kis park mein banaya gaya hai?",
-    "options": ["Iqbal Park (Greater Iqbal Park)", "Shalimar Bagh", "Race Course Park", "Model Town Park"],
+    "options": [
+      "Iqbal Park (Greater Iqbal Park)",
+      "Shalimar Bagh",
+      "Race Course Park",
+      "Model Town Park"
+    ],
     "correctIndex": 0
   },
   {
-    "question": "Pakistan ka qومي shair (National Poet) kise kaha jata hai?",
-    "options": ["Mirza Ghalib", "Allama Muhammad Iqbal", "Faiz Ahmed Faiz", "Allama Iqbal ke ilawa koi nahi"],
+    "question": "Pakistan ka qaومي shair (National Poet) kise kaha jata hai?",
+    "options": [
+      "Mirza Ghalib",
+      "Allama Muhammad Iqbal",
+      "Faiz Ahmed Faiz",
+      "Allama Iqbal ke ilawa koi nahi"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Tehreek-e-Pakistan ke silsilay mein 'Chaudhry Rahmat Ali' ne Pakistan ka naam kab tajweez kiya tha?",
-    "options": ["1930", "1933", "1940", "1947"],
+    "options": [
+      "1930",
+      "1933",
+      "1940",
+      "1947"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Qarardad-e-Pakistan kab pass ki gayi thi?",
-    "options": ["23 March 1940", "14 August 1947", "25 December 1876", "11 September 1948"],
+    "options": [
+      "23 March 1940",
+      "14 August 1947",
+      "25 December 1876",
+      "11 September 1948"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Pakistan mein har saal 'Defense Day' (Youm-e-Difa) kis tarikh ko manaya jata hai?",
-    "options": ["6 September", "23 March", "14 August", "25 December"],
+    "options": [
+      "6 September",
+      "23 March",
+      "14 August",
+      "25 December"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Pakistan ka sab se lamba darya konsa hai?",
-    "options": ["Darya-e-Ravi", "Darya-e-Sutlej", "Darya-e-Indus (Sindh)", "Darya-e-Chenab"],
+    "options": [
+      "Darya-e-Ravi",
+      "Darya-e-Sutlej",
+      "Darya-e-Indus (Sindh)",
+      "Darya-e-Chenab"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Mangla Dam kis darya par banaya gaya hai?",
-    "options": ["Darya-e-Jhelum", "Darya-e-Indus", "Darya-e-Chenab", "Darya-e-Kabul"],
+    "options": [
+      "Darya-e-Jhelum",
+      "Darya-e-Indus",
+      "Darya-e-Chenab",
+      "Darya-e-Kabul"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Tarbela Dam kis darya par banaya gaya hai?",
-    "options": ["Darya-e-Jhelum", "Darya-e-Indus", "Darya-e-Ravi", "Darya-e-Sutlej"],
+    "options": [
+      "Darya-e-Jhelum",
+      "Darya-e-Indus",
+      "Darya-e-Ravi",
+      "Darya-e-Sutlej"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Gwadar Port Pakistan ke kis soobay mein hai?",
-    "options": ["Sindh", "Balochistan", "Punjab", "KPK"],
+    "options": [
+      "Sindh",
+      "Balochistan",
+      "Punjab",
+      "KPK"
+    ],
     "correctIndex": 1
   },
   {
     "question": "K2 pahad ki bulandi (height) kitni hai?",
-    "options": ["8848 meters", "8611 meters", "8125 meters", "7890 meters"],
+    "options": [
+      "8848 meters",
+      "8611 meters",
+      "8125 meters",
+      "7890 meters"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Dunya ki sab se unchi choti (Mount Everest) kis mountain range mein hai?",
-    "options": ["Karakoram", "Himalayas", "Hindukush", "Pamir"],
+    "options": [
+      "Karakoram",
+      "Himalayas",
+      "Hindukush",
+      "Pamir"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Islam ke 5 buniyadi rukan (Pillars) mein sab se pehla rukan konsa hai?",
-    "options": ["Namaz", "Roza", "Shahadah (Kalma)", "Hajj"],
+    "options": [
+      "Namaz",
+      "Roza",
+      "Shahadah (Kalma)",
+      "Hajj"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Ramzan ul Mubarak Islamic calendar ka konsa mahina hai?",
-    "options": ["7th", "8th", "9th", "10th"],
+    "options": [
+      "7th",
+      "8th",
+      "9th",
+      "10th"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Shab-e-Qadr kis mahine ki raton mein talash ki jati hai?",
-    "options": ["Rajab", "Shaban", "Ramzan (akhri ashray ki taq raton mein)", "Muharram"],
+    "options": [
+      "Rajab",
+      "Shaban",
+      "Ramzan (akhri ashray ki taq raton mein)",
+      "Muharram"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Hazrat Muhammad (PBUH) kis shehar mein paida hue thay?",
-    "options": ["Madina", "Makkah", "Taif", "Jerusalem"],
+    "options": [
+      "Madina",
+      "Makkah",
+      "Taif",
+      "Jerusalem"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Hijrat-e-Madina ke waqt Aap (PBUH) ke sath ghar mein kon thay?",
-    "options": ["Hazrat Uthman (R.A)", "Hazrat Abu Bakr Siddique (R.A)", "Hazrat Ali (R.A)", "Hazrat Umar (R.A)"],
+    "options": [
+      "Hazrat Uthman (R.A)",
+      "Hazrat Abu Bakr Siddique (R.A)",
+      "Hazrat Ali (R.A)",
+      "Hazrat Umar (R.A)"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Jang-e-Uhad kis saal lari gayi thi?",
-    "options": ["2 Hijri", "3 Hijri", "5 Hijri", "8 Hijri"],
+    "options": [
+      "2 Hijri",
+      "3 Hijri",
+      "5 Hijri",
+      "8 Hijri"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Jang-e-Badr mein musalmanon ki tadad kitni thi?",
-    "options": ["313", "1000", "500", "700"],
+    "options": [
+      "313",
+      "1000",
+      "500",
+      "700"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Quran-e-Pak ki sab se lambi Surah konsi hai?",
-    "options": ["Surah Al-Fatiha", "Surah Al-Baqarah", "Surah Yaseen", "Surah Al-Rahman"],
+    "options": [
+      "Surah Al-Fatiha",
+      "Surah Al-Baqarah",
+      "Surah Yaseen",
+      "Surah Al-Rahman"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Quran-e-Pak ki kis Surah ko 'Qalb-e-Quran' (Heart of Quran) kaha jata hai?",
-    "options": ["Surah Mulk", "Surah Yaseen", "Surah Al-Waqiah", "Surah Al-Kahf"],
+    "options": [
+      "Surah Mulk",
+      "Surah Yaseen",
+      "Surah Al-Waqiah",
+      "Surah Al-Kahf"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Kis Surah mein Bismillah do baar aati hai?",
-    "options": ["Surah Taubah", "Surah An-Naml", "Surah Yaseen", "Surah Al-Rahman"],
+    "options": [
+      "Surah Taubah",
+      "Surah An-Naml",
+      "Surah Yaseen",
+      "Surah Al-Rahman"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Hazrat Adam (A.S) ke baad dunya ke pehle Nabi kon thay?",
-    "options": ["Hazrat Nuh (A.S)", "Hazrat Ibrahim (A.S)", "Hazrat Idris (A.S)", "Hazrat Musa (A.S)"],
+    "options": [
+      "Hazrat Nuh (A.S)",
+      "Hazrat Ibrahim (A.S)",
+      "Hazrat Idris (A.S)",
+      "Hazrat Musa (A.S)"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Aag kis Nabi par thandi aur salamti ban gayi thi?",
-    "options": ["Hazrat Musa (A.S)", "Hazrat Ibrahim (A.S)", "Hazrat Isa (A.S)", "Hazrat Yusuf (A.S)"],
+    "options": [
+      "Hazrat Musa (A.S)",
+      "Hazrat Ibrahim (A.S)",
+      "Hazrat Isa (A.S)",
+      "Hazrat Yusuf (A.S)"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Kushti mein kis Nabi ka zikr aata hai jo machli ke pait mein rahe thay?",
-    "options": ["Hazrat Yunus (A.S)", "Hazrat Ayub (A.S)", "Hazrat Sulaiman (A.S)", "Hazrat Yahya (A.S)"],
+    "options": [
+      "Hazrat Yunus (A.S)",
+      "Hazrat Ayub (A.S)",
+      "Hazrat Sulaiman (A.S)",
+      "Hazrat Yahya (A.S)"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Computer ka wo hissa jise aap chu sakte hain, kya kehlata hai?",
-    "options": ["Software", "Hardware", "Network", "Program"],
+    "options": [
+      "Software",
+      "Hardware",
+      "Network",
+      "Program"
+    ],
     "correctIndex": 1
   },
   {
     "question": "USB ka mukammal naam (full form) kya hai?",
-    "options": ["Universal Serial Bus", "United System Board", "Universal Server Bridge", "Ultra Speed Binary"],
+    "options": [
+      "Universal Serial Bus",
+      "United System Board",
+      "Universal Server Bridge",
+      "Ultra Speed Binary"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Wi-Fi ka full form kya hota hai?",
-    "options": ["Wireless Fidelity", "Wired Finder", "Wide Field", "Web Filter"],
+    "options": [
+      "Wireless Fidelity",
+      "Wired Finder",
+      "Wide Field",
+      "Web Filter"
+    ],
     "correctIndex": 0
   },
   {
     "question": "CPU ka full form kya hai?",
-    "options": ["Central Processing Unit", "Control Program Utility", "Computer Personal Unit", "Central Peripheral Use"],
+    "options": [
+      "Central Processing Unit",
+      "Control Program Utility",
+      "Computer Personal Unit",
+      "Central Peripheral Use"
+    ],
     "correctIndex": 0
   },
   {
     "question": "RAM computer mein kahan istemal hoti hai?",
-    "options": ["Permanent data save karne ke liye", "Temporary fast working memory ke liye", "Power supply ke liye", "Cooling ke liye"],
+    "options": [
+      "Permanent data save karne ke liye",
+      "Temporary fast working memory ke liye",
+      "Power supply ke liye",
+      "Cooling ke liye"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Hard Disk Drive (HDD) kis liye hoti hai?",
-    "options": ["Long-term data storage ke liye", "Internet speed barhane ke liye", "Screen display ke liye", "Sound processing ke liye"],
+    "options": [
+      "Long-term data storage ke liye",
+      "Internet speed barhane ke liye",
+      "Screen display ke liye",
+      "Sound processing ke liye"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Operating System (OS) ki misal konsi hai?",
-    "options": ["MS Word", "Windows 11", "Google Chrome", "Adobe Photoshop"],
+    "options": [
+      "MS Word",
+      "Windows 11",
+      "Google Chrome",
+      "Adobe Photoshop"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Python programming language kisne banai thi?",
-    "options": ["Guido van Rossum", "James Gosling", "Bjarne Stroustrup", "Dennis Ritchie"],
+    "options": [
+      "Guido van Rossum",
+      "James Gosling",
+      "Bjarne Stroustrup",
+      "Dennis Ritchie"
+    ],
     "correctIndex": 0
   },
   {
     "question": "C++ programming language kisne create ki thi?",
-    "options": ["Bjarne Stroustrup", "Brendan Eich", "Guido van Rossum", "Linus Torvalds"],
+    "options": [
+      "Bjarne Stroustrup",
+      "Brendan Eich",
+      "Guido van Rossum",
+      "Linus Torvalds"
+    ],
     "correctIndex": 0
   },
   {
     "question": "JavaScript kis saal ijad ki gayi thi?",
-    "options": ["1990", "1995", "2000", "2005"],
+    "options": [
+      "1990",
+      "1995",
+      "2000",
+      "2005"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Dunya ka pehla electronic computer konsa tha?",
-    "options": ["ENIAC", "IBM PC", "Apple I", "Macintosh"],
+    "options": [
+      "ENIAC",
+      "IBM PC",
+      "Apple I",
+      "Macintosh"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Internet ka baap (Father of Internet) kise kaha jata hai?",
-    "options": ["Vint Cerf", "Bill Gates", "Steve Jobs", "Tim Berners-Lee"],
+    "options": [
+      "Vint Cerf",
+      "Bill Gates",
+      "Steve Jobs",
+      "Tim Berners-Lee"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Google ka pehla naam kya tha?",
-    "options": ["BackRub", "SearchMaster", "WebFind", "Googol"],
+    "options": [
+      "BackRub",
+      "SearchMaster",
+      "WebFind",
+      "Googol"
+    ],
     "correctIndex": 0
   },
   {
     "question": "YouTube kis saal launch hua tha?",
-    "options": ["2003", "2005", "2008", "2010"],
+    "options": [
+      "2003",
+      "2005",
+      "2008",
+      "2010"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Instagram kis saal shuru kiya gaya tha?",
-    "options": ["2008", "2010", "2012", "2015"],
+    "options": [
+      "2008",
+      "2010",
+      "2012",
+      "2015"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Artificial Intelligence (AI) ka walid (Father) kise kehte hain?",
-    "options": ["Alan Turing", "Albert Einstein", "Isaac Newton", "Nikola Tesla"],
+    "options": [
+      "Alan Turing",
+      "Albert Einstein",
+      "Isaac Newton",
+      "Nikola Tesla"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Insani jism mein kul kitni haddiyan (Bones) hoti hain?",
-    "options": ["206", "300", "150", "250"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Insani jism ka sab se bara organ konsa hai?",
-    "options": ["Dil", "Jild (Skin)", "Jigar (Liver)", "Maghaz (Brain)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Vitamin C sab se ziyada kis phal mein paya jata hai?",
-    "options": ["Kela (Banana)", "Malta / Kino (Citrus fruits)", "Seb (Apple)", "Aam (Mango)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Suraj ki roshni se insan ko konsa Vitamin milta hai?",
-    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
-    "correctIndex": 3
-  },
-  {
-    "question": "Doodh mein konsa calcium aur mineral paya jata hai jo haddiyon ko mazboot karta hai?",
-    "options": ["Iron", "Calcium", "Zinc", "Potassium"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Paani ka boiling point kitna hota hai?",
-    "options": ["50°C", "100°C", "150°C", "212°C"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Paani kis temperature par jam (freeze) jata hai?",
-    "options": ["0°C", "10°C", "-10°C", "32°C"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Light ki speed kitni hoti hai?",
-    "options": ["300,000 km/s", "150,000 km/s", "3,000 km/s", "30,000 km/s"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Zameen suraj ke gird chakkar kitne din mein mukammal karti hai?",
-    "options": ["24 ghante", "30 din", "365.25 din", "12 saal"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Chand zameen ka aik chakkar kitne din mein lagata hai?",
-    "options": ["7 din", "15 din", "27.3 din", "30 din"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Gravity ka qanoon kis scientist ne daryaft kiya tha?",
-    "options": ["Albert Einstein", "Sir Isaac Newton", "Galileo", "Thomas Edison"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Bulb kisne ijad kiya tha?",
-    "options": ["Alexander Graham Bell", "Thomas Alva Edison", "Nikola Tesla", "Wright Brothers"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Telephone kisne ijad kiya tha?",
-    "options": ["Alexander Graham Bell", "Guglielmo Marconi", "John Logie Baird", "James Watt"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Aeroplane (Hawai Jahaz) sab se pehle kisne banaya tha?",
-    "options": ["Wright Brothers", "Henry Ford", "Karl Benz", "Robert Fulton"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Dunya ka sab se bara registan (Desert) konsa hai?",
-    "options": ["Sahara Desert", "Thar Desert", "Antarctic Desert", "Gobi Desert"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Pakistan ka sab se bara registan konsa hai?",
-    "options": ["Cholistan", "Thar Desert", "Thal", "Kharan"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Pakistan ki sab se bari salt mine (Khewra Salt Mine) kis district mein hai?",
-    "options": ["Jhelum", "Lahore", "Rawalpindi", "Chakwal"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Pakistan ka national animal 'Markhor' kis qisam ka janwar hai?",
-    "options": ["Sher", "Pahari Bakra / Wild Goat", "Bhed", "Hirn"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Pakistan ka national tree (Darakht) konsa hai?",
-    "options": ["Neem", "Deodar", "Sheesham", "Mango Tree"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Cricket match mein aik over mein kitni balls hoti hain?",
-    "options": ["4", "5", "6", "8"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Football match ki aik team mein kitne khiladi (players) hote hain?",
-    "options": ["9", "11", "7", "6"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Hockey ki team mein kitne players hote hain?",
-    "options": ["9", "10", "11", "12"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Olympics games har kitne saal baad hote hain?",
-    "options": ["2 saal", "3 saal", "4 saal", "5 saal"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Pakistan ne pehla Cricket World Cup kab jeeta tha?",
-    "options": ["1987", "1992", "1996", "1999"],
-    "correctIndex": 1
-  },
-  {
-    "question": "1992 ka Cricket World Cup kis mulk mein khela gaya tha?",
-    "options": ["England & Wales", "Australia & New Zealand", "Pakistan", "India"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Pakistan ki sab se pehli currency note kis saal jari hui thi?",
-    "options": ["1947", "1948", "1950", "1952"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Pakistan ka pehla television station kahan aur kab shuru hua tha?",
-    "options": ["Karachi, 1964", "Lahore, 1964", "Islamabad, 1970", "Peshawar, 1975"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Pakistan ka national fruit (Phal) konsa hai?",
-    "options": ["Kela", "Aam (Mango)", "Amrood", "Angoor"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Pakistan ka national sabzi (Vegetable) konsi hai?",
-    "options": ["Aloo", "Bhindi (Ladyfinger)", "Piyaz", "Tamatar"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Urdu zubani kis ilaqay mein sab se pehle boli jati thi?",
-    "options": ["Dheli aur uske gird-o-nawah", "Punjab", "Hyderabad Deccan", "Lucknow"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Urdu ka pehla shair kise mana jata hai?",
-    "options": ["Amir Khusro", "Mir Taqi Mir", "Allama Iqbal", "Wali Deccani"],
-    "correctIndex": 3
-  },
-  {
-    "question": "Dunya ki sab se purani language mein se aik konsi hai?",
-    "options": ["Arabic", "Sanskrit", "Tamil", "Ye sabhi"],
-    "correctIndex": 3
-  },
-  {
-    "question": "Coding mein 'Bug' ka kya matlab hota hai?",
-    "options": ["Insect", "Code mein ghalti (Error)", "Fast internet", "New feature"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Bug ko theek karne ke amal ko kya kehte hain?",
-    "options": ["Debugging", "Coding", "Compiling", "Executing"],
-    "correctIndex": 0
-  },
-  {
-    "question": "HTML mein line break ke liye konsa tag istemal hota hai?",
-    "options": ["<br>", "<lb>", "<break>", "<hr>"],
-    "correctIndex": 0
-  },
-  {
-    "question": "CSS mein background color tabdeel karne ki property konsi hai?",
-    "options": ["color", "bg-color", "background-color", "image-color"],
-    "correctIndex": 2
-  },
-  {
-    "question": "JavaScript mein variable declare karne ke liye naya keyword konsa hai?",
-    "options": ["let", "var", "const", "Ye sabhi"],
-    "correctIndex": 3
-  },
-  {
-    "question": "Firebase Realtime Database mein data kis format mein store hota hai?",
-    "options": ["XML", "JSON", "CSV", "SQL"],
-    "correctIndex": 1
-  },
-  {
-    "question": "GitHub par project save karne ke amal ko kya kehte hain?",
-    "options": ["Push", "Pull", "Fetch", "Clone"],
-    "correctIndex": 0
-  },
-  {
-    "question": "GitHub se code apne computer par download karne ko kya kehte hain?",
-    "options": ["Commit", "Clone", "Push", "Branch"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Render hosting platform ka istemal kis liye hota hai?",
-    "options": ["Web apps aur servers deploy karne ke liye", "Video editing ke liye", "Antivirus scan ke liye", "Graphic designing ke liye"],
-    "correctIndex": 0
-  },
-  {
-    "question": "UptimeRobot ka kya kaam hota hai?",
-    "options": ["Website ya server ki uptime monitor karna", "Spam messages rokna", "Database clear karna", "OTP generate karna"],
-    "correctIndex": 0
-  },
-  {
-    "question": "EmailJS service kis kaam aati hai?",
-    "options": ["Client-side se direct email send karne ke liye", "Video call ke liye", "Database hosting ke liye", "Music streaming ke liye"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Agora platform kis technology ke liye mashhoor hai?",
-    "options": ["Real-time audio/video streaming aur calls", "Database management", "Text compression", "Graphic rendering"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Jumpshare kis maqsad ke liye istemal hota hai?",
-    "options": ["Screenshots aur screen recordings share karne ke liye", "Coding likhne ke liye", "Game khelne ke liye", "Music download karne ke liye"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Free Fire game kis genre mein shamil hoti hai?",
-    "options": ["Battle Royale", "Puzzle", "Racing", "Strategy"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Level Devil game kis kisam ki hai?",
-    "options": ["Puzzle & Action Platformer", "Cooking game", "Cricket simulation", "Card game"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ProJoin app mein users kis maqsad ke liye join karte hain?",
-    "options": ["Earning aur networking ke liye", "Sirf movie dekhne ke liye", "News padhne ke liye", "Chatting ke liye"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ProJoin app mein anti-whale rule kitne balance ke baad lagta hai?",
-    "options": ["1,000 Coins", "5,000 Coins", "9,000 Coins", "10,000 Coins"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Gift Code claim karne se user ko kya milta hai?",
-    "options": ["Free Coins reward", "Ban", "Ads", "Error"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Reels task mein aik reel dekhne par kitne coins milte hain?",
-    "options": ["1 Coin", "2 Coins", "5 Coins", "10 Coins"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Reels ki daily limit kitni hoti hai?",
-    "options": ["5", "10", "15", "Unlimited"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Card Luck Battle game mein aik dafa bet kitne coins ki hoti hai?",
-    "options": ["10 Coins", "20 Coins", "50 Coins", "100 Coins"],
-    "correctIndex": 2
-  },
-  {
-    "question": "Card battle ki daily limit kitni hai?",
-    "options": ["1", "3", "5", "10"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Find Hidden Numbers game jeetne par kitne coins milte hain?",
-    "options": ["5 Coins", "10 Coins", "15 Coins", "20 Coins"],
-    "correctIndex": 1
-  },
-  {
-    "question": "Online Song Radio station par live music sunne par reward kis hisab se milta hai?",
-    "options": ["Har second automatic", "Har ghante baad", "Aik din baad", "Bilkul nahi"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Special Quests (3-Day Offers) mukammal karne ke baad proof kahan bheja jata hai?",
-    "options": ["Coins Distributor ko WhatsApp par", "Google par", "YouTube par", "Email par"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Movie Box se movie download karke review kis tarah bheja jata hai?",
-    "options": ["WhatsApp Voice / Review ke zariye", "Letter likh kar", "Courier ke zariye", "Kahin nahi"],
-    "correctIndex": 0
-  },
-  {
-    "question": "Truth & Dark game mein har successful activity par reward kitna milta hai?",
-    "options": ["1 Coin", "5 Coins", "10 Coins", "50 Coins"],
-    "correctIndex": 0
-  },
-  {
-    "question": "OTP Handler se contact karne ka zariya konsa platform hai?",
-    "options": ["WhatsApp", "Telegram", "Facebook", "Twitter"],
+    "options": [
+      "206",
+      "300",
+      "150",
+      "250"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Dunya ka sab se bara ocean (Mahasagar) konsa hai?",
-    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "options": [
+      "Atlantic",
+      "Pacific",
+      "Indian",
+      "Arctic"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Pakistan ka sab se bara national park konsa hai?",
-    "options": ["Hingol National Park", "Kirthar National Park", "Margalla Hills", "Lal Suhanra"],
+    "options": [
+      "Hingol National Park",
+      "Kirthar National Park",
+      "Margalla Hills",
+      "Lal Suhanra"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Pakistan mein sab se pehla railway track kahan aur kab bichaya gaya tha?",
-    "options": ["Karachi to Kotri (1861)", "Lahore to Multan", "Rawalpindi to Peshawar", "Islamabad to Lahore"],
+    "options": [
+      "Karachi to Kotri (1861)",
+      "Lahore to Multan",
+      "Rawalpindi to Peshawar",
+      "Islamabad to Lahore"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Islam ke akhri Nabi Hazrat Muhammad (PBUH) ki wafat kis saal hui thi?",
-    "options": ["10 Hijri", "11 Hijri", "12 Hijri", "15 Hijri"],
+    "options": [
+      "10 Hijri",
+      "11 Hijri",
+      "12 Hijri",
+      "15 Hijri"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Jannat-ul-Baqi kabristan kis shehar mein hai?",
-    "options": ["Makkah", "Madina", "Jerusalem", "Damascus"],
+    "options": [
+      "Makkah",
+      "Madina",
+      "Jerusalem",
+      "Damascus"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Jannat-ul-Mualla kabristan kis shehar mein hai?",
-    "options": ["Makkah", "Madina", "Taif", "Jeddah"],
+    "options": [
+      "Makkah",
+      "Madina",
+      "Taif",
+      "Jeddah"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Khatam-an-Nabiyyeen ka matlab kya hai?",
-    "options": ["Pehle Nabi", "Akhri Nabi", "Sab se bare Nabi", "Khas Nabi"],
+    "options": [
+      "Pehle Nabi",
+      "Akhri Nabi",
+      "Sab se bare Nabi",
+      "Khas Nabi"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Hazrat Ibrahim (A.S) ke do beton ke naam kya thay?",
-    "options": ["Hazrat Ismail (A.S) aur Hazrat Ishaq (A.S)", "Hazrat Musa (A.S) aur Haroon (A.S)", "Hazrat Yusuf (A.S) aur Benjamin", "Hazrat Dawood (A.S) aur Sulaiman"],
+    "options": [
+      "Hazrat Ismail (A.S) aur Hazrat Ishaq (A.S)",
+      "Hazrat Musa (A.S) aur Haroon (A.S)",
+      "Hazrat Yusuf (A.S) aur Benjamin",
+      "Hazrat Dawood (A.S) aur Sulaiman"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Kabe ki tameer sab se pehle kisne ki thi?",
-    "options": ["Hazrat Ibrahim (A.S) aur Hazrat Ismail (A.S)", "Farishtoun ne aur Hazrat Adam (A.S)", "Hazrat Nuh (A.S)", "Quresh ne"],
+    "options": [
+      "Hazrat Ibrahim (A.S) aur Hazrat Ismail (A.S)",
+      "Farishtoun ne aur Hazrat Adam (A.S)",
+      "Hazrat Nuh (A.S)",
+      "Quresh ne"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Hajr-e-Aswad (Black Stone) kis deewar mein nasab hai?",
-    "options": ["Khana-e-Kaba ki ek konay mein", "Maqam-e-Ibrahim par", "Safa Marwa par", "Jabl-e-Noor par"],
+    "options": [
+      "Khana-e-Kaba ki ek konay mein",
+      "Maqam-e-Ibrahim par",
+      "Safa Marwa par",
+      "Jabl-e-Noor par"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Abe-Zamzam ka kuaan kahan waqia hai?",
-    "options": ["Madina mein", "Makkah mein Masjid-ul-Haram ke qareeb", "Taif mein", "Jeddah mein"],
+    "options": [
+      "Madina mein",
+      "Makkah mein Masjid-ul-Haram ke qareeb",
+      "Taif mein",
+      "Jeddah mein"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Safa aur Marwa ke darmiyan chalne ko kya kehte hain?",
-    "options": ["Tawaf", "Sayee", "Rami", "Ihtram"],
+    "options": [
+      "Tawaf",
+      "Sayee",
+      "Rami",
+      "Ihtram"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Mina mein shaitan ko kankariyan marne ke amal ko kya kehte hain?",
-    "options": ["Rami", "Qurbani", "Halq", "Tawaf-e-Ziyarat"],
+    "options": [
+      "Rami",
+      "Qurbani",
+      "Halq",
+      "Tawaf-e-Ziyarat"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Eid-ul-Adha kis islamic mahine mein manai jati hai?",
-    "options": ["Ramzan", "Shawwal", "Zilhaj (10th Zilhaj)", "Rabi-ul-Awwal"],
+    "options": [
+      "Ramzan",
+      "Shawwal",
+      "Zilhaj (10th Zilhaj)",
+      "Rabi-ul-Awwal"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Eid-ul-Fitr kis islamic mahine ki 1 tareekh ko hoti hai?",
-    "options": ["Ramzan", "Shawwal", "Muharram", "Rabi-ul-Awwal"],
+    "options": [
+      "Ramzan",
+      "Shawwal",
+      "Muharram",
+      "Rabi-ul-Awwal"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Islamic calendar ka pehla mahina konsa hai?",
-    "options": ["Muharram", "Safar", "Rajab", "Rabi-ul-Awwal"],
+    "options": [
+      "Muharram",
+      "Safar",
+      "Rajab",
+      "Rabi-ul-Awwal"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Islamic calendar ka akhri mahina konsa hai?",
-    "options": ["Shaban", "Zilhaj", "Shawwal", "Ramzan"],
+    "options": [
+      "Shaban",
+      "Zilhaj",
+      "Shawwal",
+      "Ramzan"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Hazrat Ali (R.A) ka laqab kya tha?",
-    "options": ["Asadullah / Haider-e-Karrar", "Siddique", "Farooq", "Zun-Noorain"],
+    "options": [
+      "Asadullah / Haider-e-Karrar",
+      "Siddique",
+      "Farooq",
+      "Zun-Noorain"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Hazrat Usman (R.A) ka laqab kya tha?",
-    "options": ["Zun-Noorain (Do noor wale)", "Farooq", "Siddique", "Ameen-ul-Ummat"],
+    "options": [
+      "Zun-Noorain (Do noor wale)",
+      "Farooq",
+      "Siddique",
+      "Ameen-ul-Ummat"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Hazrat Umar (R.A) ka laqab kya tha?",
-    "options": ["Farooq", "Siddique", "Haider", "Saifullah"],
+    "options": [
+      "Farooq",
+      "Siddique",
+      "Haider",
+      "Saifullah"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Hazrat Khalid bin Walid (R.A) ka laqab kya tha?",
-    "options": ["Saifullah (Allah ki talwar)", "Asadullah", "Ameen", "Farooq"],
+    "options": [
+      "Saifullah (Allah ki talwar)",
+      "Asadullah",
+      "Ameen",
+      "Farooq"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Dunya ka sab se bara island (Jazeera) konsa hai?",
-    "options": ["Greenland", "Madagascar", "Borneo", "Sumatra"],
+    "options": [
+      "Greenland",
+      "Madagascar",
+      "Borneo",
+      "Sumatra"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Asia ka sab se bara mulk aabadi ke lihaz se konsa hai?",
-    "options": ["China", "India", "Pakistan", "Indonesia"],
+    "options": [
+      "China",
+      "India",
+      "Pakistan",
+      "Indonesia"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Dunya mein kul kitne continents (Qarah) hain?",
-    "options": ["5", "6", "7", "8"],
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
     "correctIndex": 2
   },
   {
     "question": "Dunya ka sab se sarda (coldest) ilaqaa ya continent konsa hai?",
-    "options": ["Antarctica", "Europe", "Asia", "North America"],
+    "options": [
+      "Antarctica",
+      "Europe",
+      "Asia",
+      "North America"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Eiffel Tower kis mulk aur shehar mein hai?",
-    "options": ["Paris, France", "London, UK", "Rome, Italy", "Berlin, Germany"],
+    "options": [
+      "Paris, France",
+      "London, UK",
+      "Rome, Italy",
+      "Berlin, Germany"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Statue of Liberty kis mulk mein waqia hai?",
-    "options": ["USA (New York)", "UK (London)", "France", "Canada"],
+    "options": [
+      "USA (New York)",
+      "UK (London)",
+      "France",
+      "Canada"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Great Wall of China ki lambai kitni hai?",
-    "options": ["Thousands of kilometers", "100 km", "500 km", "10 km"],
+    "options": [
+      "Thousands of kilometers",
+      "100 km",
+      "500 km",
+      "10 km"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Pyramids of Giza kis mulk mein hain?",
-    "options": ["Egypt (Misr)", "Sudan", "Saudi Arabia", "Iraq"],
+    "options": [
+      "Egypt (Misr)",
+      "Sudan",
+      "Saudi Arabia",
+      "Iraq"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Computer ka wo component jo data permanently save rakhta hai, kya kehlata hai?",
-    "options": ["RAM", "Storage / Hard Drive", "CPU", "Cache"],
+    "options": [
+      "RAM",
+      "Storage / Hard Drive",
+      "CPU",
+      "Cache"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Internet par kisi website ka pata (address) kya kehlata hai?",
-    "options": ["URL", "HTTP", "IP", "HTML"],
+    "options": [
+      "URL",
+      "HTTP",
+      "IP",
+      "HTML"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Wi-Fi ka signal kis wave par kaam karta hai?",
-    "options": ["Radio Waves", "Sound Waves", "Light Waves", "X-Rays"],
+    "options": [
+      "Radio Waves",
+      "Sound Waves",
+      "Light Waves",
+      "X-Rays"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Bluetooth technology ka naam kis historical figure ke naam par rakha gaya tha?",
-    "options": ["King Harald Bluetooth", "Alexander", "Julius Caesar", "Napoleon"],
+    "options": [
+      "King Harald Bluetooth",
+      "Alexander",
+      "Julius Caesar",
+      "Napoleon"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Android operating system kis company ka product hai?",
-    "options": ["Apple", "Google", "Microsoft", "IBM"],
+    "options": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "IBM"
+    ],
     "correctIndex": 1
   },
   {
     "question": "iOS operating system kis company ke devices mein chalta hai?",
-    "options": ["Samsung", "Apple (iPhone)", "Xiaomi", "Huawei"],
+    "options": [
+      "Samsung",
+      "Apple (iPhone)",
+      "Xiaomi",
+      "Huawei"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Microsoft Windows ka pehla version kis saal release hua tha?",
-    "options": ["1985", "1990", "1995", "2000"],
+    "options": [
+      "1985",
+      "1990",
+      "1995",
+      "2000"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Qudrati tor par insan ki aankh kitne rang pehchan sakti hai?",
-    "options": ["Millions of colors", "100 colors", "1000 colors", "10,000 colors"],
+    "options": [
+      "Millions of colors",
+      "100 colors",
+      "1000 colors",
+      "10,000 colors"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Insani jism ka sab se mazboot hissa (part) konsa hota hai?",
-    "options": ["Tooth Enamel (Daant ki oopri tah)", "Thigh bone (Jang ki haddi)", "Jaw bone", "Skull"],
+    "options": [
+      "Tooth Enamel (Daant ki oopri tah)",
+      "Thigh bone (Jang ki haddi)",
+      "Jaw bone",
+      "Skull"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Vitamin D ki kami se bachon mein konsi bimari ho jati hai?",
-    "options": ["Rickets (Haddiyon ka kamzor hona)", "Scurvy", "Beriberi", "Night blindness"],
+    "options": [
+      "Rickets (Haddiyon ka kamzor hona)",
+      "Scurvy",
+      "Beriberi",
+      "Night blindness"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Vitamin A ki kami se konsa masla ho sakta hai?",
-    "options": ["Ratnawand / Night Blindness", "Hair fall", "Tooth decay", "Skin allergy"],
+    "options": [
+      "Ratnawand / Night Blindness",
+      "Hair fall",
+      "Tooth decay",
+      "Skin allergy"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Oxygen ki khoj (discovery) kisne ki thi?",
-    "options": ["Joseph Priestley", "Isaac Newton", "Albert Einstein", "Galileo"],
+    "options": [
+      "Joseph Priestley",
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Atomic theory ka bani (founder) kise mana jata hai?",
-    "options": ["John Dalton", "Albert Einstein", "Niels Bohr", "Marie Curie"],
+    "options": [
+      "John Dalton",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Marie Curie"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Radioactivity kisne daryaft ki thi?",
-    "options": ["Henri Becquerel", "Marie Curie", "Albert Einstein", "Thomas Edison"],
+    "options": [
+      "Henri Becquerel",
+      "Marie Curie",
+      "Albert Einstein",
+      "Thomas Edison"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Dunya ki sab se tez raftaar train (Bullet Train) kis mulk mein hai?",
-    "options": ["Japan", "USA", "UK", "Germany"],
+    "options": [
+      "Japan",
+      "USA",
+      "UK",
+      "Germany"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Pakistan ki pehli airline konsi thi?",
-    "options": ["Orient Airways (jo baad mein PIA bani)", "Shaheen Air", "Airblue", "SereneAir"],
+    "options": [
+      "Orient Airways (jo baad mein PIA bani)",
+      "Shaheen Air",
+      "Airblue",
+      "SereneAir"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Pakistan ka sab se bara airport konsa hai?",
-    "options": ["Jinnah International Airport, Karachi", "Allama Iqbal Airport, Lahore", "Islamabad International Airport", "Peshawar Airport"],
+    "options": [
+      "Jinnah International Airport, Karachi",
+      "Allama Iqbal Airport, Lahore",
+      "Islamabad International Airport",
+      "Peshawar Airport"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Pakistan ka sab se bara railway station kahan hai?",
-    "options": ["Lahore Junction", "Karachi City", "Rawalpindi", "Rohri"],
+    "options": [
+      "Lahore Junction",
+      "Karachi City",
+      "Rawalpindi",
+      "Rohri"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Cricket ke format mein 'T20' ka kya matlab hai?",
-    "options": ["20 Overs per side", "20 Players", "20 Days", "20 Hours"],
+    "options": [
+      "20 Overs per side",
+      "20 Players",
+      "20 Days",
+      "20 Hours"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Test cricket match kitne din ka hota hai?",
-    "options": ["3 days", "5 days", "1 day", "7 days"],
+    "options": [
+      "3 days",
+      "5 days",
+      "1 day",
+      "7 days"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Snooker khel mein kitni red balls hoti hain?",
-    "options": ["10", "15", "21", "22"],
+    "options": [
+      "10",
+      "15",
+      "21",
+      "22"
+    ],
     "correctIndex": 1
   },
   {
     "question": "Badminton ke aik match mein net ki unchai kitni hoti hai?",
-    "options": ["Approx 5 feet", "3 feet", "7 feet", "10 feet"],
+    "options": [
+      "Approx 5 feet",
+      "3 feet",
+      "7 feet",
+      "10 feet"
+    ],
     "correctIndex": 0
   },
   {
     "question": "ProJoin app kis technology stack par bani hui hai?",
-    "options": ["JavaScript, HTML, Tailwind CSS & Firebase", "C# .NET", "Ruby on Rails", "Swift"],
+    "options": [
+      "JavaScript, HTML, Tailwind CSS & Firebase",
+      "C# .NET",
+      "Ruby on Rails",
+      "Swift"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Agr kisi ki smile bohot qaatil ho, toh usay kya kehte hain?",
-    "options": ["Killer Smile", "Simple Face", "Angry look", "Boring expression"],
+    "options": [
+      "Killer Smile",
+      "Simple Face",
+      "Angry look",
+      "Boring expression"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Romantic movies dekhte waqt sab se zyada kya mehsoos hota hai?",
-    "options": ["Acha vibe aur daydreaming", "Neend", "Bhook", "Gussa"],
+    "options": [
+      "Acha vibe aur daydreaming",
+      "Neend",
+      "Bhook",
+      "Gussa"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Jab koi apko chupke se dekhe aur aap notice kar lo, toh us moment ko kya kehte hain?",
-    "options": ["Cute Eye Contact", "Ajeeb ittefaq", "Network error", "Glitch"],
+    "options": [
+      "Cute Eye Contact",
+      "Ajeeb ittefaq",
+      "Network error",
+      "Glitch"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Duniya ki sab se haseen cheez kya mani jati hai?",
-    "options": ["Sachi aur pyari muskurahat", "Pese", "Mobile phone", "Traffic"],
+    "options": [
+      "Sachi aur pyari muskurahat",
+      "Pese",
+      "Mobile phone",
+      "Traffic"
+    ],
     "correctIndex": 0
   },
   {
     "question": "Jab koi aapki tareef kare, toh dil mein kya feeling aati hai?",
-    "options": ["Happy & Glowing Vibes", "Rona", "Bhagna", "Darr"],
+    "options": [
+      "Happy & Glowing Vibes",
+      "Rona",
+      "Bhagna",
+      "Darr"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya mein sab se zyada boli Jane wali zaban konsi hai?",
+    "options": [
+      "English",
+      "Mandarin Chinese",
+      "Hindi",
+      "Spanish"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ki sab se pehli University konsi hai?",
+    "options": [
+      "Punjab University",
+      "Karachi University",
+      "Peshawar University",
+      "Islamia College"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Internet par data secure transfer karne ke liye konsa protocol use hota hai?",
+    "options": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "SMTP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "HTML mein hyper link banane ke liye konsa tag use hota hai?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<p>"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "CSS mein text ka color change karne ki property konsi hai?",
+    "options": [
+      "text-color",
+      "font-style",
+      "color",
+      "background"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "JavaScript mein alert box show karne ke liye kya function use hota hai?",
+    "options": [
+      "msg()",
+      "alert()",
+      "prompt()",
+      "popup()"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Firebase mein user authentication ke liye kis service ka use hota hai?",
+    "options": [
+      "Auth",
+      "Storage",
+      "Hosting",
+      "Realtime DB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "GitHub par repository ka matlab kya hota hai?",
+    "options": [
+      "Project folder",
+      "Bug report",
+      "Live server",
+      "Database"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Render ya Vercel par kya kiya jata hai?",
+    "options": [
+      "Web apps host/deploy",
+      "Video editing",
+      "Photo editing",
+      "Audio recording"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "UptimeRobot ka main kaam kya hai?",
+    "options": [
+      "Website status check karte rehna",
+      "Emails send karna",
+      "Database back up",
+      "Spam block karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "EmailJS service kis taraf code mein integrate ki jati hai?",
+    "options": [
+      "Client-side JavaScript",
+      "Server terminal",
+      "Database core",
+      "CSS file"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Agora SDK kis cheez ke liye famous hai?",
+    "options": [
+      "Voice & Video calling",
+      "Text encryption",
+      "Database queries",
+      "UI styling"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Jumpshare ka istemal kis format ko share karne ke liye hota hai?",
+    "options": [
+      "Screenshots & recordings",
+      "Source code compiler",
+      "Database tables",
+      "Music tracks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Free Fire ya PUBG kis genre ke games hain?",
+    "options": [
+      "Battle Royale",
+      "Racing",
+      "Puzzle",
+      "Board game"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Level Devil game mein main obstacle kya hota hai?",
+    "options": [
+      "Unexpected traps & tricky platforms",
+      "Fast running cars",
+      "Cooking timing",
+      "Card matching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "ProJoin app mein reward coins kahan store hote hain?",
+    "options": [
+      "Firebase Realtime Database",
+      "Local RAM",
+      "Not saved",
+      "Browser cache"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Anti-spam filter application mein kyun lagaye jate hain?",
+    "options": [
+      "Fake messages aur bots rokne ke liye",
+      "Speed barhane ke liye",
+      "Design sundar karne ke liye",
+      "Ads dikhane ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gift Code system app mein kis liye hota hai?",
+    "options": [
+      "Users ko bonus coins dene ke liye",
+      "Account ban karne ke liye",
+      "Error show karne ke liye",
+      "App delete karne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Reels watch task mein video player kiska embedded hota hai?",
+    "options": [
+      "YouTube Player",
+      "Custom Video file",
+      "VLC player",
+      "QuickTime"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Card Luck Battle mein jeetne ki probability kis par depend karti hai?",
+    "options": [
+      "Luck / Random selection",
+      "Typing speed",
+      "Internet speed",
+      "Phone model"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find Hidden Numbers game ka objective kya hota hai?",
+    "options": [
+      "Chhupe huye numbers dhoondna",
+      "Math solver",
+      "Typing test",
+      "Color matching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Online Song Radio par live stream sunte waqt kya milta hai?",
+    "options": [
+      "Reward coins",
+      "Virus",
+      "Error",
+      "App crash"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Special Quests complete karne ka proof kisko bheja jata hai?",
+    "options": [
+      "Admin / Verifier team",
+      "Google support",
+      "YouTube",
+      "Nobody"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie Box module mein kis tarah ka content hota hai?",
+    "options": [
+      "Movies & Netflix/Anime shows",
+      "Only news",
+      "Coding tutorials",
+      "Cooking recipes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Truth & Dare JSON Studio mein data kis format mein export hota hai?",
+    "options": [
+      "JSON",
+      "PDF",
+      "Word",
+      "Excel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "OTP Handler ka role app mein kya hota hai?",
+    "options": [
+      "Verification codes manage karna",
+      "Design banana",
+      "Database delete karna",
+      "Music play karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya ka sab se uncha dam konsa hai?",
+    "options": [
+      "Jinping-I Dam",
+      "Tarbela Dam",
+      "Three Gorges Dam",
+      "Mangla Dam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ki pehli currency kis mint (taksal) mein bani thi?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Peshawar",
+      "Rawalpindi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tajweed ka talluq kis ilm se hai?",
+    "options": [
+      "Quran ki sahi tilawat",
+      "Hadith ki tadween",
+      "Fiqh ke masail",
+      "Tarjuma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Abu Bakr Siddique (R.A) ki khilafat ka arsa kitna tha?",
+    "options": [
+      "2 saal 3 maah",
+      "10 saal",
+      "6 maah",
+      "5 saal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Umar (R.A) par kisne hamla kiya tha?",
+    "options": [
+      "Abu Lulu Feroz",
+      "Ibn Muljam",
+      "Utba",
+      "Shuja"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Usman (R.A) ki shahadat kis dor mein hui?",
+    "options": [
+      "Fitna-e-Kubra / Khilafat ke doran",
+      "Jang-e-Badr",
+      "Fatah-e-Makkah",
+      "Sulh-e-Hudaibiyyah"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Jang-e-Khandaq mein musalmanon ke khandaq khodne ka mashwara kis sahabi ne diya tha?",
+    "options": [
+      "Hazrat Salman Farsi (R.A)",
+      "Hazrat Bilal (R.A)",
+      "Hazrat Hamza (R.A)",
+      "Hazrat Talha (R.A)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sulh-e-Hudaibiyyah kis saal hui thi?",
+    "options": [
+      "6 Hijri",
+      "2 Hijri",
+      "4 Hijri",
+      "8 Hijri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Fatah-e-Makkah kis Hijri mein hui?",
+    "options": [
+      "8 Hijri",
+      "6 Hijri",
+      "10 Hijri",
+      "2 Hijri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hajja-tul-Wida kis saal ada ki gayi?",
+    "options": [
+      "10 Hijri",
+      "8 Hijri",
+      "9 Hijri",
+      "11 Hijri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Masjid-e-Quba kahan waqia hai?",
+    "options": [
+      "Madina ke baher",
+      "Makkah mein",
+      "Jerusalem mein",
+      "Taif mein"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Masjid-e-Aqsa kis shehar mein hai?",
+    "options": [
+      "Jerusalem (Al-Quds)",
+      "Damascus",
+      "Cairo",
+      "Amman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Mairaj ka waqia kis mahine mein pesh aaya tha?",
+    "options": [
+      "Rajab (27 Rajab)",
+      "Ramzan",
+      "Rabi-ul-Awwal",
+      "Muharram"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Zakat Islam ka konsa rukan hai?",
+    "options": [
+      "3rd Pillar",
+      "1st Pillar",
+      "5th Pillar",
+      "2nd Pillar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Roza kis Hijri mein فرض (Mandatory) hua tha?",
+    "options": [
+      "2 Hijri",
+      "1 Hijri",
+      "4 Hijri",
+      "5 Hijri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hajj kis Hijri mein فرض hua tha?",
+    "options": [
+      "9 Hijri",
+      "6 Hijri",
+      "10 Hijri",
+      "3 Hijri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se bara national park konsa hai?",
+    "options": [
+      "Hingol National Park",
+      "Kirthar National Park",
+      "Margalla Hills",
+      "Lal Suhanra"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Islam ke akhri Nabi Hazrat Muhammad (PBUH) ki wafat kis saal hui thi?",
+    "options": [
+      "10 Hijri",
+      "11 Hijri",
+      "12 Hijri",
+      "15 Hijri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jannat-ul-Baqi kabristan kis shehar mein hai?",
+    "options": [
+      "Makkah",
+      "Madina",
+      "Jerusalem",
+      "Damascus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jannat-ul-Mualla kabristan kis shehar mein hai?",
+    "options": [
+      "Makkah",
+      "Madina",
+      "Taif",
+      "Jeddah"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Khatam-an-Nabiyyeen ka matlab kya hai?",
+    "options": [
+      "Pehle Nabi",
+      "Akhri Nabi",
+      "Sab se bare Nabi",
+      "Khas Nabi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hazrat Ibrahim (A.S) ke do beton ke naam kya thay?",
+    "options": [
+      "Hazrat Ismail (A.S) aur Hazrat Ishaq (A.S)",
+      "Hazrat Musa (A.S) aur Haroon (A.S)",
+      "Hazrat Yusuf (A.S) aur Benjamin",
+      "Hazrat Dawood (A.S) aur Sulaiman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Kabe ki tameer sab se pehle kisne ki thi?",
+    "options": [
+      "Hazrat Ibrahim (A.S) aur Hazrat Ismail (A.S)",
+      "Farishtoun ne aur Hazrat Adam (A.S)",
+      "Hazrat Nuh (A.S)",
+      "Quresh ne"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hajr-e-Aswad (Black Stone) kis deewar mein nasab hai?",
+    "options": [
+      "Khana-e-Kaba ki ek konay mein",
+      "Maqam-e-Ibrahim par",
+      "Safa Marwa par",
+      "Jabl-e-Noor par"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Abe-Zamzam ka kuaan kahan waqia hai?",
+    "options": [
+      "Madina mein",
+      "Makkah mein Masjid-ul-Haram ke qareeb",
+      "Taif mein",
+      "Jeddah mein"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Safa aur Marwa ke darmiyan chalne ko kya kehte hain?",
+    "options": [
+      "Tawaf",
+      "Sayee",
+      "Rami",
+      "Ihtram"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Mina mein shaitan ko kankariyan marne ke amal ko kya kehte hain?",
+    "options": [
+      "Rami",
+      "Qurbani",
+      "Halq",
+      "Tawaf-e-Ziyarat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Eid-ul-Adha kis islamic mahine mein manai jati hai?",
+    "options": [
+      "Ramzan",
+      "Shawwal",
+      "Zilhaj (10th Zilhaj)",
+      "Rabi-ul-Awwal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Eid-ul-Fitr kis islamic mahine ki 1 tareekh ko hoti hai?",
+    "options": [
+      "Ramzan",
+      "Shawwal",
+      "Muharram",
+      "Rabi-ul-Awwal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Islamic calendar ka pehla mahina konsa hai?",
+    "options": [
+      "Muharram",
+      "Safar",
+      "Rajab",
+      "Rabi-ul-Awwal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Islamic calendar ka akhri mahina konsa hai?",
+    "options": [
+      "Shaban",
+      "Zilhaj",
+      "Shawwal",
+      "Ramzan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hazrat Ali (R.A) ka laqab kya tha?",
+    "options": [
+      "Asadullah / Haider-e-Karrar",
+      "Siddique",
+      "Farooq",
+      "Zun-Noorain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Usman (R.A) ka laqab kya tha?",
+    "options": [
+      "Zun-Noorain (Do noor wale)",
+      "Farooq",
+      "Siddique",
+      "Ameen-ul-Ummat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Umar (R.A) ka laqab kya tha?",
+    "options": [
+      "Farooq",
+      "Siddique",
+      "Haider",
+      "Saifullah"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Khalid bin Walid (R.A) ka laqab kya tha?",
+    "options": [
+      "Saifullah (Allah ki talwar)",
+      "Asadullah",
+      "Ameen",
+      "Farooq"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya ka sab se bara island (Jazeera) konsa hai?",
+    "options": [
+      "Greenland",
+      "Madagascar",
+      "Borneo",
+      "Sumatra"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Asia ka sab se bara mulk aabadi ke lihaz se konsa hai?",
+    "options": [
+      "China",
+      "India",
+      "Pakistan",
+      "Indonesia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dunya mein kul kitne continents (Qarah) hain?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dunya ka sab se sarda (coldest) ilaqaa ya continent konsa hai?",
+    "options": [
+      "Antarctica",
+      "Europe",
+      "Asia",
+      "North America"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Eiffel Tower kis mulk aur shehar mein hai?",
+    "options": [
+      "Paris, France",
+      "London, UK",
+      "Rome, Italy",
+      "Berlin, Germany"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Statue of Liberty kis mulk mein waqia hai?",
+    "options": [
+      "USA (New York)",
+      "UK (London)",
+      "France",
+      "Canada"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Great Wall of China ki lambai kitni hai?",
+    "options": [
+      "Thousands of kilometers",
+      "100 km",
+      "500 km",
+      "10 km"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pyramids of Giza kis mulk mein hain?",
+    "options": [
+      "Egypt (Misr)",
+      "Sudan",
+      "Saudi Arabia",
+      "Iraq"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qudrati tor par insan ki aankh kitne rang pehchan sakti hai?",
+    "options": [
+      "Millions of colors",
+      "100 colors",
+      "1000 colors",
+      "10,000 colors"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Insani jism ka sab se mazboot hissa (part) konsa hota hai?",
+    "options": [
+      "Tooth Enamel (Daant ki oopri tah)",
+      "Thigh bone (Jang ki haddi)",
+      "Jaw bone",
+      "Skull"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Vitamin D ki kami se bachon mein konsi bimari ho jati hai?",
+    "options": [
+      "Rickets (Haddiyon ka kamzor hona)",
+      "Scurvy",
+      "Beriberi",
+      "Night blindness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Vitamin A ki kami se konsa masla ho sakta hai?",
+    "options": [
+      "Ratnawand / Night Blindness",
+      "Hair fall",
+      "Tooth decay",
+      "Skin allergy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Oxygen ki khoj (discovery) kisne ki thi?",
+    "options": [
+      "Joseph Priestley",
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Atomic theory ka bani (founder) kise mana jata hai?",
+    "options": [
+      "John Dalton",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Marie Curie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Radioactivity kisne daryaft ki thi?",
+    "options": [
+      "Henri Becquerel",
+      "Marie Curie",
+      "Albert Einstein",
+      "Thomas Edison"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya ki sab se tez raftaar train (Bullet Train) kis mulk mein hai?",
+    "options": [
+      "Japan",
+      "USA",
+      "UK",
+      "Germany"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ki pehli airline konsi thi?",
+    "options": [
+      "Orient Airways (jo baad mein PIA bani)",
+      "Shaheen Air",
+      "Airblue",
+      "SereneAir"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se bara airport konsa hai?",
+    "options": [
+      "Jinnah International Airport, Karachi",
+      "Allama Iqbal Airport, Lahore",
+      "Islamabad International Airport",
+      "Peshawar Airport"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se bara railway station kahan hai?",
+    "options": [
+      "Lahore Junction",
+      "Karachi City",
+      "Rawalpindi",
+      "Rohri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cricket ke format mein 'T20' ka kya matlab hai?",
+    "options": [
+      "20 Overs per side",
+      "20 Players",
+      "20 Days",
+      "20 Hours"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Test cricket match kitne din ka hota hai?",
+    "options": [
+      "3 days",
+      "5 days",
+      "1 day",
+      "7 days"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Snooker khel mein kitni red balls hoti hain?",
+    "options": [
+      "10",
+      "15",
+      "21",
+      "22"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Badminton ke aik match mein net ki unchai kitni hoti hai?",
+    "options": [
+      "Approx 5 feet",
+      "3 feet",
+      "7 feet",
+      "10 feet"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya mein sab se zyada boli Jane wali zaban konsi hai?",
+    "options": [
+      "English",
+      "Mandarin Chinese",
+      "Hindi",
+      "Spanish"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pakistan ki sab se pehli University konsi hai?",
+    "options": [
+      "Punjab University",
+      "Karachi University",
+      "Peshawar University",
+      "Islamia College"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya ka sab se uncha dam konsa hai?",
+    "options": [
+      "Jinping-I Dam",
+      "Tarbela Dam",
+      "Three Gorges Dam",
+      "Mangla Dam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ki pehli currency kis mint (taksal) mein bani thi?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Peshawar",
+      "Rawalpindi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tajweed ka talluq kis ilm se hai?",
+    "options": [
+      "Quran ki sahi tilawat",
+      "Hadith ki tadween",
+      "Fiqh ke masail",
+      "Tarjuma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Abu Bakr Siddique (R.A) ki khilafat ka arsa kitna tha?",
+    "options": [
+      "2 saal 3 maah",
+      "10 saal",
+      "6 maah",
+      "5 saal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Umar (R.A) par kisne hamla kiya tha?",
+    "options": [
+      "Abu Lulu Feroz",
+      "Ibn Muljam",
+      "Utba",
+      "Shuja"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Usman (R.A) ki shahadat kis dor mein hui?",
+    "options": [
+      "Fitna-e-Kubra / Khilafat ke doran",
+      "Jang-e-Badr",
+      "Fatah-e-Makkah",
+      "Sulh-e-Hudaibiyyah"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Jang-e-Khandaq mein musalmanon ke khandaq khodne ka mashwara kis sahabi ne diya tha?",
+    "options": [
+      "Hazrat Salman Farsi (R.A)",
+      "Hazrat Bilal (R.A)",
+      "Hazrat Hamza (R.A)",
+      "Hazrat Talha (R.A)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sulh-e-Hudaibiyyah kis saal hui thi?",
+    "options": [
+      "6 Hijri",
+      "2 Hijri",
+      "4 Hijri",
+      "8 Hijri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Fatah-e-Makkah kis Hijri mein hui?",
+    "options": [
+      "8 Hijri",
+      "6 Hijri",
+      "10 Hijri",
+      "2 Hijri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hajja-tul-Wida kis saal ada ki gayi?",
+    "options": [
+      "10 Hijri",
+      "8 Hijri",
+      "9 Hijri",
+      "11 Hijri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Masjid-e-Quba kahan waqia hai?",
+    "options": [
+      "Madina ke baher",
+      "Makkah mein",
+      "Jerusalem mein",
+      "Taif mein"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Masjid-e-Aqsa kis shehar mein hai?",
+    "options": [
+      "Jerusalem (Al-Quds)",
+      "Damascus",
+      "Cairo",
+      "Amman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Mairaj ka waqia kis mahine mein pesh aaya tha?",
+    "options": [
+      "Rajab (27 Rajab)",
+      "Ramzan",
+      "Rabi-ul-Awwal",
+      "Muharram"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Zakat Islam ka konsa rukan hai?",
+    "options": [
+      "3rd Pillar",
+      "1st Pillar",
+      "5th Pillar",
+      "2nd Pillar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Roza kis Hijri mein فرض (Mandatory) hua tha?",
+    "options": [
+      "2 Hijri",
+      "1 Hijri",
+      "4 Hijri",
+      "5 Hijri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hajj kis Hijri mein فرض hua tha?",
+    "options": [
+      "9 Hijri",
+      "6 Hijri",
+      "10 Hijri",
+      "3 Hijri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya ka sab se bara dry port Pakistan ke kis shehar mein hai?",
+    "options": [
+      "Faisalabad",
+      "Lahore",
+      "Multan",
+      "Sialkot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka national flower (Phool) konsa hai?",
+    "options": [
+      "Chambeli (Jasmine)",
+      "Gulab",
+      "Surajmukhi",
+      "Motia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se bara museum (Museum of Pakistan) kahan hai?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Peshawar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Isa (A.S) ki walda ka naam kya tha?",
+    "options": [
+      "Bibi Maryam (A.S)",
+      "Bibi Aasiya",
+      "Bibi Khadija",
+      "Bibi Fatimah"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hazrat Musa (A.S) ka kissa kis Nabi ke sath quran mein aam tor par zikr hota hai jinhon ne unhe safar karwaya?",
+    "options": [
+      "Hazrat Khidr (A.S)",
+      "Hazrat Haroon (A.S)",
+      "Hazrat Yusha",
+      "Hazrat Shoaib (A.S)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Surah Al-Kahf mein kis waqye ka zikr hai?",
+    "options": [
+      "Ashab-e-Kahf (Cave ki kahani)",
+      "Bani Israel ki kahani",
+      "Qiyamat ka manzar",
+      "Jannat ka bayan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quran-e-Pak mein kul kitni Manzil hain?",
+    "options": [
+      "7",
+      "10",
+      "30",
+      "114"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quran-e-Pak mein kul kitne Siparay (Juz) hain?",
+    "options": [
+      "30",
+      "7",
+      "40",
+      "12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ke pehle tarana (Anthem) ki dhun kisne banai thi?",
+    "options": [
+      "Ahmed Ghulam Ali Chagla",
+      "Hafeez Jalandhari",
+      "Allama Iqbal",
+      "Sohail Rana"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se purana baagh (Shalimar Garden) kisne banwaya tha?",
+    "options": [
+      "Mughal Emperor Shah Jahan",
+      "Akbar the Great",
+      "Aurangzeb",
+      "Jahangir"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Lahore ka Shahi Qila kisne tameer karwaya tha?",
+    "options": [
+      "Emperor Akbar",
+      "Shah Jahan",
+      "Sher Shah Suri",
+      "Qutb-ud-din Aibak"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Badshahi Masjid Lahore kis Mughal badshah ne banwai thi?",
+    "options": [
+      "Aurangzeb Alamgir",
+      "Shah Jahan",
+      "Jahangir",
+      "Humayun"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Noor Jehan ka maqbara kis shehar mein hai?",
+    "options": [
+      "Lahore",
+      "Agra",
+      "Delhi",
+      "Rawalpindi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Jehangir ka maqbara kis jagah waqia hai?",
+    "options": [
+      "Shahdara, Lahore",
+      "Multan",
+      "Islamabad",
+      "Peshawar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Khyber Pakhtunkhwa ka purana naam kya tha?",
+    "options": [
+      "North-West Frontier Province (NWFP)",
+      "Balochistan",
+      "FATA",
+      "Sindh"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se bara desert (Registan) kis province mein hai?",
+    "options": [
+      "Sindh (Thar)",
+      "Punjab",
+      "Balochistan",
+      "KPK"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ziarat Residency kahan waqia hai jahan Quaid-e-Azam ne apni zindagi ke akhri din guzare thay?",
+    "options": [
+      "Ziarat, Balochistan",
+      "Murree",
+      "Quetta",
+      "Gilgit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka national animal 'Markhor' kis family se taluq rakhta hai?",
+    "options": [
+      "Wild Goat family",
+      "Deer family",
+      "Sheep family",
+      "Ox family"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Himalaya ki sab se unchi choti Mount Everest kis border par hai?",
+    "options": [
+      "Nepal and China (Tibet)",
+      "Pakistan and China",
+      "India and Pakistan",
+      "Bhutan and India"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya ki sab se bari freshwater lake konsi hai?",
+    "options": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Caspian Sea",
+      "Lake Baikal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dunya ki sab se gehri jheel (Deepest Lake) konsi hai?",
+    "options": [
+      "Lake Baikal",
+      "Lake Superior",
+      "Crater Lake",
+      "Lake Tanganyika"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se bara dam konsa hai?",
+    "options": [
+      "Tarbela Dam",
+      "Mangla Dam",
+      "Warsak Dam",
+      "Diamer Bhasha Dam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hub Dam kis shehar ke qareeb waqia hai?",
+    "options": [
+      "Karachi",
+      "Quetta",
+      "Lahore",
+      "Peshawar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan mein sab se zyada barish kis shehar mein hoti hai?",
+    "options": [
+      "Rawalpindi / Murree",
+      "Quetta",
+      "Multan",
+      "Jacobabad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka sab se garam tareen (hottest) shehar konsa mana jata hai?",
+    "options": [
+      "Jacobabad / Sibi",
+      "Lahore",
+      "Karachi",
+      "Faisalabad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ki sab se pehli coin (sikka) kis san mein jari hui thi?",
+    "options": [
+      "1948",
+      "1947",
+      "1950",
+      "1952"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Allama Iqbal ne apna mashhoor 'Khutba-e-Allahabad' kis saal diya tha?",
+    "options": [
+      "1930",
+      "1940",
+      "1929",
+      "1935"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sir Syed Ahmed Khan ne Aligarh College kis saal banaya tha?",
+    "options": [
+      "1875",
+      "1867",
+      "1885",
+      "1906"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Muslim League ki bunyad kis shehar mein rakhi gayi thi?",
+    "options": [
+      "Dhaka",
+      "Aligarh",
+      "Lucknow",
+      "Lahore"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Muslim League kis saal qaim hui thi?",
+    "options": [
+      "1906",
+      "1905",
+      "1911",
+      "1913"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quaid-e-Azam ne Muslim League kab join ki thi?",
+    "options": [
+      "1913",
+      "1906",
+      "1920",
+      "1930"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Lucknow Pact kis saal hua tha?",
+    "options": [
+      "1916",
+      "1909",
+      "1919",
+      "1924"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Khilafat Movement ka aaghaz kis saal hua tha?",
+    "options": [
+      "1919",
+      "1914",
+      "1922",
+      "1928"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Simla Conference kis saal hui thi?",
+    "options": [
+      "1945",
+      "1942",
+      "1946",
+      "1947"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cabinet Mission Plan kis saal India aaya tha?",
+    "options": [
+      "1946",
+      "1945",
+      "1947",
+      "1944"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Radcliffe Award kis tareekh ko announce kiya gaya tha?",
+    "options": [
+      "17 August 1947",
+      "14 August 1947",
+      "15 August 1947",
+      "18 August 1947"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ki pehli Aaeen-sazi (Constitution) kis saal bani thi?",
+    "options": [
+      "1956",
+      "1950",
+      "1962",
+      "1973"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pakistan ka mojooda aaeen kis saal nafiz huwa tha?",
+    "options": [
+      "1973",
+      "1956",
+      "1962",
+      "1985"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Academy Awards (Oscars) ki mukammal taqreeb sab se pehle kis saal hui thi?",
+    "options": [
+      "1929",
+      "1935",
+      "1940",
+      "1920"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Titanic' (1997) ne kul kitne Oscars jeete thay?",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Christopher Nolan ki kis sci-fi movie mein sapnon ke andar sapna (dreams within dreams) ka concept dikhaya gaya hai?",
+    "options": [
+      "Inception",
+      "Interstellar",
+      "Tenet",
+      "Memento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Marvel Cinematic Universe (MCU) ki pehli movie konsi thi jo 2008 mein release hui thi?",
+    "options": [
+      "Iron Man",
+      "The Incredible Hulk",
+      "Thor",
+      "Captain America"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director James Cameron ki film 'Avatar' (2009) mein kis planet ki kahani dikhai gayi hai?",
+    "options": [
+      "Pandora",
+      "Mars",
+      "Krypton",
+      "Tatooine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Godfather' (1972) mein Don Vito Corleone ka kirdar kis mashhoor actor ne nibhaya tha?",
+    "options": [
+      "Marlon Brando",
+      "Al Pacino",
+      "Robert De Niro",
+      "Jack Nicholson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Harry Potter movie series mein Hogwarts magic school ka Principal (Headmaster) 'Albus Dumbledore' ka pehla kirdar kis actor ne nibhaya tha?",
+    "options": [
+      "Richard Harris",
+      "Michael Gambon",
+      "Jude Law",
+      "Alan Rickman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Animation movie franchise 'Toy Story' ka pehla part kis animation studio ne banaya tha?",
+    "options": [
+      "Pixar",
+      "DreamWorks",
+      "Disney",
+      "Illumination"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Quentin Tarantino ki cult classic movie 'Pulp Fiction' kis saal release hui thi?",
+    "options": [
+      "1994",
+      "1990",
+      "1999",
+      "2001"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Dark Knight' (2008) mein Joker ka lajawab kirdar kis actor ne ada kiya tha?",
+    "options": [
+      "Heath Ledger",
+      "Joaquin Phoenix",
+      "Jared Leto",
+      "Jack Nicholson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Steven Spielberg ki kis dinosaur movie ne 1993 mein dunya bhar mein dhoom macha di thi?",
+    "options": [
+      "Jurassic Park",
+      "King Kong",
+      "Godzilla",
+      "Land Before Time"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Lord of the Rings trilogy ka pehla part 'The Fellowship of the Ring' kis saal release hua tha?",
+    "options": [
+      "2001",
+      "2000",
+      "2003",
+      "1999"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Matrix' (1999) mein Neo ka mashhoor kirdar kis actor ne nibhaya tha?",
+    "options": [
+      "Keanu Reeves",
+      "Tom Cruise",
+      "Brad Pitt",
+      "Will Smith"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Ridley Scott ki sci-fi masterpiece movie 'Alien' kis saal release hui thi?",
+    "options": [
+      "1979",
+      "1982",
+      "1975",
+      "1985"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Star Wars Episode IV: A New Hope kis saal release hui thi?",
+    "options": [
+      "1977",
+      "1980",
+      "1983",
+      "1975"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Animated movie 'Frozen' ka mashhoor gana 'Let It Go' kis character ne gaya tha?",
+    "options": [
+      "Elsa",
+      "Anna",
+      "Olaf",
+      "Kristoff"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Martin Scorsese ki movie 'The Wolf of Wall Street' mein main lead kis actor ne kiya tha?",
+    "options": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Matt Damon",
+      "Christian Bale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Interstellar' (2014) mein space travel ke doran kis scientific phenomenon ka markazi kirdar hai?",
+    "options": [
+      "Wormhole & Black Hole",
+      "Supernova",
+      "Solar Flare",
+      "Meteor Shower"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pixar ki movie 'Finding Nemo' mein Nemo kis qisam ki machli (fish) hai?",
+    "options": [
+      "Clownfish",
+      "Blue Tang",
+      "Shark",
+      "Goldfish"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Peter Jackson ki kis fantasy trilogy ne 11 Oscars jeet kar record banaya tha?",
+    "options": [
+      "The Lord of the Rings: The Return of the King",
+      "Harry Potter",
+      "The Hobbit",
+      "Chronicles of Narnia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Fight Club' (1999) ka pehla rule kya tha?",
+    "options": [
+      "You do not talk about Fight Club",
+      "Always wear a shirt",
+      "Never fight alone",
+      "No weapons allowed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director James Cameron ki movie 'Terminator 2: Judgment Day' kis saal release hui thi?",
+    "options": [
+      "1991",
+      "1984",
+      "1995",
+      "1989"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Forrest Gump' (1994) mein title character kis actor ne play kiya tha?",
+    "options": [
+      "Tom Hanks",
+      "Robin Williams",
+      "Harrison Ford",
+      "Dustin Hoffman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Christopher Nolan ki space/time movie 'Tenet' mein kis term ka istemal hota hai?",
+    "options": [
+      "Tenet / Inversion",
+      "Warp Speed",
+      "Time Loop",
+      "Portals"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Marvel ki movie 'Avengers: Endgame' kis saal release hui thi?",
+    "options": [
+      "2019",
+      "2018",
+      "2020",
+      "2017"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Animated movie 'Shrek' mein Shrek ka kirdar kis actor ne voice kiya tha?",
+    "options": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Jim Carrey",
+      "Robin Williams"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Gladiator' (2000) mein General Maximus ka kirdar kis actor ne nibhaya tha?",
+    "options": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Mel Gibson",
+      "Gerard Butler"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Quentin Tarantino ki movie 'Django Unchained' kis genre par mabni hai?",
+    "options": [
+      "Spaghetti Western",
+      "Sci-Fi",
+      "Romantic Comedy",
+      "Animation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Jurassic Park' mein dinosaur cloning ke liye kis cheez se DNA hasil kiya gaya tha?",
+    "options": [
+      "Mosquito trapped in amber",
+      "Frozen fossils",
+      "Ocean rocks",
+      "Deep caves"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Denis Villeneuve ki sci-fi masterpiece movie 'Dune' kis planet ki zameen par shuru hoti hai?",
+    "options": [
+      "Caladan (aur baad mein Arrakis)",
+      "Giedi Prime",
+      "Kandor",
+      "Arcturus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Silence of the Lambs' (1991) mein Dr. Hannibal Lecter ka iconic kirdar kis actor ne nibhaya tha?",
+    "options": [
+      "Anthony Hopkins",
+      "Jack Nicholson",
+      "Morgan Freeman",
+      "Ian McKellen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pixar ki movie 'Up' (2009) mein ghar ko umane ke liye kis cheez ka sahara liya jata hai?",
+    "options": [
+      "Thousands of helium balloons",
+      "A giant rocket",
+      "Magic wind",
+      "Helicopters"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Christopher Nolan ki movie 'Oppenheimer' (2023) kis project par bani thi?",
+    "options": [
+      "Manhattan Project (Atomic Bomb)",
+      "Apollo Moon Landing",
+      "Wright Brothers Flight",
+      "Enigma Code"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Back to the Future' (1985) mein time machine kis gari (car) ko banaya gaya tha?",
+    "options": [
+      "DeLorean DMC-12",
+      "Batmobile",
+      "Ferrari Testarossa",
+      "Ford Mustang"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director James Cameron ki movie 'Aliens' (1986) kis genre ki sequel hai?",
+    "options": [
+      "Alien (1979)",
+      "Terminator",
+      "Predator",
+      "Blade Runner"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Spider-Man: Into the Spider-Verse' (2018) ka main hero ka naam kya hai?",
+    "options": [
+      "Miles Morales",
+      "Peter Parker",
+      "Miguel O'Hara",
+      "Gwen Stacy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Martin Scorsese ki movie 'Taxi Driver' (1976) mein main lead kisne kiya tha?",
+    "options": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Jack Nicholson",
+      "Dustin Hoffman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Avatar: The Way of Water' kis saal release hui thi?",
+    "options": [
+      "2022",
+      "2020",
+      "2021",
+      "2023"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director David Fincher ki movie 'Fight Club' mein Tyler Durden ka kirdar kis actor ne play kiya tha?",
+    "options": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Tom Cruise",
+      "Keanu Reeves"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Jaws' (1975) ke director kon thay jinhone blockbuster cinema ki bunyad rakhi?",
+    "options": [
+      "Steven Spielberg",
+      "George Lucas",
+      "Francis Ford Coppola",
+      "Martin Scorsese"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Christopher Nolan ki movie 'The Prestige' kis topic ke gird ghumti hai?",
+    "options": [
+      "Two rival magicians",
+      "Space exploration",
+      "Bank robbery",
+      "Secret agents"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Shawshank Redemption' (1994) ki kahani kis jagah par set hai?",
+    "options": [
+      "Prison (Shawshank State Penitentiary)",
+      "An island",
+      "A military base",
+      "A remote cabin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director George Lucas ki famous space opera franchise ka naam kya hai?",
+    "options": [
+      "Star Wars",
+      "Star Trek",
+      "Guardians of the Galaxy",
+      "Battlestar Galactica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Animated movie 'Ratatouille' (2007) mein rat ka khwab kya hota hai?",
+    "options": [
+      "To become a great French chef",
+      "To run a cheese factory",
+      "To open a pet shop",
+      "To live in Paris streets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Lord of the Rings' mein One Ring ko kahan destroy karna hota hai?",
+    "options": [
+      "Mount Doom",
+      "Rivendell",
+      "Minas Tirith",
+      "The Shire"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Denis Villeneuve ki movie 'Blade Runner 2049' kis purani movie ki sequel hai?",
+    "options": [
+      "Blade Runner (1982)",
+      "Total Recall",
+      "The Terminator",
+      "Dune"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Inception' (2010) mein logon ke dimag mein ghus kar unke khayalat churane ki technique ko kya kehte hain?",
+    "options": [
+      "Extraction",
+      "Mind Reading",
+      "Hypnosis",
+      "Dream Walking"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Quentin Tarantino ki movie 'Inglourious Basterds' kis historical event par hai?",
+    "options": [
+      "World War II",
+      "World War I",
+      "Vietnam War",
+      "Cold War"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Interstellar' mein Cooper ki beti ka naam kya hota hai jo physicist banti hai?",
+    "options": [
+      "Murph (Murphy)",
+      "Emma",
+      "Sarah",
+      "Jessica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Tim Burton ki goth animation movie 'The Nightmare Before Christmas' kis saal release hui thi?",
+    "options": [
+      "1993",
+      "1990",
+      "1995",
+      "1988"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Matrix' mein red pill lene se kya hota hai?",
+    "options": [
+      "You wake up to the harsh truth of reality",
+      "You stay in the simulation",
+      "You forget everything",
+      "You get superpowers instantly"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director James Cameron ki Titanic movie ka famous romantic theme song kis singer ne gaya tha?",
+    "options": [
+      "Celine Dion",
+      "Whitney Houston",
+      "Mariah Carey",
+      "Madonna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Gladiator' mein Emperor Marcus Aurelius ka beta aur villain ka naam kya hota hai?",
+    "options": [
+      "Commodus",
+      "Caesar",
+      "Brutus",
+      "Nero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Martin Scorsese ki movie 'Goodfellas' kis genre ki film hai?",
+    "options": [
+      "Crime / Mafia Drama",
+      "Romantic Comedy",
+      "Sci-Fi",
+      "Western"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Lion King' (1994) mein Simba ke baap ka naam kya tha?",
+    "options": [
+      "Mufasa",
+      "Scar",
+      "Rafiki",
+      "Zazu"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Christopher Nolan ki movie 'Batman Begins' mein Bruce Wayne ki training kis secret society mein hoti hai?",
+    "options": [
+      "League of Shadows",
+      "Order of Phoenix",
+      "The Hand",
+      "Brotherhood"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Jurassic Park' mein park ka visionary creator kon hota hai?",
+    "options": [
+      "John Hammond",
+      "Dr. Ian Malcolm",
+      "Dr. Alan Grant",
+      "Dennis Nedry"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Ridley Scott ki movie 'Gladiator' ne kis saal Best Picture ka Oscar jeeta tha?",
+    "options": [
+      "2001",
+      "1998",
+      "2003",
+      "1995"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Spider-Man: No Way Home' (2021) mein kitne Spider-Men screen par ek sath nazar aaye thay?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Peter Jackson ki middle-earth trilogy mein 'Gollum' ka kirdar kis actor ne motion-capture se play kiya tha?",
+    "options": [
+      "Andy Serkis",
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Whiplash' (2014) mein markazi kirdar kis musical instrument ko master karne ki koshish karta hai?",
+    "options": [
+      "Drums",
+      "Piano",
+      "Violin",
+      "Guitar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director David Fincher ki movie 'Se7en' (1995) mein killer kis theme par muder karta hai?",
+    "options": [
+      "Seven Deadly Sins",
+      "Zodiac signs",
+      "Famous paintings",
+      "Days of the week"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Avatar' mein na'vi log kis tree ko apni spiritual worship ka markaz mante hain?",
+    "options": [
+      "Tree of Souls (Hometree)",
+      "Great Oak",
+      "Banyan Tree",
+      "Willow Tree"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director George Lucas ki first Star Wars movie mein Han Solo ka spaceship konsa tha?",
+    "options": [
+      "Millennium Falcon",
+      "X-Wing",
+      "TIE Fighter",
+      "Star Destroyer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Departed' (2006) ke liye kis director ko pehla Oscar award mila tha?",
+    "options": [
+      "Martin Scorsese",
+      "Quentin Tarantino",
+      "Christopher Nolan",
+      "Steven Spielberg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pixar ki movie 'WALL-E' mein WALL-E robot ka main kaam kya hota hai?",
+    "options": [
+      "Cleaning up trash on abandoned Earth",
+      "Building spaceships",
+      "Serving humans",
+      "Exploring alien planets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Godfather Part II' mein Michael Corleone ka kirdar kisne nibhaya tha?",
+    "options": [
+      "Al Pacino",
+      "Marlon Brando",
+      "Robert De Niro",
+      "Joe Pesci"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Christopher Nolan ki movie 'Memento' ki kya khas baat hai?",
+    "options": [
+      "It is told in reverse chronological order",
+      "It has no sound",
+      "It is animated",
+      "It is a silent movie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Top Gun: Maverick' kis saal release hui thi?",
+    "options": [
+      "2022",
+      "2020",
+      "2019",
+      "2023"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Ridley Scott ki sci-fi movie 'Blade Runner' mein replicants ko pehchanne ke liye konsa test hota hai?",
+    "options": [
+      "Voight-Kampff test",
+      "Turing test",
+      "Lie detector",
+      "DNA test"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Dark Knight Rises' mein Batman ka samna kis powerful villain se hota hai?",
+    "options": [
+      "Bane",
+      "Rai's al Ghul",
+      "Scarecrow",
+      "Two-Face"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director James Cameron ne kis deep ocean trench ki solo submarine dive lagai thi?",
+    "options": [
+      "Mariana Trench",
+      "Puerto Rico Trench",
+      "Java Trench",
+      "Philippine Trench"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Animated movie 'Up' mein grumpy old man ka naam kya hota hai?",
+    "options": [
+      "Carl Fredricksen",
+      "Russell",
+      "Charles Muntz",
+      "Ellie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Pulp Fiction' mein Vincent Vega ka kirdar kis actor ne nibhaya tha?",
+    "options": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Bruce Willis",
+      "Harvey Keitel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Denis Villeneuve ki movie 'Arrival' (2016) kis topic par hai?",
+    "options": [
+      "Linguistics / Translating alien language",
+      "Time travel",
+      "Artificial intelligence",
+      "Zombie outbreak"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Lord of the Rings' mein wizard Gandalf ka famous quote konsa hai?",
+    "options": [
+      "You shall not pass!",
+      "May the Force be with you",
+      "Winter is coming",
+      "I'll be back"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Steven Spielberg ki movie 'Schindler's List' kis background par bani hai?",
+    "options": [
+      "Holocaust during World War II",
+      "Vietnam War",
+      "American Civil War",
+      "Cold War"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Matrix Resurrections' kis saal release hui thi?",
+    "options": [
+      "2021",
+      "2019",
+      "2022",
+      "2020"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pixar ki movie 'Inside Out' mein human mind ke andar kitne main emotions dikhaye gaye hain?",
+    "options": [
+      "5 (Joy, Sadness, Fear, Anger, Disgust)",
+      "3",
+      "7",
+      "4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Interstellar' mein Murphy ki dhoondhi hui equation kis cheez ko solve karti hai?",
+    "options": [
+      "Gravity equations for space colonization",
+      "Cure for disease",
+      "Unlimited energy",
+      "Time travel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Martin Scorsese ki movie 'The Departed' mein Leonardo DiCaprio ka kirdar kis department mein undercover hota hai?",
+    "options": [
+      "Irish Mob (undercover cop)",
+      "FBI",
+      "CIA",
+      "Drug cartel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Terminator' franchise mein Skynet kya hai?",
+    "options": [
+      "A rogue artificial intelligence system",
+      "A human resistance group",
+      "A time machine",
+      "An alien spaceship"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Christopher Nolan ki movie 'Dunkirk' kis historical evacuation par mabni hai?",
+    "options": [
+      "Dunkirk evacuation of British soldiers in WWII",
+      "D-Day landing",
+      "Battle of Britain",
+      "Pearl Harbor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Fight Club' ke end mein narrator ke sath kya twist samne aata hai?",
+    "options": [
+      "Tyler Durden was his own split personality",
+      "Tyler was a ghost",
+      "He was dreaming",
+      "He was working for police"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director James Cameron ki movie 'Aliens' mein Ellen Ripley ka iconic weapon kya hota hai?",
+    "options": [
+      "Pulse rifle with attached flamethrower",
+      "Laser pistol",
+      "Plasma sword",
+      "Energy shield"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Shawshank Redemption' mein Andy Dufresne prison se bhagne ke liye kitne saal tunnel khodta hai?",
+    "options": [
+      "19 years",
+      "10 years",
+      "5 years",
+      "25 years"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Quentin Tarantino ki movie 'Kill Bill' mein bride ka revenge kisse hota hai?",
+    "options": [
+      "Bill and her former assassination squad",
+      "Mafia bosses corrupt cops",
+      "Alien invaders",
+      "Zombie horde"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Animated movie 'Toy Story' mein cowboy toy ka naam kya hota hai?",
+    "options": [
+      "Sheriff Woody",
+      "Buzz Lightyear",
+      "Mr. Potato Head",
+      "Rex"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Prestige' mein dono magicians ke darmiyan rivalry kis cheez par hoti hai?",
+    "options": [
+      "Creating the ultimate teleportation trick",
+      "Stealing money",
+      "Winning a royal award",
+      "Marrying the same woman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Ridley Scott ki movie 'Alien' mein Xenomorph monster ka acid blood kaisa hota hai?",
+    "options": [
+      "Extremely corrosive molecular acid",
+      "Radioactive water",
+      "Flammable oil",
+      "Poisonous gas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Back to the Future' mein Marty McFly ko kis saal mein wapas bheja jata hai?",
+    "options": [
+      "1955",
+      "1960",
+      "1945",
+      "1980"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Denis Villeneuve ki movie 'Dune: Part Two' kis saal release hui thi?",
+    "options": [
+      "2024",
+      "2023",
+      "2022",
+      "2025"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'The Silence of the Lambs' mein FBI trainee agent ka naam kya hota hai?",
+    "options": [
+      "Clarice Starling",
+      "Agent Scully",
+      "Sarah Connor",
+      "Natasha Romanoff"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Christopher Nolan ki movie 'Interstellar' mein planet par kuch ghante bitane se zameen par kitne saal beet jate hain?",
+    "options": [
+      "Decades (e.g. 23 years)",
+      "1 year",
+      "100 years",
+      "No time difference"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Avatar' mein human military corporation ka naam kya hota hai?",
+    "options": [
+      "RDA (Resources Development Administration)",
+      "Weyland-Yutani",
+      "Cyberdyne Systems",
+      "Oscorp"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director George Lucas ki Star Wars mein Jedi knights kis spiritual energy ka istemal karte hain?",
+    "options": [
+      "The Force",
+      "The Matrix",
+      "Chakra",
+      "Mana"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Gladiator' mein arena ke andar Maximus apna naam kya batata hai?",
+    "options": [
+      "The Spaniard",
+      "The Gladiator",
+      "The Roman",
+      "The Avenger"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director Martin Scorsese ki movie 'The Wolf of Wall Street' mein Jordan Belfort ka kirdar kis real-life person ki autobiography par hai?",
+    "options": [
+      "Jordan Belfort",
+      "Gordon Gekko",
+      "Henry Hill",
+      "Frank Abagnale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Animated movie 'Finding Nemo' mein fish tank ke andar Nemo ke dost kis shehar ke dentist clinic mein hote hain?",
+    "options": [
+      "Sydney, Australia",
+      "New York, USA",
+      "London, UK",
+      "Tokyo, Japan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Movie 'Inception' mein kis item se pata chalta hai ke character reality mein hai ya dream mein?",
+    "options": [
+      "Totem (Jaise spinning top)",
+      "A magical ring",
+      "A silver coin",
+      "A glass marble"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Director James Cameron ki film 'Titanic' mein ship kis iceberg se takrata hai?",
+    "options": [
+      "North Atlantic iceberg",
+      "Arctic glacier",
+      "Antarctic shelf",
+      "Greenland iceberg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult cinema ki tareekh mein pehli commercial adult film (jisay silent aur short format mein banaya gaya tha) kis daur mein samne aayi thi?",
+    "options": [
+      "Late 19th century / Early 20th century (e.g. 1896)",
+      "1950s",
+      "1970s",
+      "1980s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "1972 mein release honay wali kis film ko adult cinema ki golden age ka sab se bara milestone aur mainstream blockbuster mana jata hai?",
+    "options": [
+      "Deep Throat",
+      "The Devil in Miss Jones",
+      "Behind the Green Door",
+      "Caligula"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film 'Deep Throat' (1972) mein lead role kis actress ne nibhaya tha?",
+    "options": [
+      "Linda Lovelace",
+      "Marilyn Chambers",
+      "Traci Lords",
+      "Georgina Spelvin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "1970s ke doran adult films ko theaters mein dekhne ke is daur ko kya kaha jata hai?",
+    "options": [
+      "Golden Age of Porn / Porno Chic",
+      "Digital Era",
+      "Silent Era",
+      "Streaming Era"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film industry mein kis American state ko production ka sab se bara markaz (hub) mana jata hai?",
+    "options": [
+      "California (San Fernando Valley / Los Angeles)",
+      "New York",
+      "Nevada",
+      "Florida"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film industry ke sab se mashhoor annual awards show ka naam kya hai?",
+    "options": [
+      "AVN Awards (Adult Video News)",
+      "Oscars",
+      "Emmy Awards",
+      "Grammy Awards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "1980s mein VCR aur kis format ke aane se adult film industry home video market mein shift ho gayi thi?",
+    "options": [
+      "VHS tape format",
+      "DVD",
+      "Blu-ray",
+      "Streaming"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "1990s ke aakhir aur 2000s ke shuru mein kis nayi technology ne adult content distribution ko physical tapes se internet par muntaqil kar diya?",
+    "options": [
+      "Broadband internet aur web streaming",
+      "Vinyl records",
+      "Radio broadcast",
+      "Cassette tapes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult entertainment industry mein 'Gonzo' style ki filmmaking kis director ne maqbool ki thi?",
+    "options": [
+      "John Stagliano",
+      "Rocco Siffredi",
+      "Seymour Butts",
+      "Paul Thomas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film actor Rocco Siffredi ka talluq kis mulk se hai?",
+    "options": [
+      "Italy",
+      "France",
+      "USA",
+      "Spain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult industry mein performer safety, health screening, aur STD testing ko monitor karne wali agency ka naam kya hai?",
+    "options": [
+      "PASS (Performer Availability Screening Services)",
+      "FDA",
+      "WHO",
+      "OSHA"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "2000s kee shuruaat mein DVD format ke sath adult industry mein kis high-definition format ki shuruaat hui thi?",
+    "options": [
+      "DVD aur baad mein Blu-ray",
+      "LaserDisc",
+      "Betamax",
+      "VCD"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film industry mein 'XRCO' (X-Rated Critics Organization) kis saal qaim ki gayi thi?",
+    "options": [
+      "1984",
+      "1972",
+      "1990",
+      "2000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult entertainment websites par subscription-based model aur creator economy ka sab se bara platform aajkal konsa mana jata hai?",
+    "options": [
+      "OnlyFans",
+      "YouTube",
+      "Netflix",
+      "Spotify"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult movies mein 'Mainstream crossover' karne wali pehli bari studios mein se aik konsi thi?",
+    "options": [
+      "Wicked Pictures / Vivid Entertainment",
+      "Paramount",
+      "Warner Bros",
+      "Universal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film industry mein 'Pro-Am' (Professional-Amateur) content ka kya matlab hota hai?",
+    "options": [
+      "Amateur-style videos produced by professional creators",
+      "Only studio films",
+      "High budget Hollywood films",
+      "Cartoons"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Virtual Reality (VR) adult content adult industry mein kis daur mein baray pemanay par mutaarif karwaya gaya?",
+    "options": [
+      "2010s ke baad",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult movie production mein 'Guerrilla filmmaking' ya independent style ka matlab kya hai?",
+    "options": [
+      "Independent, low-budget shooting without massive permits",
+      "Studio set shooting",
+      "Animation",
+      "Documentary style"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film actress Traci Lords ka case industry mein kis waja se historical mana jata hai?",
+    "options": [
+      "Her underage status discovery during the 1980s",
+      "Winning an Oscar",
+      "Directing a mainstream movie",
+      "Writing a book"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult cinema mein 'Feature-length' adult movies ka kya matlab hota hai?",
+    "options": [
+      "Full-length movies with proper plot lines and structured narrative (usually 90+ mins)",
+      "Short clips",
+      "Trailers",
+      "Commercials"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult industry mein 'Pornhub' jaise streaming giants kis saal launch kiye gaye thay?",
+    "options": [
+      "2007",
+      "1995",
+      "2000",
+      "2012"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult movies mein copyright protection aur anti-piracy ke liye konsa legal framework America mein sab se zyada istemal hota hai?",
+    "options": [
+      "DMCA (Digital Millennium Copyright Act)",
+      "GDPR",
+      "HIPAA",
+      "COPPA"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film director Quentin Tarantino ki mainstream movies mein adult cinema ke kis pehlu ki aksar jhalak milti hai?",
+    "options": [
+      "Exploitation cinema & 1970s grindhouse style",
+      "Silent movies",
+      "Animation",
+      "Documentaries"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult industry mein 'Camming' (live webcam modeling) ka business model kis tarah kaam karta hai?",
+    "options": [
+      "Interactive live broadcasting with token tips",
+      "Pre-recorded DVDs",
+      "Cable TV",
+      "Movie theaters"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult cinema ki history mein 'The Opening of Misty Beethoven' (1976) kis classic play par mabni thi?",
+    "options": [
+      "George Bernard Shaw's Pygmalion / My Fair Lady",
+      "Romeo and Juliet",
+      "Hamlet",
+      "Macbeth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult films mein 'Audio dubbing' aur post-production sound editing ka aaghaz kis daur mein barh gaya tha?",
+    "options": [
+      "1980s aur 1990s ke video era mein",
+      "Silent era",
+      "1950s",
+      "Modern streaming era"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film industry mein 'Mainstream crossover' term ka kya matlab hai?",
+    "options": [
+      "When adult performers transition into mainstream Hollywood media",
+      "Switching genres",
+      "Changing camera brands",
+      "Moving to another state"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult entertainment sites par 'Age verification' laws ke naye qawaneen duniya bhar mein kis maqsad ke liye laye ja rahe hain?",
+    "options": [
+      "Protecting minors from accessing adult content",
+      "Increasing tax",
+      "Promoting streaming",
+      "Speeding up internet"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult movie sets par safety protocols ke tehat performers ki medical history kis database ya system ke zariye check ki jati hai?",
+    "options": [
+      "PASS database system",
+      "Google Drive",
+      "Excel sheets",
+      "Public records"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film industry mein 'Goncharov' meme internet par kis qisam ki trend thi?",
+    "options": [
+      "A completely fictional fake Martin Scorsese mafia movie meme",
+      "A real documentary",
+      "An award-winning adult film",
+      "A software tool"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult movie production mein lighting aur cinematography ke liye kis tarah ke cameras ka istemal modern era mein hota hai?",
+    "options": [
+      "High-end 4K/8K digital cinema cameras (RED, Sony, ARRI)",
+      "Old film rolls",
+      "Polaroid cameras",
+      "Webcams only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film awards (AVN Awards) ko aksar media mein kis naam se pukara jata hai?",
+    "options": [
+      "The 'Oscars of Adult Video'",
+      "The Golden Globes of Porn",
+      "The Emmy of Adult Films",
+      "The Cannes of XXX"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult industry mein 'Amateur' category ka digital content internet par sab se pehle kahan upload hona shuru hua tha?",
+    "options": [
+      "Early forums, Usenet, aur peer-to-peer file sharing networks",
+      "Cable TV",
+      "Cinemas",
+      "Radio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult entertainment sites par traffic analysis ke mutabiq yeh industry global internet bandwidth ka kitna taqreeban hissa consume karti hai?",
+    "options": [
+      "A significant portion (historical estimates ranged from 10% to 30%)",
+      "Less than 0.1%",
+      "Exactly 50%",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult movie studios mein 'Distribution deals' ka kya nizam hota hai?",
+    "options": [
+      "Licensing content to video-on-demand (VOD) networks and streaming platforms",
+      "Selling books",
+      "Printing T-shirts",
+      "Opening restaurants"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult film industry mein 'Performance rider' ka kya matlab hota hai?",
+    "options": [
+      "Contractual clauses specifying performer preferences and boundaries",
+      "Horse riding scene",
+      "Stunt driving",
+      "Lighting equipment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adult cinema mein 1970s ki film 'Caligula' (1979) ko kis waja se unique mana jata hai?",
+    "options": [
+      "It blended high-budget historical epic drama with explicit adult content featuring mainstream actors like Malcolm McDowell",
+      "It was a silent cartoon",
+      "It was filmed in space",
+      "It won 10 Oscars"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok app ko duniya bhar mein kis doosre mashhoor naam se jana jata hai?",
+    "options": [
+      "Douyin",
+      "Kwai",
+      "Musical.ly",
+      "Bigo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok ko kis Chinese tech company ne launch kiya tha?",
+    "options": [
+      "ByteDance",
+      "Tencent",
+      "Alibaba",
+      "Baidu"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok kis app ko acquire karne ke baad international market mein bohot bada ban gaya tha?",
+    "options": [
+      "Musical.ly",
+      "Vine",
+      "Snapchat",
+      "Instagram"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par short videos ki shuruaat mein maximum time limit kitni hoti thi?",
+    "options": [
+      "15 seconds",
+      "60 seconds",
+      "3 minutes",
+      "10 minutes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par viral hone wale trending songs aur sounds ko kya kehte hain?",
+    "options": [
+      "Audio / Sounds",
+      "Reels",
+      "Shorts",
+      "Vines"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok ke 'For You Page' (FYP) par videos kis base par recommend hoti hain?",
+    "options": [
+      "Recommendation Algorithm",
+      "Random selection",
+      "Alphabetical order",
+      "Paid promotion only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par achanak kisi trend ko copy karke perform karne wale challenge ko kya kehte hain?",
+    "options": [
+      "TikTok Challenge / Trend",
+      "Live stream",
+      "Duet",
+      "Stitch"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par doosre user ki video ke sath apni video side-by-side lagane wale feature ko kya kehte hain?",
+    "options": [
+      "Duet",
+      "Stitch",
+      "Remix",
+      "Merge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par doosri video ka koi hissa kaat kar apni video mein jodnay wale feature ka naam kya hai?",
+    "options": [
+      "Stitch",
+      "Duet",
+      "Split",
+      "Cut"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par creators ko live stream ke doran viewers ki taraf se milne wale virtual gifts kis mein convert hote hain?",
+    "options": [
+      "Diamonds / Cash payout",
+      "Points",
+      "Coins",
+      "Coupon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par kis mulk mein sab se pehle national security concerns ki wajah se mukammal ban lagaya gaya tha?",
+    "options": [
+      "India (2020)",
+      "USA",
+      "UK",
+      "Australia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok ka global version kis saal international market mein launch hua tha?",
+    "options": [
+      "2017",
+      "2015",
+      "2019",
+      "2021"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par sab se pehle 100 million followers cross karne wala creator kon tha?",
+    "options": [
+      "Charli D'Amelio",
+      "Khaby Lame",
+      "Bella Poarch",
+      "Zach King"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par bina kuch bole sirf apne iconic hand gestures se complex life hacks par react karke world famous hone wala creator kon hai?",
+    "options": [
+      "Khaby Lame",
+      "Zach King",
+      "Will Smith",
+      "MrBeast"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok ka wo feature jisse users apni favorite audios save karte hain, use kya kehte hain?",
+    "options": [
+      "Saved Sounds / Favorites",
+      "Bookmarks",
+      "Downloads",
+      "History"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par e-commerce feature ke zariye direct shopping karne ke module ko kya kehte hain?",
+    "options": [
+      "TikTok Shop",
+      "TikTok Store",
+      "TikTok Market",
+      "TikTok Mall"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par videos mein real-time filters aur AR (Augmented Reality) effects lagane ke option ko kya kehte hain?",
+    "options": [
+      "Effects / Filters",
+      "Stickers",
+      "Overlays",
+      "Masks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Creator Marketplace' kis maqsad ke liye istemal hota hai?",
+    "options": [
+      "Brands aur creators ko sponsorships ke liye connect karne ke liye",
+      "Videos edit karne ke liye",
+      "Live chat ke liye",
+      "Music download karne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par kis tarah ke content ko sab se zyada organic reach milti hai?",
+    "options": [
+      "Short, engaging, aur trending audio wali videos",
+      "Long boring lectures",
+      "Static photos",
+      "Plain text"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok ki parent company ByteDance ka headquarter kis shehar mein hai?",
+    "options": [
+      "Beijing, China",
+      "Shanghai",
+      "Shenzhen",
+      "Hong Kong"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par videos ke sath text captions ya automatic subtitles generate karne wale feature ko kya kehte hain?",
+    "options": [
+      "Auto Captions",
+      "Text-to-Speech",
+      "Subtitles",
+      "CC Maker"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par text ko robot ya AI voice mein convert karke read karwane wale feature ko kya kehte hain?",
+    "options": [
+      "Text-to-Speech",
+      "Voiceover",
+      "Audio filter",
+      "Sound effect"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par videos ki speed barhane ya slow karne ke option ko kya kehte hain?",
+    "options": [
+      "Playback Speed (0.5x, 2x)",
+      "Time Warp",
+      "Fast Forward",
+      "Motion Control"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Green Screen' effect ka main istemal kis liye hota hai?",
+    "options": [
+      "Background replace karke koi bhi image ya video lagane ke liye",
+      "Color change karne ke liye",
+      "Face blur karne ke liye",
+      "Sound badalne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par kis trend ya song par lip-syncing karna sab se aam shuruaat mani jati hai?",
+    "options": [
+      "Viral dialogue or catchy pop song snippet",
+      "News bulletin",
+      "Math formula",
+      "Coding tutorial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par live streaming shuru karne ke liye creator ke paas minimum kitne followers hona lazmi hain (standard rules ke mutabiq)?",
+    "options": [
+      "Usually 1,000 followers",
+      "100 followers",
+      "10,000 followers",
+      "No limit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Analytics' tab kisko access karne ki ijazat deta hai?",
+    "options": [
+      "Creator / Business Accounts ko audience insights dekhne ke liye",
+      "Sirf admins ko",
+      "Banned users ko",
+      "General visitors ko"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par videos ke neeche use hone wale keywords jinke sath hashtag (#) laga hota hai, unhe kya kehte hain?",
+    "options": [
+      "Hashtags",
+      "Tags",
+      "Keywords",
+      "Labels"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par video upload karte waqt privacy setting mein 'Friends only' ka kya matlab hota hai?",
+    "options": [
+      "Sirf wo log dekh sakte hain jinhe aap follow karte hain aur wo aapko back karte hain",
+      "Public sab dekh sakte hain",
+      "Sirf aap dekh sakte hain",
+      "Koi nahi dekh sakta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par kis saal mein 10-minute video upload karne ka feature introduce kiya gaya tha?",
+    "options": [
+      "2022",
+      "2020",
+      "2018",
+      "2024"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Photo Mode' ya carousel posts upload karne ka option kis feature ki tarah kaam karta hai?",
+    "options": [
+      "Instagram-style photo sliders",
+      "Stories",
+      "Live stream",
+      "Long video"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'TikTok Stories' ka feature kis platform ki nakal par banaya gaya tha?",
+    "options": [
+      "Instagram Stories / Snapchat Stories",
+      "YouTube Shorts",
+      "Twitter Fleets",
+      "Facebook Wall"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Pinned comment' ya 'Pinned video' ka kya maqsad hota hai?",
+    "options": [
+      "Kisi khaas comment ya video ko profile/section ke sab se upar fix karna",
+      "Video delete karna",
+      "Mute karna",
+      "Report karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Drafts' folder ka istemal kiske liye hota hai?",
+    "options": [
+      "Incomplete ya edit ki hui videos baad mein upload karne ke liye save rakhna",
+      "Deleted videos wapas lana",
+      "Cache clear karna",
+      "Password save karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par kisi user ya video ko report karne ki wajoohat mein kya shamil hota hai?",
+    "options": [
+      "Harassment, spam, misinformation, aur unsafe content",
+      "Good video quality",
+      "Nice music",
+      "High views"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Family Pairing' feature kis liye design kiya gaya hai?",
+    "options": [
+      "Parents ko teenagers ke screen time aur privacy controls manage karne ke liye",
+      "Doston ko connect karne ke liye",
+      "Business ads ke liye",
+      "Multi-login ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Restricted Mode' on karne se kya hota hai?",
+    "options": [
+      "Inappropriate content filter ho jata hai",
+      "App band ho jati hai",
+      "Internet speed slow ho jati hai",
+      "Account delete ho jata hai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Duet' feature mein original creator ko credit kaise milta hai?",
+    "options": [
+      "Automatic username tag aur mention ke sath",
+      "Koi credit nahi milta",
+      "Sirf comments mein",
+      "Description link mein"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par music artists ke tracks viral hone ke baad unke gaane kis platform par top charts mein chale jate hain?",
+    "options": [
+      "Billboard aur Spotify",
+      "Radio only",
+      "TV channels",
+      "Local cassette shops"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Sound Library' se koi music use karne par copyright ka kya masla hota hai?",
+    "options": [
+      "Commercial use ke liye licensed tracks available hote hain",
+      "Har bar case hota hai",
+      "Video delete ho jati hai",
+      "Account ban ho jata hai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'TikTok Pulse' advertising program kis maqsad ke liye hai?",
+    "options": [
+      "Top-tier trending videos ke sath brands ke ads lagane ke liye",
+      "Free coins dene ke liye",
+      "Live streaming ke liye",
+      "Followers barhane ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Spark Ads' ka kya matlab hota hai?",
+    "options": [
+      "Creators ki organic posts ko ad ke tor par boost karna",
+      "Fake views barhana",
+      "Live gift dena",
+      "Account verify karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par account verification (Blue Tick) milne ki sab se badi nishani kya hoti hai?",
+    "options": [
+      "Authenticity aur celebrity/brand status confirm hona",
+      "Pese dena",
+      "Zyada video banana",
+      "App update karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Series' feature kis maqsad ke liye laya gaya tha?",
+    "options": [
+      "Creators ko paywalled premium long-form video series bechne ke liye",
+      "Free movies dekhne ke liye",
+      "Live chat ke liye",
+      "Stickers download karne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par kis tarah ke challenges ne dunya bhar mein dance trends ko badhava diya?",
+    "options": [
+      "Choreographed dance challenges to trending songs",
+      "Cooking challenges",
+      "Math puzzles",
+      "Coding races"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'TikTok Awards' ya live gala events mein kis tarah ke logon ko सम्मानित (honour) kiya jata hai?",
+    "options": [
+      "Top content creators aur trendsetters ko",
+      "Software engineers ko",
+      "Politicians ko",
+      "Scientists ko"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Watch History' check karne ka option kahan milta hai?",
+    "options": [
+      "Settings & Privacy ke andar",
+      "Profile bio mein",
+      "Direct messages mein",
+      "Search bar mein"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Clear Cache' karne se phone par kya asar padta hai?",
+    "options": [
+      "App ki temporary junk files saaf hoti hain aur storage free hoti hai",
+      "Videos delete ho jati hain",
+      "Account log out ho jata hai",
+      "Followers kam ho jate hain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Direct Message' (DM) karne ki age limit standard policy ke mutabiq kitni hai?",
+    "options": [
+      "16 years and above",
+      "13 years",
+      "18 years",
+      "No limit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Sub-only live' feature kis liye hota hai?",
+    "options": [
+      "Sirf paid subscribers ke liye exclusive live stream karne ke liye",
+      "Public live ke liye",
+      "Banned users ke liye",
+      "Audio-only live ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Effects House' kis software ko kehte hain?",
+    "options": [
+      "Creators ke liye AR filters aur effects design karne wala desktop tool",
+      "Video editing app",
+      "Live streaming software",
+      "Music mixer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Q&A' feature ka istemal creators kiske liye karte hain?",
+    "options": [
+      "Viewers ke sawalon ke jawab video ke zariye dene ke liye",
+      "Quiz khelne ke liye",
+      "Pese kamane ke liye",
+      "Report karne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Pinned to profile' karne se kitni videos profile ke top par show hoti hain?",
+    "options": [
+      "Up to 3 videos",
+      "Only 1 video",
+      "5 videos",
+      "Unlimited"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Green Screen Video' effect aur standard Green Screen mein kya farq hai?",
+    "options": [
+      "Standard mein image hoti hai, video effect mein background par moving video chalti hai",
+      "Koi farq nahi",
+      "Video effect sirf PC par chalta hai",
+      "Audio mute ho jati hai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Sound Sync' editing tool ka kya kaam hota hai?",
+    "options": [
+      "Photos ya clips ko music ki beat ke sath automatically sync karna",
+      "Voice change karna",
+      "Volume barhana",
+      "Background noise hatana"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Creator Rewards Program' (pehle Creator Fund) ka main maqsad kya hai?",
+    "options": [
+      "Original aur high-engagement videos banane wale creators ko monetize karna",
+      "Free gifts dena",
+      "Ads dikhana",
+      "App download karwana"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Live Goals' set karne ka kya faida hota hai?",
+    "options": [
+      "Live stream ke doran viewers se specific virtual gifts ya coins ka target achieve karna",
+      "Followers barhana",
+      "Watch time check karna",
+      "Video schedule karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Multi-guest live' feature mein kitne log aik sath live screen par jud sakte hain?",
+    "options": [
+      "Multiple guests (e.g., up to several participants)",
+      "Only 2 people",
+      "Only 1 person",
+      "No limit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Polls' sticker stories ya videos mein lagane se kya hota hai?",
+    "options": [
+      "Viewers se voting ya opinion lia jata hai",
+      "Link khulta hai",
+      "Music bajta hai",
+      "Location share hoti hai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Mention' karne ke liye kis symbol ka istemal hota hai?",
+    "options": [
+      "@ symbol",
+      "# symbol",
+      "$ symbol",
+      "& symbol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Profile Views' history on karne se kya pata chalta hai?",
+    "options": [
+      "Pichle 30 dino mein kis kis ne aapki profile visit ki hai",
+      "Aapne kiski profile dekhi",
+      "Total views count",
+      "Video shares"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Repost' button dabane se kya hota hai?",
+    "options": [
+      "Wo video aapke followers ki feed (FYP) par share ho jati hai",
+      "Video aapki gallery mein download ho jati hai",
+      "Video delete ho jati hai",
+      "Like ho jati hai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Collections' tab mein kya save hota hai?",
+    "options": [
+      "Aapki favorite ya saved videos jo aap folders ki shakal mein organize karte hain",
+      "Blocked users",
+      "Drafts",
+      "Purchase history"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Tiktok Now' feature kis app ki tarah daily spontaneous photo/video capture karne ke liye laya gaya tha?",
+    "options": [
+      "BeReal",
+      "Instagram",
+      "Snapchat",
+      "Twitter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Audience' tab mein creator ko kya data milta hai?",
+    "options": [
+      "Followers ki active timings, gender, aur location demographics",
+      "Video editing tips",
+      "Earnings report",
+      "Server status"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Promote' tool kis maqsad ke liye hota hai?",
+    "options": [
+      "Apni kisi bhi video ko pexon ke zariye zyada logon tak push/advertise karna",
+      "Free coins jeetna",
+      "Account verify karwana",
+      "Live jana"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Auto-generated captions' edit karne ka option kyon diya jata hai?",
+    "options": [
+      "Agar AI ne spelling ghalat likh di ho toh use theek karne ke liye",
+      "Design change karne ke liye",
+      "Color badalne ke liye",
+      "Voice change karne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Duet Layout' mein side-by-side ke ilawa aur konsa style hota hai?",
+    "options": [
+      "Top-bottom, React, aur Green screen style layouts",
+      "3D cube",
+      "Circular frame",
+      "No other style"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Comment translation' feature ka kya kaam hota hai?",
+    "options": [
+      "Foreign language comments ko user ki apni language mein translate karna",
+      "Comments delete karna",
+      "Bad words block karna",
+      "Emojis add karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Filter comments' setting se kya control hota hai?",
+    "options": [
+      "Keywords aur offensive terms wale comments automatically hide karna",
+      "Comments disable karna",
+      "Likes barhana",
+      "Views check karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Pinned comments' kitne pin kiye ja sakte hain?",
+    "options": [
+      "Usually 1 top comment per video",
+      "Up to 5 comments",
+      "Unlimited",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Video Replies to Comments' feature ka kya faida hai?",
+    "options": [
+      "Kisi viewer ke comment ka jawab direct aik nayi video bana kar dena jismein comment attached ho",
+      "Text reply dena",
+      "Voice note bhejna",
+      "Call karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Share to external apps' option mein kaunse platforms shamil hote hain?",
+    "options": [
+      "WhatsApp, Instagram, Facebook, Twitter/X, SMS, etc.",
+      "Only email",
+      "Only gaming apps",
+      "No external sharing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Watermark' video download karne par kiska logo aata hai?",
+    "options": [
+      "TikTok logo aur creator ka username",
+      "Sirf app ka naam",
+      "Kuch nahi",
+      "Phone brand ka logo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Music Commercial Use' guidelines kyun banai gayi hain?",
+    "options": [
+      "Businesses aur brands ko copyrighted music bina license use karne se rokne ke liye",
+      "Music free karne ke liye",
+      "Video quality barhane ke liye",
+      "Views lane ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'TikTok Studio' (pehle TikTok Creator Center) app kis maqsad ke liye hoti hai?",
+    "options": [
+      "Creators ko stats track karne aur account manage karne ke liye dedicated app",
+      "Video shooting ke liye",
+      "Live gaming ke liye",
+      "Chatting ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Ad Library' ya Transparency Center kis liye hota hai?",
+    "options": [
+      "Platform par chalne wale ads aur unki targeting details dekhne ke liye",
+      "Free ads chalane ke liye",
+      "Blocked ads dekhne ke liye",
+      "Ad revenue check karne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Live Subtitles' on karne se live stream par kya hota hai?",
+    "options": [
+      "Bolye gaye alfaz screen par live text ki surat mein display hote hain",
+      "Live stream blur ho jati hai",
+      "Audio mute ho jati hai",
+      "Comments band ho jate hain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Dislike comments' button ka kya function hota hai?",
+    "options": [
+      "Comment ki visibility ya score downvote karna",
+      "Comment report karna",
+      "User block karna",
+      "Like count barhana"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Sleep Timer' setting kis liye hoti hai?",
+    "options": [
+      "Raat ko aik mukarrar waqt ke baad app automatically band ya remind karwane ke liye",
+      "Alarm set karne ke liye",
+      "Video schedule karne ke liye",
+      "Battery bachane ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Clear Mode' ka option video dekhte waqt screen par kya karta hai?",
+    "options": [
+      "Saare buttons, captions, aur UI elements hata kar sirf clean video dikhata hai",
+      "Video delete karta hai",
+      "Screen brightness barhata hai",
+      "Zoom in karta hai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Content Preferences' mein 'Refresh your For You feed' option ka kya matlab hai?",
+    "options": [
+      "Algorithm ko reset karke bilkul shuru se recommendations fresh karna",
+      "App reinstall karna",
+      "Cache clear karna",
+      "Password change karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Passkey' login support kiske liye introduce kiya gaya hai?",
+    "options": [
+      "Passwordless aur secure login experience ke liye",
+      "Fast video upload ke liye",
+      "Live stream ke liye",
+      "Coin purchase ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Data Saver' mode on karne se kya hota hai?",
+    "options": [
+      "Mobile data consumption kam hoti hai aur videos lower resolution mein load hoti hain",
+      "Internet block ho jata hai",
+      "App crash hoti hai",
+      "Storage full hoti hai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Background playback' ka kya option hota hai?",
+    "options": [
+      "App minimize hone ya phone lock hone ke baad bhi audio chalu rehna",
+      "Video download hona",
+      "Offline mode",
+      "Screen recording"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Photo Carousel' mein music background mein kaise lagta hai?",
+    "options": [
+      "Jaise normal video mein audio select karte hain waise hi slides par music lagta hai",
+      "Music nahi lag sakta",
+      "Sirf voiceover hota hai",
+      "External app se lagana padta hai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Hashtag Challenge Plus' ka kya concept tha?",
+    "options": [
+      "Brands ke sponsored challenges jinke sath in-app shopping integrated hoti thi",
+      "Sirf likes milte thay",
+      "Free coins miltay thay",
+      "Live stream hoti thi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Pinned Message' in Live chat ka kya use hota hai?",
+    "options": [
+      "Host ya moderator ka koi important message chat mein sab se upar dikhte rehna",
+      "Chat delete karna",
+      "User ban karna",
+      "Gift send karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Mute keywords in comments' feature ka kya faida hai?",
+    "options": [
+      "Specific ghalat ya unwanted words wale comments automatically hide ho jana",
+      "Audio mute karna",
+      "Notifications band karna",
+      "Direct messages block karna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Video length options' mein modern updates ke baad maximum kitni limit tak videos support hoti hain?",
+    "options": [
+      "Up to 10 minutes or even 60 minutes for select creators",
+      "Only 15 seconds",
+      "Max 1 minute",
+      "Max 3 minutes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Creator Search Insights' tool kis liye hota hai?",
+    "options": [
+      "Yeh dekhne ke liye ke log platform par kya search kar rahe hain aur kis topic par content banayein",
+      "Followers search karne ke liye",
+      "Music dhoondne ke liye",
+      "Hashtag copy karne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Interactive Add-ons' in Ads ka kya matlab hota hai?",
+    "options": [
+      "Ads ke andar stickers, polls, aur clickable elements add karna",
+      "Simple banner ads",
+      "Text-only ads",
+      "Audio ads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Peek' ya preview notification feature kya batata hai?",
+    "options": [
+      "Notifications ki quick jhalak dikhana",
+      "Live status",
+      "Message read status",
+      "Network speed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Direct Message restrictions' teen accounts ke liye kyun hoti hain?",
+    "options": [
+      "Young users ki safety aur cyberbullying se protection ke liye",
+      "App speed ke liye",
+      "Storage ke liye",
+      "Server load kam karne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Sound Effects' (SFX) tab kahan milta hai?",
+    "options": [
+      "Video editing / posting screen ke audio editor mein",
+      "Profile settings mein",
+      "Direct messages mein",
+      "Search bar mein"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Voice Effects' (jaise chipmunk, deep voice, baritone) kiske liye use hote hain?",
+    "options": [
+      "Videos mein apni aawaz ko fun tarike se badalne ke liye",
+      "Song record karne ke liye",
+      "Call karne ke liye",
+      "Language translate karne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Template' option se video editing kaise aasan hoti hai?",
+    "options": [
+      "Photos/videos select karo aur ready-made beat sync template automatically video bana deta hai",
+      "Manual trimming karni padti hai",
+      "Code likhna padta hai",
+      "Kuch nahi hota"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Live Replay' ya VOD feature kis liye hota hai?",
+    "options": [
+      "Pichli live streams ki recordings dobara dekhne ya download karne ke liye",
+      "Live chat save karne ke liye",
+      "Coins wapas lene ke liye",
+      "Banned account kholne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Block account' karne ke baad doosre user ke sath kya hota hai?",
+    "options": [
+      "Wo aapki profile, videos, aur messages nahi dekh sakta na contact kar sakta hai",
+      "Wo aapka admin ban jata hai",
+      "Kuch nahi hota",
+      "Wo aapko follow kar leta hai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Suggested Accounts' list kis base par show hoti hai?",
+    "options": [
+      "Mutual contacts, shared interests, aur algorithm recommendations par",
+      "Random numbers par",
+      "Alphabetical order par",
+      "Paid list par"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Share Link' copy karne se clip kahan clipboard mein aati hai?",
+    "options": [
+      "Direct link copy ho jata hai jise kahin bhi paste kar sakte hain",
+      "Gallery mein video save ho jati hai",
+      "App crash ho jati hai",
+      "Screenshot khinch jata hai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok par 'Add to Favorites' icon (bookmark shape) kis maqsad ke liye dabaya jata hai?",
+    "options": [
+      "Kisi video, sound, ya effect ko apne favorites tab mein save karne ke liye",
+      "Video like karne ke liye",
+      "Share karne ke liye",
+      "Report karne ke liye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "TikTok app ka icon kis musical symbol ya shape se inspired hai?",
+    "options": [
+      "A stylized 't' shaped like a music note with neon glow effect",
+      "A play button",
+      "A camera lens",
+      "A chat bubble"
+    ],
     "correctIndex": 0
   }
 ]
