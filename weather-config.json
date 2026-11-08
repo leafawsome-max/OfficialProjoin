@@ -1,5 +1,5 @@
 {
-  "forceRainForAllUsers": false,
+  "forceRainForAllUsers": true,
   "forceWeatherType": "rain",
   "enableRainStormCycle": true
 }
