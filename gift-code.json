@@ -1,19 +1,1603 @@
 [
   {
-    "codeId": "CODE1",
-    "code": "PROJOIN50",
-    "coins": 50,
+    "codeId": "NEWYEAR2027",
+    "code": "NEWYEAR2027",
+    "coins": 227,
     "active": true
   },
   {
-    "codeId": "CODE2",
-    "code": "WELCOME100",
+    "codeId": "PROJOIN2026",
+    "code": "PROJOIN2026",
     "coins": 100,
     "active": true
   },
   {
-    "codeId": "CODE3",
-    "code": "BONUS2026",
+    "codeId": "CODE_AURA_01",
+    "code": "CODE_AURA_01",
+    "coins": 5,
+    "active": true
+  },
+  {
+    "codeId": "BLAZE_GIFT_02",
+    "code": "BLAZE_GIFT_02",
+    "coins": 12,
+    "active": true
+  },
+  {
+    "codeId": "NEXUS_BONUS_03",
+    "code": "NEXUS_BONUS_03",
+    "coins": 8,
+    "active": true
+  },
+  {
+    "codeId": "CYBER_DROP_04",
+    "code": "CYBER_DROP_04",
+    "coins": 15,
+    "active": true
+  },
+  {
+    "codeId": "STELLAR_SPIN_05",
+    "code": "STELLAR_SPIN_05",
+    "coins": 20,
+    "active": true
+  },
+  {
+    "codeId": "VIP_REWARD_06",
+    "code": "VIP_REWARD_06",
+    "coins": 25,
+    "active": true
+  },
+  {
+    "codeId": "PRO_START_07",
+    "code": "PRO_START_07",
+    "coins": 10,
+    "active": true
+  },
+  {
+    "codeId": "ZEN_COIN_08",
+    "code": "ZEN_COIN_08",
+    "coins": 30,
+    "active": true
+  },
+  {
+    "codeId": "TURBO_PACK_09",
+    "code": "TURBO_PACK_09",
+    "coins": 18,
+    "active": true
+  },
+  {
+    "codeId": "ELITE_GIFT_10",
+    "code": "ELITE_GIFT_10",
+    "coins": 35,
+    "active": true
+  },
+  {
+    "codeId": "ALPHA_CODE_11",
+    "code": "ALPHA_CODE_11",
+    "coins": 7,
+    "active": true
+  },
+  {
+    "codeId": "OMEGA_BONUS_12",
+    "code": "OMEGA_BONUS_12",
+    "coins": 40,
+    "active": true
+  },
+  {
+    "codeId": "PRIME_TOKEN_13",
+    "code": "PRIME_TOKEN_13",
+    "coins": 22,
+    "active": true
+  },
+  {
+    "codeId": "SOLAR_FLARE_14",
+    "code": "SOLAR_FLARE_14",
+    "coins": 45,
+    "active": true
+  },
+  {
+    "codeId": "LUNAR_DROP_15",
+    "code": "LUNAR_DROP_15",
+    "coins": 14,
+    "active": true
+  },
+  {
+    "codeId": "QUANTUM_BOX_16",
+    "code": "QUANTUM_BOX_16",
+    "coins": 50,
+    "active": true
+  },
+  {
+    "codeId": "ECHO_GIFT_17",
+    "code": "ECHO_GIFT_17",
+    "coins": 28,
+    "active": true
+  },
+  {
+    "codeId": "PULSE_BONUS_18",
+    "code": "PULSE_BONUS_18",
+    "coins": 55,
+    "active": true
+  },
+  {
+    "codeId": "VORTEX_COIN_19",
+    "code": "VORTEX_COIN_19",
+    "coins": 16,
+    "active": true
+  },
+  {
+    "codeId": "TITAN_REWARD_20",
+    "code": "TITAN_REWARD_20",
+    "coins": 60,
+    "active": true
+  },
+  {
+    "codeId": "NEON_SPARK_21",
+    "code": "NEON_SPARK_21",
+    "coins": 9,
+    "active": true
+  },
+  {
+    "codeId": "GALAXY_GIFT_22",
+    "code": "GALAXY_GIFT_22",
+    "coins": 65,
+    "active": true
+  },
+  {
+    "codeId": "COSMIC_DROP_23",
+    "code": "COSMIC_DROP_23",
+    "coins": 33,
+    "active": true
+  },
+  {
+    "codeId": "ASTRO_BONUS_24",
+    "code": "ASTRO_BONUS_24",
+    "coins": 70,
+    "active": true
+  },
+  {
+    "codeId": "METEOR_PACK_25",
+    "code": "METEOR_PACK_25",
+    "coins": 24,
+    "active": true
+  },
+  {
+    "codeId": "COMET_COIN_26",
+    "code": "COMET_COIN_26",
+    "coins": 75,
+    "active": true
+  },
+  {
+    "codeId": "ORBIT_TOKEN_27",
+    "code": "ORBIT_TOKEN_27",
+    "coins": 11,
+    "active": true
+  },
+  {
+    "codeId": "ECLIPSE_GIFT_28",
+    "code": "ECLIPSE_GIFT_28",
+    "coins": 80,
+    "active": true
+  },
+  {
+    "codeId": "GRAVITY_BOX_29",
+    "code": "GRAVITY_BOX_29",
+    "coins": 38,
+    "active": true
+  },
+  {
+    "codeId": "ZENITH_REWARD_30",
+    "code": "ZENITH_REWARD_30",
+    "coins": 85,
+    "active": true
+  },
+  {
+    "codeId": "APEX_CODE_31",
+    "code": "APEX_CODE_31",
+    "coins": 13,
+    "active": true
+  },
+  {
+    "codeId": "VERTEX_BONUS_32",
+    "code": "VERTEX_BONUS_32",
+    "coins": 90,
+    "active": true
+  },
+  {
+    "codeId": "NEXUS_DROP_33",
+    "code": "NEXUS_DROP_33",
+    "coins": 42,
+    "active": true
+  },
+  {
+    "codeId": "MATRIX_COIN_34",
+    "code": "MATRIX_COIN_34",
+    "coins": 95,
+    "active": true
+  },
+  {
+    "codeId": "CYBER_PACK_35",
+    "code": "CYBER_PACK_35",
+    "coins": 26,
+    "active": true
+  },
+  {
+    "codeId": "SYNTH_GIFT_36",
+    "code": "SYNTH_GIFT_36",
+    "coins": 100,
+    "active": true
+  },
+  {
+    "codeId": "NEURAL_TOKEN_37",
+    "code": "NEURAL_TOKEN_37",
+    "coins": 17,
+    "active": true
+  },
+  {
+    "codeId": "BINARY_BOX_38",
+    "code": "BINARY_BOX_38",
+    "coins": 105,
+    "active": true
+  },
+  {
+    "codeId": "DATA_REWARD_39",
+    "code": "DATA_REWARD_39",
+    "coins": 48,
+    "active": true
+  },
+  {
+    "codeId": "SYSTEM_DROP_40",
+    "code": "SYSTEM_DROP_40",
+    "coins": 110,
+    "active": true
+  },
+  {
+    "codeId": "ROOT_ACCESS_41",
+    "code": "ROOT_ACCESS_41",
+    "coins": 21,
+    "active": true
+  },
+  {
+    "codeId": "KERNEL_CODE_42",
+    "code": "KERNEL_CODE_42",
+    "coins": 115,
+    "active": true
+  },
+  {
+    "codeId": "SHELL_BONUS_43",
+    "code": "SHELL_BONUS_43",
+    "coins": 52,
+    "active": true
+  },
+  {
+    "codeId": "PATCH_GIFT_44",
+    "code": "PATCH_GIFT_44",
+    "coins": 120,
+    "active": true
+  },
+  {
+    "codeId": "BUILD_TOKEN_45",
+    "code": "BUILD_TOKEN_45",
+    "coins": 29,
+    "active": true
+  },
+  {
+    "codeId": "DEPLOY_BOX_46",
+    "code": "DEPLOY_BOX_46",
+    "coins": 125,
+    "active": true
+  },
+  {
+    "codeId": "SCRIPT_DROP_47",
+    "code": "SCRIPT_DROP_47",
+    "coins": 58,
+    "active": true
+  },
+  {
+    "codeId": "QUERY_REWARD_48",
+    "code": "QUERY_REWARD_48",
+    "coins": 130,
+    "active": true
+  },
+  {
+    "codeId": "INDEX_COIN_49",
+    "code": "INDEX_COIN_49",
+    "coins": 31,
+    "active": true
+  },
+  {
+    "codeId": "ARRAY_GIFT_50",
+    "code": "ARRAY_GIFT_50",
+    "coins": 135,
+    "active": true
+  },
+  {
+    "codeId": "STRING_CODE_51",
+    "code": "STRING_CODE_51",
+    "coins": 6,
+    "active": true
+  },
+  {
+    "codeId": "FLOAT_BONUS_52",
+    "code": "FLOAT_BONUS_52",
+    "coins": 140,
+    "active": true
+  },
+  {
+    "codeId": "INTEGER_DROP_53",
+    "code": "INTEGER_DROP_53",
+    "coins": 64,
+    "active": true
+  },
+  {
+    "codeId": "BOOLEAN_BOX_54",
+    "code": "BOOLEAN_BOX_54",
+    "coins": 145,
+    "active": true
+  },
+  {
+    "codeId": "OBJECT_TOKEN_55",
+    "code": "OBJECT_TOKEN_55",
+    "coins": 34,
+    "active": true
+  },
+  {
+    "codeId": "METHOD_REWARD_56",
+    "code": "METHOD_REWARD_56",
+    "coins": 150,
+    "active": true
+  },
+  {
+    "codeId": "CLASS_GIFT_57",
+    "code": "CLASS_GIFT_57",
+    "coins": 68,
+    "active": true
+  },
+  {
+    "codeId": "OBJECT_CODE_58",
+    "code": "OBJECT_CODE_58",
+    "coins": 155,
+    "active": true
+  },
+  {
+    "codeId": "STATE_BONUS_59",
+    "code": "STATE_BONUS_59",
+    "coins": 39,
+    "active": true
+  },
+  {
+    "codeId": "ACTION_DROP_60",
+    "code": "ACTION_DROP_60",
+    "coins": 160,
+    "active": true
+  },
+  {
+    "codeId": "EVENT_TOKEN_61",
+    "code": "EVENT_TOKEN_61",
+    "coins": 19,
+    "active": true
+  },
+  {
+    "codeId": "HOOK_REWARD_62",
+    "code": "HOOK_REWARD_62",
+    "coins": 165,
+    "active": true
+  },
+  {
+    "codeId": "STATE_BOX_63",
+    "code": "STATE_BOX_63",
+    "coins": 74,
+    "active": true
+  },
+  {
+    "codeId": "PROPS_GIFT_64",
+    "code": "PROPS_GIFT_64",
+    "coins": 170,
+    "active": true
+  },
+  {
+    "codeId": "ROUTE_CODE_65",
+    "code": "ROUTE_CODE_65",
+    "coins": 41,
+    "active": true
+  },
+  {
+    "codeId": "VIEW_BONUS_66",
+    "code": "VIEW_BONUS_66",
+    "coins": 175,
+    "active": true
+  },
+  {
+    "codeId": "PAGE_DROP_67",
+    "code": "PAGE_DROP_67",
+    "coins": 82,
+    "active": true
+  },
+  {
+    "codeId": "LAYOUT_TOKEN_68",
+    "code": "LAYOUT_TOKEN_68",
+    "coins": 180,
+    "active": true
+  },
+  {
+    "codeId": "THEME_REWARD_69",
+    "code": "THEME_REWARD_69",
+    "coins": 44,
+    "active": true
+  },
+  {
+    "codeId": "STYLE_BOX_70",
+    "code": "STYLE_BOX_70",
+    "coins": 185,
+    "active": true
+  },
+  {
+    "codeId": "DARK_MODE_71",
+    "code": "DARK_MODE_71",
+    "coins": 23,
+    "active": true
+  },
+  {
+    "codeId": "NEON_GIFT_72",
+    "code": "NEON_GIFT_72",
+    "coins": 190,
+    "active": true
+  },
+  {
+    "codeId": "GLOW_CODE_73",
+    "code": "GLOW_CODE_73",
+    "coins": 88,
+    "active": true
+  },
+  {
+    "codeId": "SHADOW_BONUS_74",
+    "code": "SHADOW_BONUS_74",
+    "coins": 195,
+    "active": true
+  },
+  {
+    "codeId": "BORDER_DROP_75",
+    "code": "BORDER_DROP_75",
+    "coins": 46,
+    "active": true
+  },
+  {
+    "codeId": "RADIUS_TOKEN_76",
+    "code": "RADIUS_TOKEN_76",
+    "coins": 200,
+    "active": true
+  },
+  {
+    "codeId": "FLEX_REWARD_77",
+    "code": "FLEX_REWARD_77",
+    "coins": 92,
+    "active": true
+  },
+  {
+    "codeId": "GRID_BOX_78",
+    "code": "GRID_BOX_78",
+    "coins": 205,
+    "active": true
+  },
+  {
+    "codeId": "STACK_GIFT_79",
+    "code": "STACK_GIFT_79",
+    "coins": 53,
+    "active": true
+  },
+  {
+    "codeId": "MODAL_CODE_80",
+    "code": "MODAL_CODE_80",
+    "coins": 210,
+    "active": true
+  },
+  {
+    "codeId": "POPUP_BONUS_81",
+    "code": "POPUP_BONUS_81",
+    "coins": 27,
+    "active": true
+  },
+  {
+    "codeId": "TOAST_DROP_82",
+    "code": "TOAST_DROP_82",
+    "coins": 215,
+    "active": true
+  },
+  {
+    "codeId": "ALERT_TOKEN_83",
+    "code": "ALERT_TOKEN_83",
+    "coins": 96,
+    "active": true
+  },
+  {
+    "codeId": "BADGE_REWARD_84",
+    "code": "BADGE_REWARD_84",
+    "coins": 220,
+    "active": true
+  },
+  {
+    "codeId": "CHIP_BOX_85",
+    "code": "CHIP_BOX_85",
+    "coins": 57,
+    "active": true
+  },
+  {
+    "codeId": "CARD_GIFT_86",
+    "code": "CARD_GIFT_86",
+    "coins": 225,
+    "active": true
+  },
+  {
+    "codeId": "LIST_CODE_87",
+    "code": "LIST_CODE_87",
+    "coins": 104,
+    "active": true
+  },
+  {
+    "codeId": "TABLE_BONUS_88",
+    "code": "TABLE_BONUS_88",
+    "coins": 230,
+    "active": true
+  },
+  {
+    "codeId": "GRID_DROP_89",
+    "code": "GRID_DROP_89",
+    "coins": 62,
+    "active": true
+  },
+  {
+    "codeId": "SHEET_TOKEN_90",
+    "code": "SHEET_TOKEN_90",
+    "coins": 235,
+    "active": true
+  },
+  {
+    "codeId": "MENU_REWARD_91",
+    "code": "MENU_REWARD_91",
+    "coins": 32,
+    "active": true
+  },
+  {
+    "codeId": "DRAWER_BOX_92",
+    "code": "DRAWER_BOX_92",
+    "coins": 240,
+    "active": true
+  },
+  {
+    "codeId": "NAV_GIFT_93",
+    "code": "NAV_GIFT_93",
+    "coins": 108,
+    "active": true
+  },
+  {
+    "codeId": "TABS_CODE_94",
+    "code": "TABS_CODE_94",
+    "coins": 245,
+    "active": true
+  },
+  {
+    "codeId": "PILL_BONUS_95",
+    "code": "PILL_BONUS_95",
+    "coins": 67,
+    "active": true
+  },
+  {
+    "codeId": "STEPPER_DROP_96",
+    "code": "STEPPER_DROP_96",
+    "coins": 250,
+    "active": true
+  },
+  {
+    "codeId": "SLIDER_TOKEN_97",
+    "code": "SLIDER_TOKEN_97",
+    "coins": 37,
+    "active": true
+  },
+  {
+    "codeId": "SWITCH_REWARD_98",
+    "code": "SWITCH_REWARD_98",
+    "coins": 255,
+    "active": true
+  },
+  {
+    "codeId": "TOGGLE_BOX_99",
+    "code": "TOGGLE_BOX_99",
+    "coins": 114,
+    "active": true
+  },
+  {
+    "codeId": "CHECK_GIFT_100",
+    "code": "CHECK_GIFT_100",
+    "coins": 260,
+    "active": true
+  },
+  {
+    "codeId": "RADIO_CODE_101",
+    "code": "RADIO_CODE_101",
+    "coins": 71,
+    "active": true
+  },
+  {
+    "codeId": "INPUT_BONUS_102",
+    "code": "INPUT_BONUS_102",
+    "coins": 265,
+    "active": true
+  },
+  {
+    "codeId": "FORM_DROP_103",
+    "code": "FORM_DROP_103",
+    "coins": 118,
+    "active": true
+  },
+  {
+    "codeId": "BUTTON_TOKEN_104",
+    "code": "BUTTON_TOKEN_104",
+    "coins": 270,
+    "active": true
+  },
+  {
+    "codeId": "ICON_REWARD_105",
+    "code": "ICON_REWARD_105",
+    "coins": 76,
+    "active": true
+  },
+  {
+    "codeId": "AVATAR_BOX_106",
+    "code": "AVATAR_BOX_106",
+    "coins": 275,
+    "active": true
+  },
+  {
+    "codeId": "IMAGE_GIFT_107",
+    "code": "IMAGE_GIFT_107",
+    "coins": 43,
+    "active": true
+  },
+  {
+    "codeId": "VIDEO_CODE_108",
+    "code": "VIDEO_CODE_108",
+    "coins": 280,
+    "active": true
+  },
+  {
+    "codeId": "AUDIO_BONUS_109",
+    "code": "AUDIO_BONUS_109",
+    "coins": 124,
+    "active": true
+  },
+  {
+    "codeId": "MEDIA_DROP_110",
+    "code": "MEDIA_DROP_110",
+    "coins": 285,
+    "active": true
+  },
+  {
+    "codeId": "PLAYER_TOKEN_111",
+    "code": "PLAYER_TOKEN_111",
+    "coins": 81,
+    "active": true
+  },
+  {
+    "codeId": "STREAM_REWARD_112",
+    "code": "STREAM_REWARD_112",
+    "coins": 290,
+    "active": true
+  },
+  {
+    "codeId": "CHAT_BOX_113",
+    "code": "CHAT_BOX_113",
+    "coins": 129,
+    "active": true
+  },
+  {
+    "codeId": "ROOM_GIFT_114",
+    "code": "ROOM_GIFT_114",
+    "coins": 295,
+    "active": true
+  },
+  {
+    "codeId": "JOIN_CODE_115",
+    "code": "JOIN_CODE_115",
+    "coins": 86,
+    "active": true
+  },
+  {
+    "codeId": "LEAVE_BONUS_116",
+    "code": "LEAVE_BONUS_116",
+    "coins": 300,
+    "active": true
+  },
+  {
+    "codeId": "USERS_DROP_117",
+    "code": "USERS_DROP_117",
+    "coins": 49,
+    "active": true
+  },
+  {
+    "codeId": "ADMIN_TOKEN_118",
+    "code": "ADMIN_TOKEN_118",
+    "coins": 305,
+    "active": true
+  },
+  {
+    "codeId": "MOD_REWARD_119",
+    "code": "MOD_REWARD_119",
+    "coins": 134,
+    "active": true
+  },
+  {
+    "codeId": "BAN_BOX_120",
+    "code": "BAN_BOX_120",
+    "coins": 310,
+    "active": true
+  },
+  {
+    "codeId": "KICK_GIFT_121",
+    "code": "KICK_GIFT_121",
+    "coins": 91,
+    "active": true
+  },
+  {
+    "codeId": "MUTE_CODE_122",
+    "code": "MUTE_CODE_122",
+    "coins": 315,
+    "active": true
+  },
+  {
+    "codeId": "WARN_BONUS_123",
+    "code": "WARN_BONUS_123",
+    "coins": 139,
+    "active": true
+  },
+  {
+    "codeId": "LOG_DROP_124",
+    "code": "LOG_DROP_124",
+    "coins": 320,
+    "active": true
+  },
+  {
+    "codeId": "AUDIT_TOKEN_125",
+    "code": "AUDIT_TOKEN_125",
+    "coins": 54,
+    "active": true
+  },
+  {
+    "codeId": "TRACE_REWARD_126",
+    "code": "TRACE_REWARD_126",
+    "coins": 325,
+    "active": true
+  },
+  {
+    "codeId": "DEBUG_BOX_127",
+    "code": "DEBUG_BOX_127",
+    "coins": 144,
+    "active": true
+  },
+  {
+    "codeId": "TEST_GIFT_128",
+    "code": "TEST_GIFT_128",
+    "coins": 330,
+    "active": true
+  },
+  {
+    "codeId": "MOCK_CODE_129",
+    "code": "MOCK_CODE_129",
+    "coins": 97,
+    "active": true
+  },
+  {
+    "codeId": "STUB_BONUS_130",
+    "code": "STUB_BONUS_130",
+    "coins": 335,
+    "active": true
+  },
+  {
+    "codeId": "SPEC_DROP_131",
+    "code": "SPEC_DROP_131",
+    "coins": 63,
+    "active": true
+  },
+  {
+    "codeId": "ASSERT_TOKEN_132",
+    "code": "ASSERT_TOKEN_132",
+    "coins": 340,
+    "active": true
+  },
+  {
+    "codeId": "CHECK_REWARD_133",
+    "code": "CHECK_REWARD_133",
+    "coins": 149,
+    "active": true
+  },
+  {
+    "codeId": "PASS_BOX_134",
+    "code": "PASS_BOX_134",
+    "coins": 345,
+    "active": true
+  },
+  {
+    "codeId": "FAIL_GIFT_135",
+    "code": "FAIL_GIFT_135",
+    "coins": 102,
+    "active": true
+  },
+  {
+    "codeId": "ERROR_CODE_136",
+    "code": "ERROR_CODE_136",
+    "coins": 350,
+    "active": true
+  },
+  {
+    "codeId": "CATCH_BONUS_137",
+    "code": "CATCH_BONUS_137",
+    "coins": 154,
+    "active": true
+  },
+  {
+    "codeId": "THROW_DROP_138",
+    "code": "THROW_DROP_138",
+    "coins": 355,
+    "active": true
+  },
+  {
+    "codeId": "TRY_TOKEN_139",
+    "code": "TRY_TOKEN_139",
+    "coins": 66,
+    "active": true
+  },
+  {
+    "codeId": "FINALLY_140",
+    "code": "FINALLY_140",
+    "coins": 360,
+    "active": true
+  },
+  {
+    "codeId": "ASYNC_REWARD_141",
+    "code": "ASYNC_REWARD_141",
+    "coins": 159,
+    "active": true
+  },
+  {
+    "codeId": "AWAIT_BOX_142",
+    "code": "AWAIT_BOX_142",
+    "coins": 365,
+    "active": true
+  },
+  {
+    "codeId": "PROMISE_143",
+    "code": "PROMISE_143",
+    "coins": 109,
+    "active": true
+  },
+  {
+    "codeId": "RESOLVE_144",
+    "code": "RESOLVE_144",
+    "coins": 370,
+    "active": true
+  },
+  {
+    "codeId": "REJECT_145",
+    "code": "REJECT_145",
+    "coins": 73,
+    "active": true
+  },
+  {
+    "codeId": "THREAD_146",
+    "code": "THREAD_146",
+    "coins": 375,
+    "active": true
+  },
+  {
+    "codeId": "WORKER_147",
+    "code": "WORKER_147",
+    "coins": 164,
+    "active": true
+  },
+  {
+    "codeId": "POOL_148",
+    "code": "POOL_148",
+    "coins": 380,
+    "active": true
+  },
+  {
+    "codeId": "QUEUE_149",
+    "code": "QUEUE_149",
+    "coins": 115,
+    "active": true
+  },
+  {
+    "codeId": "STACK_150",
+    "code": "STACK_150",
+    "coins": 385,
+    "active": true
+  },
+  {
+    "codeId": "HEAP_151",
+    "code": "HEAP_151",
+    "coins": 169,
+    "active": true
+  },
+  {
+    "codeId": "BUFFER_152",
+    "code": "BUFFER_152",
+    "coins": 390,
+    "active": true
+  },
+  {
+    "codeId": "CACHE_153",
+    "code": "CACHE_153",
+    "coins": 78,
+    "active": true
+  },
+  {
+    "codeId": "MEMORY_154",
+    "code": "MEMORY_154",
+    "coins": 395,
+    "active": true
+  },
+  {
+    "codeId": "STORAGE_155",
+    "code": "STORAGE_155",
+    "coins": 174,
+    "active": true
+  },
+  {
+    "codeId": "COOKIE_156",
+    "code": "COOKIE_156",
+    "coins": 400,
+    "active": true
+  },
+  {
+    "codeId": "SESSION_157",
+    "code": "SESSION_157",
+    "coins": 121,
+    "active": true
+  },
+  {
+    "codeId": "LOCAL_158",
+    "code": "LOCAL_158",
+    "coins": 405,
+    "active": true
+  },
+  {
+    "codeId": "REMOTE_159",
+    "code": "REMOTE_159",
+    "coins": 84,
+    "active": true
+  },
+  {
+    "codeId": "CLOUD_160",
+    "code": "CLOUD_160",
+    "coins": 410,
+    "active": true
+  },
+  {
+    "codeId": "HOST_161",
+    "code": "HOST_161",
+    "coins": 179,
+    "active": true
+  },
+  {
+    "codeId": "SERVER_162",
+    "code": "SERVER_162",
+    "coins": 415,
+    "active": true
+  },
+  {
+    "codeId": "CLIENT_163",
+    "code": "CLIENT_163",
+    "coins": 127,
+    "active": true
+  },
+  {
+    "codeId": "PORT_164",
+    "code": "PORT_164",
+    "coins": 420,
+    "active": true
+  },
+  {
+    "codeId": "SOCKET_165",
+    "code": "SOCKET_165",
+    "coins": 89,
+    "active": true
+  },
+  {
+    "codeId": "PACKET_166",
+    "code": "PACKET_166",
+    "coins": 425,
+    "active": true
+  },
+  {
+    "codeId": "ROUTER_167",
+    "code": "ROUTER_167",
+    "coins": 184,
+    "active": true
+  },
+  {
+    "codeId": "SWITCH_168",
+    "code": "SWITCH_168",
+    "coins": 430,
+    "active": true
+  },
+  {
+    "codeId": "GATEWAY_169",
+    "code": "GATEWAY_169",
+    "coins": 133,
+    "active": true
+  },
+  {
+    "codeId": "PROXY_170",
+    "code": "PROXY_170",
+    "coins": 435,
+    "active": true
+  },
+  {
+    "codeId": "FIREWALL_171",
+    "code": "FIREWALL_171",
+    "coins": 93,
+    "active": true
+  },
+  {
+    "codeId": "TUNNEL_172",
+    "code": "TUNNEL_172",
+    "coins": 440,
+    "active": true
+  },
+  {
+    "codeId": "VPN_173",
+    "code": "VPN_173",
+    "coins": 189,
+    "active": true
+  },
+  {
+    "codeId": "SSH_174",
+    "code": "SSH_174",
+    "coins": 445,
+    "active": true
+  },
+  {
+    "codeId": "HTTPS_175",
+    "code": "HTTPS_175",
+    "coins": 138,
+    "active": true
+  },
+  {
+    "codeId": "SSL_176",
+    "code": "SSL_176",
+    "coins": 450,
+    "active": true
+  },
+  {
+    "codeId": "TLS_177",
+    "code": "TLS_177",
+    "coins": 98,
+    "active": true
+  },
+  {
+    "codeId": "CERT_178",
+    "code": "CERT_178",
+    "coins": 455,
+    "active": true
+  },
+  {
+    "codeId": "HASH_179",
+    "code": "HASH_179",
+    "coins": 194,
+    "active": true
+  },
+  {
+    "codeId": "SALT_180",
+    "code": "SALT_180",
+    "coins": 460,
+    "active": true
+  },
+  {
+    "codeId": "TOKEN_181",
+    "code": "TOKEN_181",
+    "coins": 143,
+    "active": true
+  },
+  {
+    "codeId": "AUTH_182",
+    "code": "AUTH_182",
+    "coins": 465,
+    "active": true
+  },
+  {
+    "codeId": "LOGIN_183",
+    "code": "LOGIN_183",
+    "coins": 103,
+    "active": true
+  },
+  {
+    "codeId": "LOGOUT_184",
+    "code": "LOGOUT_184",
+    "coins": 470,
+    "active": true
+  },
+  {
+    "codeId": "SIGNUP_185",
+    "code": "SIGNUP_185",
+    "coins": 199,
+    "active": true
+  },
+  {
+    "codeId": "PROFILE_186",
+    "code": "PROFILE_186",
+    "coins": 475,
+    "active": true
+  },
+  {
+    "codeId": "ACCOUNT_187",
+    "code": "ACCOUNT_187",
+    "coins": 147,
+    "active": true
+  },
+  {
+    "codeId": "SETTINGS_188",
+    "code": "SETTINGS_188",
+    "coins": 480,
+    "active": true
+  },
+  {
+    "codeId": "CONFIG_189",
+    "code": "CONFIG_189",
+    "coins": 107,
+    "active": true
+  },
+  {
+    "codeId": "PREF_190",
+    "code": "PREF_190",
+    "coins": 485,
+    "active": true
+  },
+  {
+    "codeId": "OPTION_191",
+    "code": "OPTION_191",
+    "coins": 204,
+    "active": true
+  },
+  {
+    "codeId": "VALUE_192",
+    "code": "VALUE_192",
+    "coins": 490,
+    "active": true
+  },
+  {
+    "codeId": "KEY_193",
+    "code": "KEY_193",
+    "coins": 152,
+    "active": true
+  },
+  {
+    "codeId": "SECRET_194",
+    "code": "SECRET_194",
+    "coins": 495,
+    "active": true
+  },
+  {
+    "codeId": "ULTRA_195",
+    "code": "ULTRA_195",
+    "coins": 500,
+    "active": true
+  },
+  {
+    "codeId": "MAX_196",
+    "code": "MAX_196",
+    "coins": 112,
+    "active": true
+  },
+  {
+    "codeId": "MIN_197",
+    "code": "MIN_197",
+    "coins": 209,
+    "active": true
+  },
+  {
+    "codeId": "SUM_198",
+    "code": "SUM_198",
+    "coins": 156,
+    "active": true
+  },
+  {
+    "codeId": "DIFF_199",
+    "code": "DIFF_199",
+    "coins": 420,
+    "active": true
+  },
+  {
+    "codeId": "TOTAL_200",
+    "code": "TOTAL_200",
+    "coins": 310,
+    "active": true
+  },
+  {
+    "codeId": "ALPHA_ONE",
+    "code": "ALPHA_ONE",
+    "coins": 25,
+    "active": true
+  },
+  {
+    "codeId": "BETA_TWO",
+    "code": "BETA_TWO",
+    "coins": 75,
+    "active": true
+  },
+  {
+    "codeId": "GAMMA_THREE",
+    "code": "GAMMA_THREE",
+    "coins": 150,
+    "active": true
+  },
+  {
+    "codeId": "DELTA_FOUR",
+    "code": "DELTA_FOUR",
+    "coins": 225,
+    "active": true
+  },
+  {
+    "codeId": "EPSILON_FIVE",
+    "code": "EPSILON_FIVE",
+    "coins": 300,
+    "active": true
+  },
+  {
+    "codeId": "ZETA_SIX",
+    "code": "ZETA_SIX",
+    "coins": 375,
+    "active": true
+  },
+  {
+    "codeId": "ETA_SEVEN",
+    "code": "ETA_SEVEN",
+    "coins": 450,
+    "active": true
+  },
+  {
+    "codeId": "THETA_EIGHT",
+    "code": "THETA_EIGHT",
+    "coins": 10,
+    "active": true
+  },
+  {
+    "codeId": "IOTA_NINE",
+    "code": "IOTA_NINE",
+    "coins": 60,
+    "active": true
+  },
+  {
+    "codeId": "KAPPA_TEN",
+    "code": "KAPPA_TEN",
+    "coins": 120,
+    "active": true
+  },
+  {
+    "codeId": "LAMBDA_ELE",
+    "code": "LAMBDA_ELE",
+    "coins": 180,
+    "active": true
+  },
+  {
+    "codeId": "MU_TWELVE",
+    "code": "MU_TWELVE",
+    "coins": 240,
+    "active": true
+  },
+  {
+    "codeId": "NU_THIRTEEN",
+    "code": "NU_THIRTEEN",
+    "coins": 320,
+    "active": true
+  },
+  {
+    "codeId": "XI_FOURTEEN",
+    "code": "XI_FOURTEEN",
+    "coins": 390,
+    "active": true
+  },
+  {
+    "codeId": "OMICRON_15",
+    "code": "OMICRON_15",
+    "coins": 480,
+    "active": true
+  },
+  {
+    "codeId": "PI_SIXTEEN",
+    "code": "PI_SIXTEEN",
+    "coins": 45,
+    "active": true
+  },
+  {
+    "codeId": "RHO_SEVENT",
+    "code": "RHO_SEVENT",
+    "coins": 95,
+    "active": true
+  },
+  {
+    "codeId": "SIGMA_EIGHT",
+    "code": "SIGMA_EIGHT",
+    "coins": 165,
+    "active": true
+  },
+  {
+    "codeId": "TAU_NINETE",
+    "code": "TAU_NINETE",
+    "coins": 235,
+    "active": true
+  },
+  {
+    "codeId": "UPSILON_20",
+    "code": "UPSILON_20",
+    "coins": 295,
+    "active": true
+  },
+  {
+    "codeId": "PHI_TWENTY1",
+    "code": "PHI_TWENTY1",
+    "coins": 365,
+    "active": true
+  },
+  {
+    "codeId": "CHI_TWENTY2",
+    "code": "CHI_TWENTY2",
+    "coins": 435,
+    "active": true
+  },
+  {
+    "codeId": "PSI_TWENTY3",
+    "code": "PSI_TWENTY3",
+    "coins": 15,
+    "active": true
+  },
+  {
+    "codeId": "OMEGA_24",
+    "code": "OMEGA_24",
+    "coins": 85,
+    "active": true
+  },
+  {
+    "codeId": "SOLAR_WIND",
+    "code": "SOLAR_WIND",
+    "coins": 140,
+    "active": true
+  },
+  {
+    "codeId": "LUNAR_TIDE",
+    "code": "LUNAR_TIDE",
+    "coins": 210,
+    "active": true
+  },
+  {
+    "codeId": "STELLAR_CORE",
+    "code": "STELLAR_CORE",
+    "coins": 280,
+    "active": true
+  },
+  {
+    "codeId": "COSMIC_RAY",
+    "code": "COSMIC_RAY",
+    "coins": 350,
+    "active": true
+  },
+  {
+    "codeId": "PULSAR_BEAM",
+    "code": "PULSAR_BEAM",
+    "coins": 410,
+    "active": true
+  },
+  {
+    "codeId": "QUASAR_GLOW",
+    "code": "QUASAR_GLOW",
+    "coins": 490,
+    "active": true
+  },
+  {
+    "codeId": "NEBULA_DUST",
+    "code": "NEBULA_DUST",
+    "coins": 35,
+    "active": true
+  },
+  {
+    "codeId": "SUPERNOVA_X",
+    "code": "SUPERNOVA_X",
+    "coins": 110,
+    "active": true
+  },
+  {
+    "codeId": "BLACK_HOLE",
+    "code": "BLACK_HOLE",
+    "coins": 195,
+    "active": true
+  },
+  {
+    "codeId": "WORMHOLE_Z",
+    "code": "WORMHOLE_Z",
+    "coins": 260,
+    "active": true
+  },
+  {
+    "codeId": "WARP_DRIVE",
+    "code": "WARP_DRIVE",
+    "coins": 330,
+    "active": true
+  },
+  {
+    "codeId": "LIGHT_SPEED",
+    "code": "LIGHT_SPEED",
+    "coins": 395,
+    "active": true
+  },
+  {
+    "codeId": "HYPER_SPACE",
+    "code": "HYPER_SPACE",
+    "coins": 470,
+    "active": true
+  },
+  {
+    "codeId": "QUANTUM_LEAP",
+    "code": "QUANTUM_LEAP",
+    "coins": 55,
+    "active": true
+  },
+  {
+    "codeId": "NANO_BOT",
+    "code": "NANO_BOT",
+    "coins": 125,
+    "active": true
+  },
+  {
+    "codeId": "CYBER_NET",
+    "code": "CYBER_NET",
+    "coins": 200,
+    "active": true
+  },
+  {
+    "codeId": "MECHA_CORE",
+    "code": "MECHA_CORE",
+    "coins": 275,
+    "active": true
+  },
+  {
+    "codeId": "ROBOT_ARM",
+    "code": "ROBOT_ARM",
+    "coins": 340,
+    "active": true
+  },
+  {
+    "codeId": "DRONE_FLY",
+    "code": "DRONE_FLY",
+    "coins": 415,
+    "active": true
+  },
+  {
+    "codeId": "AI_ENGINE",
+    "code": "AI_ENGINE",
+    "coins": 485,
+    "active": true
+  },
+  {
+    "codeId": "NEURAL_NET",
+    "code": "NEURAL_NET",
+    "coins": 20,
+    "active": true
+  },
+  {
+    "codeId": "DEEP_LEARN",
+    "code": "DEEP_LEARN",
+    "coins": 90,
+    "active": true
+  },
+  {
+    "codeId": "MACHINE_X",
+    "code": "MACHINE_X",
+    "coins": 160,
+    "active": true
+  },
+  {
+    "codeId": "SYNTH_WAVE",
+    "code": "SYNTH_WAVE",
+    "coins": 225,
+    "active": true
+  },
+  {
+    "codeId": "RETRO_GRID",
+    "code": "RETRO_GRID",
+    "coins": 315,
+    "active": true
+  },
+  {
+    "codeId": "ARCADE_HIT",
+    "code": "ARCADE_HIT",
+    "coins": 380,
+    "active": true
+  },
+  {
+    "codeId": "PIXEL_ART",
+    "code": "PIXEL_ART",
+    "coins": 445,
+    "active": true
+  },
+  {
+    "codeId": "VECTOR_PRO",
+    "code": "VECTOR_PRO",
+    "coins": 40,
+    "active": true
+  },
+  {
+    "codeId": "POLYGON_3D",
+    "code": "POLYGON_3D",
+    "coins": 100,
+    "active": true
+  },
+  {
+    "codeId": "RENDER_PASS",
+    "code": "RENDER_PASS",
+    "coins": 170,
+    "active": true
+  },
+  {
+    "codeId": "SHADER_FX",
+    "code": "SHADER_FX",
+    "coins": 245,
+    "active": true
+  },
+  {
+    "codeId": "TEXTURE_MAP",
+    "code": "TEXTURE_MAP",
+    "coins": 305,
+    "active": true
+  },
+  {
+    "codeId": "LIGHT_MAP",
+    "code": "LIGHT_MAP",
+    "coins": 370,
+    "active": true
+  },
+  {
+    "codeId": "SHADOW_MAP",
+    "code": "SHADOW_MAP",
+    "coins": 460,
+    "active": true
+  },
+  {
+    "codeId": "BLOOM_GLOW",
+    "code": "BLOOM_GLOW",
+    "coins": 50,
+    "active": true
+  },
+  {
+    "codeId": "BLUR_EFFECT",
+    "code": "BLUR_EFFECT",
+    "coins": 135,
+    "active": true
+  },
+  {
+    "codeId": "FOCUS_LENS",
+    "code": "FOCUS_LENS",
+    "coins": 190,
+    "active": true
+  },
+  {
+    "codeId": "ZOOM_IN_X",
+    "code": "ZOOM_IN_X",
+    "coins": 265,
+    "active": true
+  },
+  {
+    "codeId": "WIDE_ANGLE",
+    "code": "WIDE_ANGLE",
+    "coins": 325,
+    "active": true
+  },
+  {
+    "codeId": "PANORAMA_HD",
+    "code": "PANORAMA_HD",
+    "coins": 400,
+    "active": true
+  },
+  {
+    "codeId": "ULTRA_HD_9K",
+    "code": "ULTRA_HD_9K",
     "coins": 500,
     "active": true
   }
