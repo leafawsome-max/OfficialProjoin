@@ -1,23 +1,9 @@
 [
   {
-    "platform": "ProJoin Official YouTube",
-    "url": "https://www.youtube.com/@YouTube",
-    "coins": 10,
-    "icon": "fa-star",
-    "phone": "923001234567"
-  },
-  {
     "platform": "ProJoin Official Snapchat",
     "url": "https://www.snapchat.com/add/officialprojoin?share_id=m6Q71A_t8H8&locale=en-US",
-    "coins": 8,
+    "coins": 10,
     "icon": "fa-shield-halved",
     "phone": "923009876543"
-  },
-  {
-    "platform": "ProJoin Instagram Page",
-    "url": "https://instagram.com",
-    "coins": 5,
-    "icon": "fa-bolt",
-    "phone": "923005554433"
   }
 ]
