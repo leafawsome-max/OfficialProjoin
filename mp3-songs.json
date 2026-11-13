@@ -1,14 +1,92 @@
 [
   {
-    "title": "Enamorado",
-    "artist": "King",
-    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/Enamorado%20_%20King_%20_nishantmuktaofficial_%20Zero%20Chill%20_%20Official%20Music%20Video(480P)_mp3.mp3",
+    "title": "Aaj Ki Raat",
+    "artist": "Madhubanti Bagchi, Divya Kumar & Sachin-Jigar",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/aajikiraat.mp3",
     "coins": 1
   },
   {
-    "title": "Over You",
-    "artist": "Hamza",
-    "url": "https://songs.koyal.pk/PKA062541840-Over-You_Hamza_Malik.mp3",
+    "title": "Azul",
+    "artist": "J Balvin",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/azul.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Blue Eyes",
+    "artist": "Yo Yo Honey Singh",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/blueeyes.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Ghana Kasoota",
+    "artist": "Raju Punjabi & Sapna Choudhary",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/ghanakasta.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Haseen",
+    "artist": "Talwiinder",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/haseen.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Jhol",
+    "artist": "Coke Studio Pakistan, Annural Khalid & Maanu",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/jhol.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Lal Pari",
+    "artist": "Kaka",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/lalpari.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Millionaire",
+    "artist": "Yo Yo Honey Singh",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/millionaire.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Muqabla",
+    "artist": "A.R. Rahman & Tanishk Bagchi",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/muqabila.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Non Stop Mashup",
+    "artist": "Various",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/nonstopmashup.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Pal Pal",
+    "artist": "Arijit Singh",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/palpal.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Pan India",
+    "artist": "Various",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/panindia.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Payal",
+    "artist": "Dev Negi & Yo Yo Honey Singh",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/payal.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Saiyaan Ji",
+    "artist": "Yo Yo Honey Singh & Neha Kakkar",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/saiyaanji.mp3",
+    "coins": 1
+  },
+  {
+    "title": "Tamma Tamma Again",
+    "artist": "Bappi Lahiri, Badshah & Neha Kakkar",
+    "url": "https://raw.githubusercontent.com/leafawsome-max/Max-Leaf/refs/heads/main/mp3/tammatammaagain.mp3",
     "coins": 1
   }
 ]
