@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "timeEnabled": true,
+  "shrinkTargetUrl": "https://shrinkearn.com/ref/LeafMan",
+  "startTime": "2026-11-19T00:00:00+05:00",
+  "endTime": "2026-11-25T23:59:59+05:00",
+  "rssApiKeys": [
+    "lnkebvalopn4dqbp44trw4ytopy98uymhn1celaj",
+    "DUSRI_API_KEY_YAHAN"
+  ],
+  "pinterestRssUrls": [
+    "https://www.pinterest.com/cecilianain1393/feed.rss",
+    "https://www.pinterest.com/actionpromote/feed.rss"
+  ]
+}
