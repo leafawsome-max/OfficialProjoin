@@ -27,5 +27,9 @@
     "https://www.pinterest.com/outfitttclubbb/feed.rss",
     "https://www.pinterest.com/alicedelish07/feed.rss"
   ],
-  "rssApiKey": "lnkebvalopn4dqbp44trw4ytopy98uymhn1celaj"
+  "rssApiKeys": [
+    "lnkebvalopn4dqbp44trw4ytopy98uymhn1celaj",
+    "DUSRI_API_KEY_YAHAN",
+    "TEESRI_API_KEY_YAHAN"
+  ]
 }
