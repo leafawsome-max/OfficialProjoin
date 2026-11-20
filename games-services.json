@@ -1,0 +1,36 @@
+{
+  "service_title": "ProJoin All Games Service",
+  "default_maintenance_message": "Service Down",
+  "games": {
+    "tictactoe": {
+      "game_name": "TicTacToe",
+      "service_enabled": true,
+      "maintenance_message": "Service Down"
+    },
+    "prism_shooter": {
+      "game_name": "Prism Shooter",
+      "service_enabled": true,
+      "maintenance_message": "Service Down"
+    },
+    "aero_fighter": {
+      "game_name": "Aero Fighter",
+      "service_enabled": true,
+      "maintenance_message": "Service Down"
+    },
+    "crystal_breaker": {
+      "game_name": "Crystal Breaker",
+      "service_enabled": false,
+      "maintenance_message": "Service Down"
+    },
+    "ocean_island": {
+      "game_name": "Ocean Island",
+      "service_enabled": false,
+      "maintenance_message": "Service Down"
+    },
+    "neon_drift": {
+      "game_name": "Neon Drift",
+      "service_enabled": false,
+      "maintenance_message": "Service Down"
+    }
+  }
+}
