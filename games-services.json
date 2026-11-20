@@ -14,7 +14,7 @@
     },
     "aero_fighter": {
       "game_name": "Aero Fighter",
-      "service_enabled": false,
+      "service_enabled": true,
       "maintenance_message": "Service Down"
     },
     "crystal_breaker": {
