@@ -21,6 +21,11 @@
       "game_name": "Deep Reef Angler",
       "service_enabled": true,
       "maintenance_message": "Service Down"
+    },
+    "neon_leap": {
+      "game_name": "Neon Leap",
+      "service_enabled": true,
+      "maintenance_message": "Service Down"
     }
   }
 }
