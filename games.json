@@ -1,30 +1,30 @@
 [
   {
-    "name": "Factorio",
-    "genre": "Machine",
-    "image": "https://dl.apkawards.com/moda/dl41/games/Factorio/img/Factorio.png",
-    "downloadUrl": "https://gplinks.co/93H1pm",
-    "coins": 25
+    "name": "Deep Fishing",
+    "genre": "Fish",
+    "image": "https://i.ibb.co/tM4CRJ4g/file-00000000bbfc82089f483c5bbf448f7a.png",
+    "downloadUrl": "https://raw.githubusercontent.com/leafawsome-max/OfficialProjoin/refs/heads/main/Games/Deep%20Fishing.apk",
+    "coins": 0
   },
   {
-    "name": "Hexasort",
-    "genre": "Puzzle Platformer",
-    "image": "https://dl.apkawards.com/moda/dl34/games/com.gamebrain.hexasort/img/com.gamebrain.hexasort.png",
-    "downloadUrl": "https://gplinks.co/7NgNrTQt",
-    "coins": 15
-  },
-  {
-    "name": "Screw Jam Nuts & Bolts",
+    "name": "Prism Bubble Shooter",
     "genre": "Puzzle",
-    "image": "https://dl.apkawards.com/moda/dl41/games/com.ig.screw.jam.nuts.bolts/img/com.ig.screw.jam.nuts.bolts.png",
-    "downloadUrl": "https://gplinks.co/XGzOcH1",
-    "coins": 15
+    "image": "https://i.ibb.co/wrwXPsHT/1000114268.png",
+    "downloadUrl": "https://raw.githubusercontent.com/leafawsome-max/OfficialProjoin/refs/heads/main/Games/Prism%20Shooter.apk",
+    "coins": 0
   },
   {
-    "name": "Blackout Pop",
-    "genre": "Casual",
-    "image": "https://image.winudf.com/v2/image1/Y29tLnRlbmNlbnQuaWdfaWNvbl8xNzg4ODY0Nzg1XzA3Mw/icon.webp?w=280&fakeurl=1&type=.webp",
-    "downloadUrl": "https://play.google.com/store/apps/details?id=com.blackout.pop",
-    "coins": 15
+    "name": "Aero Fighter",
+    "genre": "Shooting",
+    "image": "https://i.ibb.co/DPZY73hw/1000114269.png",
+    "downloadUrl": "https://raw.githubusercontent.com/leafawsome-max/OfficialProjoin/refs/heads/main/Games/Aero%20Fighter.apk",
+    "coins": 0
+  },
+  {
+    "name": "Platform Jumper",
+    "genre": "Jumping",
+    "image": "https://i.ibb.co/hFZg9rZY/1000114270.png",
+    "downloadUrl": "https://raw.githubusercontent.com/leafawsome-max/OfficialProjoin/refs/heads/main/Games/Platform%20Jumper.apk",
+    "coins": 0
   }
 ]
