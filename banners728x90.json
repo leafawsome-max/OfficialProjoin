@@ -1,0 +1,19 @@
+{
+  "banners": [
+    {
+      "gifUrl": "https://example.com/ads/banner1_728x90.gif",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Offer 1 - Earn Daily"
+    },
+    {
+      "gifUrl": "https://example.com/ads/banner2_728x90.gif",
+      "targetUrl": "https://your-sponsor-link.com",
+      "title": "Offer 2 - VIP Bonus"
+    },
+    {
+      "gifUrl": "file:///android_asset/shrink/728x90.gif",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Local Fallback Banner"
+    }
+  ]
+}
