@@ -1,14 +1,204 @@
 {
   "banners": [
     {
-      "gifUrl": "https://example.com/ads/banner1_728x90.gif",
+      "gifUrl": "https://i.ibb.co/ZzPMdvyP/1000122352.png",
       "targetUrl": "https://shrinkearn.com/ref/LeafMan",
-      "title": "Offer 1 - Earn Daily"
+      "title": "Banner 1 - 1000122352"
     },
     {
-      "gifUrl": "https://example.com/ads/banner2_728x90.gif",
-      "targetUrl": "https://your-sponsor-link.com",
-      "title": "Offer 2 - VIP Bonus"
+      "gifUrl": "https://i.ibb.co/9kwZ0Dph/1000122348.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 2 - 1000122348"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/xqsfjXk7/1000122347.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 3 - 1000122347"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/tPkDbbLW/1000122346.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 4 - 1000122346"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/m5k9LrGT/1000122345.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 5 - 1000122345"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/2YCLL42H/1000122344.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 6 - 1000122344"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/ytXrkmy/1000122343.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 7 - 1000122343"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/q3CMXz9m/1000122342.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 8 - 1000122342"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/BHg1LtFf/1000122341.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 9 - 1000122341"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/qLsgnBqZ/1000122339.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 10 - 1000122339"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/wN7wYgmR/1000122338.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 11 - 1000122338"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/Gv0NwkTG/1000122334.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 12 - 1000122334"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/B2Xdg53B/1000122333.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 13 - 1000122333"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/WpzKPygS/1000122332.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 14 - 1000122332"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/mCKrtj59/1000122331.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 15 - 1000122331"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/8DMnq85C/1000122330.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 16 - 1000122330"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/sX6cdZC/1000122329.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 17 - 1000122329"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/gZSBB4hg/1000122321.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 18 - 1000122321"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/Q73drDs9/1000122318.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 19 - 1000122318"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/v4cNjx2w/1000122320.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 20 - 1000122320"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/dqs2dMW/1000122319.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 21 - 1000122319"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/Q7bYKDFY/1000122317.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 22 - 1000122317"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/DgpsRGHg/1000122316.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 23 - 1000122316"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/ymwBJB9W/1000122315.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 24 - 1000122315"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/mCCKhTKQ/1000122314.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 25 - 1000122314"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/jPd4fvXQ/1000122313.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 26 - 1000122313"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/7dVC9rKt/1000122312.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 27 - 1000122312"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/xt9mNFc2/1000122311.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 28 - 1000122311"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/Jjq3wZxF/1000122310.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 29 - 1000122310"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/YF0N4rJG/1000122309.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 30 - 1000122309"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/nNHgH5kG/1000122308.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 31 - 1000122308"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/hRHwM3fG/1000122307.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 32 - 1000122307"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/fs4y8jm/1000122306.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 33 - 1000122306"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/LhR0mZ60/1000122305.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 34 - 1000122305"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/YT7nGk5H/1000122300.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 35 - 1000122300"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/ccK3TZ3D/1000122299.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 36 - 1000122299"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/pB9BNXyw/1000122298.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 37 - 1000122298"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/CpStjqQ4/1000122297.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 38 - 1000122297"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/tpxPFQYt/1000122295.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 39 - 1000122295"
+    },
+    {
+      "gifUrl": "https://i.ibb.co/rK3DjS31/1000122294.png",
+      "targetUrl": "https://shrinkearn.com/ref/LeafMan",
+      "title": "Banner 40 - 1000122294"
     },
     {
       "gifUrl": "file:///android_asset/shrink/728x90.gif",
